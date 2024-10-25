@@ -1,77 +1,102 @@
 ---
-title: Goldydocs
+title: Mitwelten
 ---
 
-{{< blocks/cover title="Welcome to Goldydocs: A Docsy Example Project!" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
-  Download <i class="fab fa-github ms-2 "></i>
-</a>
-<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
-{{< blocks/link-down color="info" >}}
+
+<!-- New Section -->
+
+{{< blocks/cover title="MITWELTEN" image_anchor="center" height="full" color="transparent" >}}
+
+<div class="mx-auto">
+    <p></br></p>
+    <p></br></p>
+    <h3>
+        Interdisciplinary design research project funded by the Swiss National Science Foundation, 2020-2024
+    </h3>
+{{< blocks/link-down color="secondary" >}}
+</div>
+
 {{< /blocks/cover >}}
 
 
-{{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
 
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+<!-- New Section -->
+
+{{% blocks/lead color="teal" %}}
+
+# ANOTHER WORLD IS POSSIBLE
+----
+The aim of this research project is to contribute to the promotion of biodiversity in (peri-)urban recreational and nature reserves by means of an ***interdisciplinary design research*** approach that is expanded through cultural studies, grounded in natural science and potentiated through technology.
 {{% /blocks/lead %}}
 
 
-{{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
-The Goldydocs UI now shows chair size metrics by default.
 
-Please follow this space for updates!
-{{% /blocks/feature %}}
+<!-- New Section -->
 
+{{% blocks/lead color="primary" %}}
+# KEY QUESTION
+----
+How can media design interventions and infrastructures based on the Internet of Things contribute ecologically and culturally to the ***promotion of biodiversity*** in local ecosystems?
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributions workflow on **GitHub**. New users are always welcome!
-{{% /blocks/feature %}}
+<br>
+<br>
 
+<div class="col">
+{{< figure src="/images/mitwelten_logo.png" width="80%" >}}
+</div>
+{{% /blocks/lead %}}
 
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
-For announcement of latest features etc.
-{{% /blocks/feature %}}
+{{% blocks/lead color="info" %}}
+# DESIGN-INTERVENTIONEN
+----
+The design interventions aim to give plants and animals a voice, expand ecological knowledge and experience, create new forms of cross-species coexistence and thereby cultivate ecological values and behaviors. To this end, an _<a href="https://github.com/mitwelten">Internet of Things Toolkit</a>_ is being developed that serves as a media technology infrastructure for the design interventions.
 
-
-{{% /blocks/section %}}
-
-
-{{% blocks/section %}}
-This is the second section
-{.h1 .text-center}
-{{% /blocks/section %}}
+{{% /blocks/lead %}}
 
 
-{{% blocks/section type="row" %}}
+<!-- New Section -->
 
-{{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
-Get the Goldydocs app!
-{{% /blocks/feature %}}
+{{% blocks/lead color="yellow" %}}
+Collaborative research develops the ___ideal___ of experience-led and knowledge-based design of livable landscape architectures and sustainable everyday processes for all creatures in the form of media-ecological prototypes and infrastructures of ecological structural change.
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
-    url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls)
-contributions workflow on **GitHub**. New users are always welcome!
-{{% /blocks/feature %}}
-
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!"
-    url="https://twitter.com/GoHugoIO" %}}
-For announcement of latest features etc.
-{{% /blocks/feature %}}
-
-{{% /blocks/section %}}
+----
+→ human colonies and their environments become ***biodiverse MITWELTEN***
+<br>
+<br>
+<div class="col">
+{{< figure src="/images/mitwelten_logo.png" width="80%" >}}
+</div>
+{{% /blocks/lead %}}
 
 
-{{% blocks/section %}}
-This is the another section
-{.h1 .text-center}
-{{% /blocks/section %}}
+
+{{< blocks/section color="blue" >}}
+
+<div class="container">
+    <div class="row justify-content-evenly">
+        <div class="col-sm">
+            <h4>CONTEXT</h4>
+            <br>
+            <p>
+                Funding: Swiss National Science Foundation (SNSF)<br>
+                Project number: 197845<br>
+                Project start: 01.12.2020<br>
+                Project duration: 48 Monate
+            </p>
+            <p><a href="https://data.snf.ch/grants/grant/197845">SNF Portal</a></p>
+        </div>
+        <div class="col-sm">
+            <h4>CONTACT</h4>
+            <br>
+            <p>
+                FHNW Academy of Art and Design<br> 
+                Institute of Experimental Design and Media Cultures | IXDM<br>
+                Critical Media Lab | CML<br>
+                Freilager-Platz 1, 4002 Basel
+            </p>
+            <p>Email: <a href="mailto:mitwelten@fhnw.ch">mitwelten@fhnw.ch</a></p>
+        </div>
+    </div>
+
+{{< /blocks/section >}}
+
