@@ -1,6 +1,5 @@
 ---
-title: feldstudien
-linkTitle: FELDSTUDIEN
+title: "Feldstudien"
 menu: {main: {weight: 30}}
 ---
 
