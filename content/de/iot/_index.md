@@ -18,11 +18,27 @@ menu: {main: {weight: 20}}
 
 ----
 
-Basierend auf den Technologien des Internets der Dinge (IoT) wurde ein generisches IoT Toolkit für die Feld- und Designforschung entwickelt. Es besteht aus einem Netzwerk von Knotenpunkten, die aus Sensoren, Aktuatoren, Prozessoren und weiteren Komponenten aufgebaut sind. Die Sensoren erfassen Aktivitäten und Zustandsänderungen der Untersuchungsgebiete (z.B. Bild, Ton, Bewegung, Distanz, Temperatur, Feuchtigkeit) und Aktuatoren (z.B. Motoren, Lautsprecher, Lampen) wirken aktiv darauf ein. Energieversorgungseinheiten (z.B. Akkus, Solar-Panels) und Netzwerkmodule (z.B. LoRaWAN- und 4/5G-Mobilnetzwerke) dienen der Stromversorgung und Vernetzung. 
-Das IoT Toolkit wurde im Rahmen der gestalterischen Interventionen im Feld eingerichtet und fungierte so als medientechnologische Infrastruktur. Der Einsatz von Technologie erfolgte aber in kritischer Abgrenzung vom kommerziellen und technophilen ‘Smart’-Paradigma. Mit den Sensoren wurde die lokale Lebenswelt erfasst (Monitoring), die Daten mit der Software 'Explore' analysiert und im Atlas ‘Discover’ für die Öffentlichkeit präsentiert. Die Aktuatoren führten die ausgewerteten Messwerte in die physische Umgebung zurück und trugen so zur Gestaltung eines ‘Response-able Environment’ (statt ‘smart’ oder ‘responsive’) mit erweiterter Kommunikationsfähigkeit und Handlungsmacht bei.
+Basierend auf den Technologien des Internets der Dinge (IoT) wurde ein generisches <a href="/docs/MW_IOT_TOOLKIT.pdf" target="_blank">IoT Toolkit</a> für die Feld- und Designforschung entwickelt. Es besteht aus einem Netzwerk von Knotenpunkten, die aus Sensoren, Aktuatoren, Prozessoren und weiteren Komponenten aufgebaut sind. Die Sensoren erfassen Aktivitäten und Zustandsänderungen der Untersuchungsgebiete (z.B. Bild, Ton, Bewegung, Distanz, Temperatur, Feuchtigkeit) und Aktuatoren (z.B. Motoren, Lautsprecher, Lampen) wirken aktiv darauf ein. Energieversorgungseinheiten (z.B. Akkus, Solar-Panels) und Netzwerkmodule (z.B. LoRaWAN- und 4/5G-Mobilnetzwerke) dienen der Stromversorgung und Vernetzung. 
+Das IoT Toolkit wurde im Rahmen der gestalterischen Interventionen im Feld eingerichtet und fungierte so als medientechnologische Infrastruktur. Der Einsatz von Technologie erfolgte aber in kritischer Abgrenzung vom kommerziellen und technophilen ‘Smart’-Paradigma. Mit den Sensoren wurde die lokale Lebenswelt erfasst (Monitoring), die Daten mit der Software <a href="https://explore.mitwelten.org" target="_blank">'Explore'</a> analysiert und im Atlas <a href="https://discover.mitwelten.org/app/" target="_blank">'Discover'</a> für die Öffentlichkeit präsentiert. Die Aktuatoren führten die ausgewerteten Messwerte in die physische Umgebung zurück und trugen so zur Gestaltung eines ‘Response-able Environment’ (statt ‘smart’ oder ‘responsive’) mit erweiterter Kommunikationsfähigkeit und Handlungsmacht bei.
 
 </div>
 {{% /blocks/section  %}}
+
+
+
+<!-- New Section -->
+
+{{% blocks/section color=yellow %}}
+<div class="mx-auto" style="width: 90%">
+  <h1 class="text-center">Open IoT TOOLKIT</h1>
+
+----
+
+Für Entwicklung haben wir soweit möglich Open Software und Open Hardware verwendet oder mit einfachen, günstigen Komponenten gearbeitet. Damit die Geräte im Do-it-yourself-Verfahren zusammengebaut und von Laien genutzt werden können, wurden die Erkenntnisse und Anleitungen als Open Data behandelt und auf der Entwicklungsplattform Github (<a href="https://www.github.com/mitwelten" target="_blank">github.com/mitwelten</a>) dokumentiert.
+Zuerst entwickelten wir das generische IoT Toolkit und die entsprechende <a href="/docs/MW_Software_Environment.pdf" target="_blank">Softwareumgebung</a>, die für das Biodiversitätsmonitoring verwendet werden können. Im Rahmen interdisziplinärer Workshops wurden die Knotenpunkte produziert, um ihren Einsatz für Citizen Science zu überprüfen. Darauf aufbauend führten wir sensorbasierte Experimente in den Feldstudien durch, die die Erkennung von Leitarten oder -familien ermöglichten (Insekten und Vögel), um Rückschlüsse auf die ökologische Qualität der Biodiversität zu ziehen. Mithilfe der Sensoren und Aktuatoren führten wir Design-Interventionen durch, um die Forschungsergebnisse für die breite Öffentlichkeit greifbarer zu machen. Es wurden verschiedene beziehungsfördernde Medienformate gestaltet, mit denen direkt auf die Forschungsdatenbank zugegriffen werden konnte und partizipative Installationen im öffentlichen Raum aufgebaut.
+
+</div>
+{{% /blocks/section %}}
 
 
 
@@ -56,21 +72,6 @@ Das <a href="/docs/MW_Software_Environment.pdf" target="_blank">PDF Dokument</a>
 
 {{< /blocks/section >}}
 
-
-
-<!-- New Section -->
-
-{{% blocks/section color=yellow %}}
-<div class="mx-auto" style="width: 90%">
-  <h1 class="text-center">Open IoT TOOLKIT</h1>
-
-----
-
-Für Entwicklung haben wir soweit möglich Open Software und Open Hardware verwendet oder mit einfachen, günstigen Komponenten gearbeitet. Damit die Geräte im Do-it-yourself-Verfahren zusammengebaut und von Laien genutzt werden können, wurden die Erkenntnisse und Anleitungen als Open Data behandelt und auf der Entwicklungsplattform Github (github.com/mitwelten) dokumentiert.
-Zuerst entwickelten wir das generische IoT Toolkit und die entsprechende Softwareumgebung, die für das Biodiversitätsmonitoring verwendet werden können. Im Rahmen interdisziplinärer Workshops wurden die Knotenpunkte produziert, um ihren Einsatz für Citizen Science zu überprüfen. Darauf aufbauend führten wir sensorbasierte Experimente in den Feldstudien durch, die die Erkennung von Leitarten oder -familien ermöglichten (Insekten und Vögel), um Rückschlüsse auf die ökologische Qualität der Biodiversität zu ziehen. Mithilfe der Sensoren und Aktuatoren führten wir Design-Interventionen durch, um die Forschungsergebnisse für die breite Öffentlichkeit greifbarer zu machen. Es wurden verschiedene beziehungsfördernde Medienformate gestaltet, mit denen direkt auf die Forschungsdatenbank zugegriffen werden konnte und partizipative Installationen im öffentlichen Raum aufgebaut.
-
-</div>
-{{% /blocks/section %}}
 
 
 

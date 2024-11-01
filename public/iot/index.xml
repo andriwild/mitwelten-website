@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iot-toolkit on Mitwelten</title>
-    <link>https://example.docsy.dev/iot/</link>
+    <link>http://localhost:1313/mitwelten-preview/iot/</link>
     <description>Recent content in iot-toolkit on Mitwelten</description>
     <generator>Hugo</generator>
-    <language>de</language>
-    <atom:link href="https://example.docsy.dev/iot/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="http://localhost:1313/mitwelten-preview/iot/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

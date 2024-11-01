@@ -2,70 +2,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.docsy.dev/en/ansatz/</loc>
-    <lastmod>2024-10-25T13:55:30+02:00</lastmod>
+    <loc>http://localhost:1313/mitwelten-preview/approach/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mitwelten-preview/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.docsy.dev/ansatz/"
+                href="http://localhost:1313/mitwelten-preview/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.docsy.dev/en/ansatz/"
+                href="http://localhost:1313/mitwelten-preview/categories/"
                 />
   </url><url>
-    <loc>https://example.docsy.dev/en/categories/</loc>
+    <loc>http://localhost:1313/mitwelten-preview/interventions/communication_media/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mitwelten-preview/fieldstudies/dreispitz/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.docsy.dev/categories/"
+                href="http://localhost:1313/mitwelten-preview/de/fieldstudies/dreispitz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.docsy.dev/en/categories/"
+                href="http://localhost:1313/mitwelten-preview/fieldstudies/dreispitz/"
                 />
   </url><url>
-    <loc>https://example.docsy.dev/en/fieldstudies/</loc>
+    <loc>http://localhost:1313/mitwelten-preview/interventions/ecosystem/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mitwelten-preview/fieldstudies/</loc>
     <lastmod>2024-10-25T14:19:00+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/mitwelten-preview/de/fieldstudies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mitwelten-preview/fieldstudies/"
+                />
   </url><url>
-    <loc>https://example.docsy.dev/en/iot/</loc>
+    <loc>http://localhost:1313/mitwelten-preview/interventions/interspecies_platforms/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mitwelten-preview/interventions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mitwelten-preview/iot/</loc>
     <lastmod>2024-10-25T13:55:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.docsy.dev/iot/"
+                href="http://localhost:1313/mitwelten-preview/de/iot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.docsy.dev/en/iot/"
+                href="http://localhost:1313/mitwelten-preview/iot/"
                 />
   </url><url>
-    <loc>https://example.docsy.dev/en/</loc>
+    <loc>http://localhost:1313/mitwelten-preview/fieldstudies/meriangardens/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/mitwelten-preview/de/fieldstudies/meriangardens/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mitwelten-preview/fieldstudies/meriangardens/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mitwelten-preview/</loc>
     <lastmod>2024-10-25T13:55:30+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.docsy.dev/"
+                href="http://localhost:1313/mitwelten-preview/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.docsy.dev/en/"
+                href="http://localhost:1313/mitwelten-preview/"
                 />
   </url><url>
-    <loc>https://example.docsy.dev/en/tags/</loc>
+    <loc>http://localhost:1313/mitwelten-preview/interventions/participatory_installations/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mitwelten-preview/fieldstudies/reinacherheide/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.docsy.dev/tags/"
+                href="http://localhost:1313/mitwelten-preview/de/fieldstudies/reinacherheide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.docsy.dev/en/tags/"
+                href="http://localhost:1313/mitwelten-preview/fieldstudies/reinacherheide/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mitwelten-preview/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/mitwelten-preview/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mitwelten-preview/tags/"
                 />
   </url>
 </urlset>

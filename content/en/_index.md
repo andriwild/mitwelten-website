@@ -5,14 +5,14 @@ title: Mitwelten
 
 <!-- New Section -->
 
-{{< blocks/cover title="MITWELTEN" image_anchor="center" height="full" color="transparent" >}}
+{{< blocks/cover title="MITWELTEN" image_anchor="center" height="full" >}}
 
 <div class="mx-auto">
     <p></br></p>
     <p></br></p>
-    <h3>
-        Interdisciplinary design research project funded by the Swiss National Science Foundation, 2020-2024
-    </h3>
+    <h1>
+        Interdisciplinary design research project<br>funded by the Swiss National Science Foundation<br>2020-2024
+    </h1>
 {{< blocks/link-down color="secondary" >}}
 </div>
 
@@ -38,13 +38,11 @@ The aim of this research project is to contribute to the promotion of biodiversi
 ----
 How can media design interventions and infrastructures based on the Internet of Things contribute ecologically and culturally to the ***promotion of biodiversity*** in local ecosystems?
 
-<br>
-<br>
-
-<div class="col">
-{{< figure src="/images/mitwelten_logo.png" width="80%" >}}
-</div>
 {{% /blocks/lead %}}
+
+
+
+<!-- New Section -->
 
 {{% blocks/lead color="info" %}}
 # DESIGN-INTERVENTIONEN
@@ -52,6 +50,7 @@ How can media design interventions and infrastructures based on the Internet of 
 The design interventions aim to give plants and animals a voice, expand ecological knowledge and experience, create new forms of cross-species coexistence and thereby cultivate ecological values and behaviors. To this end, an _<a href="https://github.com/mitwelten">Internet of Things Toolkit</a>_ is being developed that serves as a media technology infrastructure for the design interventions.
 
 {{% /blocks/lead %}}
+
 
 
 <!-- New Section -->
@@ -64,7 +63,7 @@ Collaborative research develops the ___ideal___ of experience-led and knowledge-
 <br>
 <br>
 <div class="col">
-{{< figure src="/images/mitwelten_logo.png" width="80%" >}}
+{{< figure src="/images/logo/mitwelten_logo.png" width="80%" >}}
 </div>
 {{% /blocks/lead %}}
 
