@@ -56,7 +56,7 @@ Wie können medienökologische Infrastrukturen und Kommunikationsformate dazu be
 </h4>
 <br>
 
-{{< figure src="/images/mitwelten_logo.png" width="100%" >}}
+{{< figure src="/mitwelten-website/images/mitwelten_logo.png" width="100%" >}}
 </div>
 
 {{% /blocks/section %}}

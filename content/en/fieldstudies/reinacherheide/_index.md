@@ -54,7 +54,7 @@ In collaboration with the municipality of Reinach (Marc Bayard, biologist), the 
 How can media-ecological infrastructures and communication formats help to promote a more responsible approach to nature and cultivate a new value system?
 </h4>
 <br>
-{{< figure src="/images/logo/mitwelten_logo.png" width="100%" >}}
+{{< figure src="/mitwelten-website/images/logo/mitwelten_logo.png" width="100%" >}}
 </div>
 
 {{% /blocks/section %}}

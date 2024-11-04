@@ -63,7 +63,7 @@ Diese Feldstudie konzentriert sich auf die Entwicklung adaptiver, artenübergrei
 <br>
 
 
-{{< figure src="/images/mitwelten_logo.png" width="100%" >}}
+{{< figure src="/mitwelten-website/images/mitwelten_logo.png" width="100%" >}}
 </div>
 
 {{% /blocks/section %}}

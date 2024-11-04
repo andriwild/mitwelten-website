@@ -63,7 +63,7 @@ What scope for action arises from the media-ecological determination of the beha
 </h4>
 <br>
 
-{{< figure src="/images/logo/mitwelten_logo.png" width="100%" >}}
+{{< figure src="/mitwelten-website/images/logo/mitwelten_logo.png" width="100%" >}}
 </div>
 {{% /blocks/section %}}
 

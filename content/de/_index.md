@@ -40,7 +40,7 @@ Wie können mediale Design-Interventionen und Infrastrukturen auf Grundlage des 
 <br>
 <br>
 <div class="col">
-{{< figure src="/images/mitwelten_logo.png" width="80%" >}}
+{{< figure src="/mitwelten-website/images/mitwelten_logo.png" width="80%" >}}
 </div>
 {{% /blocks/lead %}}
 
@@ -68,7 +68,7 @@ Die gemeinschaftliche Forschung entwickelt das ___Ideal___ der erfahrungsgeleite
 <br>
 <br>
 <div class="col">
-{{< figure src="/images/mitwelten_logo.png" width="80%" >}}
+{{< figure src="/mitwelten-website/images/mitwelten_logo.png" width="80%" >}}
 </div>
 
 {{% /blocks/lead %}}

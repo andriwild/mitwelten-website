@@ -63,7 +63,7 @@ Collaborative research develops the ___ideal___ of experience-led and knowledge-
 <br>
 <br>
 <div class="col">
-{{< figure src="/images/logo/mitwelten_logo.png" width="80%" >}}
+{{< figure src="/mitwelten-website/images/logo/mitwelten_logo.png" width="80%" >}}
 </div>
 {{% /blocks/lead %}}
 

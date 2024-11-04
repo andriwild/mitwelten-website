@@ -22,7 +22,7 @@ As part of the Mitwelten research project, we developed a set of media formats f
 - Panorama: an interactive 3D image-based approach
 
 <br>
-{{< figure src="/images/mitwelten_logo.png" width="100%" >}}
+{{< figure src="/mitwelten-website/images/mitwelten_logo.png" width="100%" >}}
 </div>
 {{% /blocks/section %}}
 
@@ -36,7 +36,7 @@ As part of the Mitwelten research project, we developed a set of media formats f
 {{< cardpane >}}
   {{< card header="**Discover**" >}}
 <figure>
-    <img src="/images/discover_app.png" width="100%">
+    <img src="/mitwelten-website/images/discover_app.png" width="100%">
 	<figcaption><p style="font-size:11px; text-align:right;">Hardware-Design zweier Sensor-Knoten</p></figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ As a starting point, we decided on a map-based approach, where the data sets and
   {{< card header="**Walk App**" >}}
 
 <figure>
-    <img src="/images/walk_app.png" width="100%">
+    <img src="/mitwelten-website/images/walk_app.png" width="100%">
 	<figcaption><p style="font-size:11px; text-align:right;">Hardware-Design zweier Sensor-Knoten</p></figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ A more detailed description of the medium and the findings are presented in the 
 
   {{< card header="**Panorama**" >}}
 <figure>
-    <img src="/images/pano.png" width="100%">
+    <img src="/mitwelten-website/images/pano.png" width="100%">
 	<figcaption><p style="font-size:11px; text-align:right;">Hardware-Design zweier Sensor-Knoten</p></figcaption>
 </figure>
 
@@ -96,7 +96,7 @@ A more detailed description of the medium and the findings are presented in the 
 
   {{< card header="**Wild Cam TV**" >}}
 <figure>
-    <img src="/images/wildCamTV.jpg" width="100%">
+    <img src="/mitwelten-website/images/wildCamTV.jpg" width="100%">
 	<figcaption><p style="font-size:11px; text-align:right;">Hardware-Design zweier Sensor-Knoten</p></figcaption>
 </figure>
 

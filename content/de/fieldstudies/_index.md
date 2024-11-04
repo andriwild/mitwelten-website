@@ -43,21 +43,21 @@ In diesen drei (peri-)urbanen Lebensräumen müssen menschliche Bedürfnisse jew
   {{% blocks/iconlink icon="fa-map" url="/de/fieldstudies/meriangardens" url_text="FS1 MERIAN GÄRTEN" %}}
   <center>Basel/Münchenstein BL, 2021</center>
   <br>
-  {{< figure src="/images/merian.png" text="Merian Gärten" link="/de/fieldstudies/meriangardens" width="100%" >}}
+  {{< figure src="/mitwelten-website/images/merian.png" text="Merian Gärten" link="/de/fieldstudies/meriangardens" width="100%" >}}
   <center><a href="https://discover.mitwelten.org/app/?start=2020-01-08T11:59:43&end=2024-08-28T11:59:43&lat=47.53582777093257&lon=7.616186413196093&zoom=16.60514072279761&tags=FS1">Entdecke Feldstudie 3 in der Discover App</a></center>
   {{% /blocks/iconlink %}}
   
   {{% blocks/iconlink icon="fa-map" url="/de/fieldstudies/dreispitz" url_text="FS2 DREISPITZ AREAL" %}}
   <center>Basel/Münchenstein BL, 2022/23</center>
   <br>
-  {{< figure src="/images/dreispitz.png" text="Dreispitz Areal" link="/de/fieldstudies/dreispitz" width="100%" >}}
+  {{< figure src="/mitwelten-website/images/dreispitz.png" text="Dreispitz Areal" link="/de/fieldstudies/dreispitz" width="100%" >}}
   <center><a href="https://discover.mitwelten.org/app/?start=2020-01-08T11:59:43&end=2024-08-28T11:59:43&lat=47.52904923086514&lon=7.610367270830683&zoom=14.23254752794276&tags=FS2">Entdecke Feldstudie 2 in der Discover App</a></center>
   {{% /blocks/iconlink %}}
 
   {{% blocks/iconlink icon="fa-map" url="/de/fieldstudies/reinacherheide" url_text="FS3 REINACHER HEIDE" %}}
   <center>Reinach BL, 2022/23</center>
   <br>
-  {{< figure src="/images/reinach.png" text="Reinacher Heide" link="/de/fieldstudies/reinacherheide" width="100%" >}}
+  {{< figure src="/mitwelten-website/images/reinach.png" text="Reinacher Heide" link="/de/fieldstudies/reinacherheide" width="100%" >}}
   <center><a href="https://discover.mitwelten.org/app/?start=2020-01-08T11:59:43&end=2024-08-28T11:59:43&lat=47.49836360642701&lon=7.6086860341211935&zoom=15.76745247205724&tags=FS3">Entdecke Feldstudie 3 in der Discover App</a></center>
   {{% /blocks/iconlink %}}
 

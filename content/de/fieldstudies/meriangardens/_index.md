@@ -60,7 +60,7 @@ Die Feldstudie wurde in enger Zusammenarbeit mit den Merian Gärten durchgeführ
 </h4>
 <br>
 
-{{< figure src="/images/mitwelten_logo.png" width="100%" >}}
+{{< figure src="/mitwelten-website/images/mitwelten_logo.png" width="100%" >}}
 </div>
 
 {{% /blocks/section %}}
