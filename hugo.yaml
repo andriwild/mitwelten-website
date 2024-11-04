@@ -1,8 +1,7 @@
 baseURL: "https://andriwild.github.io/mitwelten-website/"
-relativeURLs: true
+#relativeURLs: true
 title: "Mitwelten"
-publishDir: docs
-# cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
+publishDir: docs # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
 # Language settings
 contentDir: content/en
