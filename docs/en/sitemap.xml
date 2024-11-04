@@ -2,124 +2,124 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andriwild.github.io/mitwelten-website/approach/</loc>
+    <loc>https://andriwild.github.io/approach/</loc>
     <lastmod>2024-11-01T15:44:10+01:00</lastmod>
   </url><url>
-    <loc>https://andriwild.github.io/mitwelten-website/categories/</loc>
+    <loc>https://andriwild.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://andriwild.github.io/mitwelten-website/de/categories/"
+                href="https://andriwild.github.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://andriwild.github.io/mitwelten-website/categories/"
+                href="https://andriwild.github.io/categories/"
                 />
   </url><url>
-    <loc>https://andriwild.github.io/mitwelten-website/interventions/communication_media/</loc>
+    <loc>https://andriwild.github.io/interventions/communication_media/</loc>
     <lastmod>2024-11-01T15:44:10+01:00</lastmod>
   </url><url>
-    <loc>https://andriwild.github.io/mitwelten-website/fieldstudies/dreispitz/</loc>
-    <lastmod>2024-11-01T15:44:10+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://andriwild.github.io/mitwelten-website/de/fieldstudies/dreispitz/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://andriwild.github.io/mitwelten-website/fieldstudies/dreispitz/"
-                />
-  </url><url>
-    <loc>https://andriwild.github.io/mitwelten-website/interventions/ecosystem/</loc>
-    <lastmod>2024-11-01T15:44:10+01:00</lastmod>
-  </url><url>
-    <loc>https://andriwild.github.io/mitwelten-website/fieldstudies/</loc>
+    <loc>https://andriwild.github.io/fieldstudies/dreispitz/</loc>
     <lastmod>2024-11-01T15:44:10+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://andriwild.github.io/mitwelten-website/de/fieldstudies/"
+                href="https://andriwild.github.io/de/fieldstudies/dreispitz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://andriwild.github.io/mitwelten-website/fieldstudies/"
+                href="https://andriwild.github.io/fieldstudies/dreispitz/"
                 />
   </url><url>
-    <loc>https://andriwild.github.io/mitwelten-website/interventions/interspecies_platforms/</loc>
+    <loc>https://andriwild.github.io/interventions/ecosystem/</loc>
     <lastmod>2024-11-01T15:44:10+01:00</lastmod>
   </url><url>
-    <loc>https://andriwild.github.io/mitwelten-website/interventions/</loc>
-    <lastmod>2024-11-01T15:44:10+01:00</lastmod>
-  </url><url>
-    <loc>https://andriwild.github.io/mitwelten-website/iot/</loc>
+    <loc>https://andriwild.github.io/fieldstudies/</loc>
     <lastmod>2024-11-01T15:44:10+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://andriwild.github.io/mitwelten-website/de/iot/"
+                href="https://andriwild.github.io/de/fieldstudies/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://andriwild.github.io/mitwelten-website/iot/"
+                href="https://andriwild.github.io/fieldstudies/"
                 />
   </url><url>
-    <loc>https://andriwild.github.io/mitwelten-website/fieldstudies/meriangardens/</loc>
+    <loc>https://andriwild.github.io/interventions/interspecies_platforms/</loc>
+    <lastmod>2024-11-01T15:44:10+01:00</lastmod>
+  </url><url>
+    <loc>https://andriwild.github.io/interventions/</loc>
+    <lastmod>2024-11-01T15:44:10+01:00</lastmod>
+  </url><url>
+    <loc>https://andriwild.github.io/iot/</loc>
     <lastmod>2024-11-01T15:44:10+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://andriwild.github.io/mitwelten-website/de/fieldstudies/meriangardens/"
+                href="https://andriwild.github.io/de/iot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://andriwild.github.io/mitwelten-website/fieldstudies/meriangardens/"
+                href="https://andriwild.github.io/iot/"
                 />
   </url><url>
-    <loc>https://andriwild.github.io/mitwelten-website/</loc>
+    <loc>https://andriwild.github.io/fieldstudies/meriangardens/</loc>
     <lastmod>2024-11-01T15:44:10+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://andriwild.github.io/mitwelten-website/de/"
+                href="https://andriwild.github.io/de/fieldstudies/meriangardens/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://andriwild.github.io/mitwelten-website/"
+                href="https://andriwild.github.io/fieldstudies/meriangardens/"
                 />
   </url><url>
-    <loc>https://andriwild.github.io/mitwelten-website/interventions/participatory_installations/</loc>
-    <lastmod>2024-11-01T15:44:10+01:00</lastmod>
-  </url><url>
-    <loc>https://andriwild.github.io/mitwelten-website/fieldstudies/reinacherheide/</loc>
+    <loc>https://andriwild.github.io/</loc>
     <lastmod>2024-11-01T15:44:10+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://andriwild.github.io/mitwelten-website/de/fieldstudies/reinacherheide/"
+                href="https://andriwild.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://andriwild.github.io/mitwelten-website/fieldstudies/reinacherheide/"
+                href="https://andriwild.github.io/"
                 />
   </url><url>
-    <loc>https://andriwild.github.io/mitwelten-website/tags/</loc>
+    <loc>https://andriwild.github.io/interventions/participatory_installations/</loc>
+    <lastmod>2024-11-01T15:44:10+01:00</lastmod>
+  </url><url>
+    <loc>https://andriwild.github.io/fieldstudies/reinacherheide/</loc>
+    <lastmod>2024-11-01T15:44:10+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://andriwild.github.io/mitwelten-website/de/tags/"
+                href="https://andriwild.github.io/de/fieldstudies/reinacherheide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://andriwild.github.io/mitwelten-website/tags/"
+                href="https://andriwild.github.io/fieldstudies/reinacherheide/"
+                />
+  </url><url>
+    <loc>https://andriwild.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://andriwild.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andriwild.github.io/tags/"
                 />
   </url>
 </urlset>
