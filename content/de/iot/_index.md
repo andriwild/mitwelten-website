@@ -48,7 +48,7 @@ Zuerst entwickelten wir das generische IoT Toolkit und die entsprechende <a href
 
 {{% blocks/feature icon="fa-edit" title="IoT Toolkit" %}}
 <br>
-  {{< figure src="/mitwelten-website/images/IOT_Toolkit_PDF_Cover_Image.png" text="Walk App"  width="80%"  height="200px" link="/docs/MW_IOT_TOOLKIT.pdf" target="_blank">}}
+  {{< figure src="/mitwelten-website/images/iot/IOT_Toolkit_PDF_Cover_Image.png" text="Walk App"  width="80%"  height="200px" link="/docs/MW_IOT_TOOLKIT.pdf" target="_blank">}}
 Das <a href="/docs/MW_IOT_TOOLKIT.pdf" target="_blank">PDF Dokument</a> beschreibt das IoT-Toolkit, das aus Sensoren, Aktoren und Prozessoren besteht, die in den drei Fallstudien entwickelt und eingesetzt wurden.
 <br>
 {{% /blocks/feature %}}
@@ -56,7 +56,7 @@ Das <a href="/docs/MW_IOT_TOOLKIT.pdf" target="_blank">PDF Dokument</a> beschrei
 
 {{% blocks/feature icon="fa-globe" title="Applikationen" %}}
 <br>
-{{< figure src="/mitwelten-website/images/discover_explorer.png" text="Mitwelten Applications"  width="80%" height="200px">}}
+{{< figure src="/mitwelten-website/images/applications/discover_explorer.png" text="Mitwelten Applications"  width="80%" height="200px">}}
 Die App <a href="https://explore.mitwelten.org" target="_blank">Explore App</a> wird für die explorative Datenanalyse verwendet. 
 
 Die App <a href="https://discover.mitwelten.org/app/" target="_blank">Discover App</a> stellt die Ergebnisse der Feldstudien für die Öffentlichkeit zur Verfügung. 
@@ -65,7 +65,7 @@ Die App <a href="https://discover.mitwelten.org/app/" target="_blank">Discover A
 
 {{% blocks/feature icon="fa-edit" title="Software Environment" %}}
 <br>
-  {{< figure src="/mitwelten-website/images/IOT_Reference.png" text="Walk App"  width="80%" link="/docs/MW_Software_Environment.pdf" target="_blank" height="200px">}}
+  {{< figure src="/mitwelten-website/images/iot/IOT_Reference.png" text="Walk App"  width="80%" link="/docs/MW_Software_Environment.pdf" target="_blank" height="200px">}}
 Das <a href="/docs/MW_Software_Environment.pdf" target="_blank">PDF Dokument</a> beschreibt die Softwareumgebung, die zusammen mit dem IoT-Toolkit entwickelt wurde, einschließlich der Dienste, Speicherinfrastruktur, Webanwendungen und mobilen Anwendungen.
 <br>
 {{% /blocks/feature %}}
@@ -104,7 +104,7 @@ Das <a href="/docs/MW_Software_Environment.pdf" target="_blank">PDF Dokument</a>
     </div>
     <br>
     <div class="mx-auto text-center">
-        <figure> <img src="/mitwelten-website/images/mitwelten_logo.png" width="90%"> </figure>
+        <figure> <img src="/mitwelten-website/images/logo/mitwelten_logo.png" width="90%"> </figure>
     </div>
 </div>
 {{< /blocks/section >}}
