@@ -15,34 +15,97 @@ menu: {intervention: {weight: 10}}
 
 <div class="mx-auto" style="width: 90%">
 Based on our IoT Toolkit, we experimented with different forms of displaying  sensor-measured data sets with multimedia features to create an informed responsive environment. New Media Art was relevant to this because it often pursues strategies in which data sets are prepared and reformatted in such a way that they can become more accessible to the public. Also, the term Ambient Information Systems should be mentioned here, since it describes physical, tangible representations of information in the environment. By extending the IoT Toolkit with new actuator nodes for light (color LED lamps), sound (bluetooth speakers) and a physical animation (direction indicator), we developed participative and guiding concepts for open spaces. The actuators transfer sensor values back into the physical environment in a dynamic-regulatory manner and thus contribute to the design of an environment with a certain autonomous agency.
+
+<br>
+{{< figure src="/mitwelten-website/images/logo/mitwelten_logo.png" width="100%" >}}
 </div>
 {{% /blocks/lead %}}
 
 
+
+
+
 <!-- New Section -->
 
-{{% blocks/section %}}
+{{% blocks/section color="secondary" %}}
 <div class="mx-auto" style="width: 90%">
-  <h1 class="text-center">LAMENTING TREES</h1>
+  <h1 class="text-center">SENSING WITH TREES</h1>
 
 ---
 
-    Coming Soon!
-
+<p class="text-center">
+How can passers-by be made aware of critical ecological issues by artistic means and invited to participate and thus take responsibility?
+</p>
+<br>
+<div class="row align-items-start">
+    <div class="col-md-6">
+        <figure>
+            <img src="/mitwelten-website/images/interventions/participatory_installations/LamentingTrees.jpg" width="100%" alt="Interactive outdoor installation. Summer 2024, campus of the FHNW Academy of Art and Design.">
+	        <figcaption><p style="font-size:11px; text-align:right;">Interactive outdoor installation. Summer 2024, campus of the FHNW Academy of Art and Design.</p></figcaption>
+        </figure>
+    </div>
+    <div class="col-md-6 align-items-end">
+    <h3>Situation and ecological challenge</h3>
+    <p>
+With the media artistic installation Sensing with Trees we intended to address the consequences of climate change in urban areas by making it more tangible based on the specific situation of local campus residents. We gave the neighboring trees on campus a voice: When the soil was very dry, they were enabled to draw attention to their plight. A watering can, which was positioned next to them, invited passers-by to water the trees, whereupon the moaning fell silent. 
+    </p>
+    </div>
 </div>
+
+<br>
+
+<h3>Key Concepts</h3>
+
+The implemented hardware components were part of the <a href="/mitwelten-website/docs/MW_IOT_TOOLKIT.pdf" target="_blank">IoT Toolkit</a> and included sensors for moisture and motion as well as media players and loudspeakers. The humidity sensors were buried in the ground to record soil moisture, the motion sensors fixed to the tree trunks to capture the presence of passers-by and the media players and loudspeakers hung in the tree branches to play different types of tree voices. The recorded sensor values were analyzed in real time by processors and simple decisions were made: “If a person passes close enough by the tree and the soil moisture is below a minimum threshold, then sound files are played via the loudspeakers.
+The installation was not only intended to raise awareness of the critical climate situation in heavily sealed areas, but also to encourage responsible action and cross-species collaboration. Most of the passers-by, however, did not perceive the transmitted message, although we experimented with sound files of different levels of abstraction. The approach would need to be introduced culturally, which could be achieved through media information, information boards and a longer implementation for the local communities.
+
+A more detailed description of the installation and the findings are presented in the publication **'Mitwelten. Media-ecological Design Strategies for Improving Peri Urban Biodiversity'**. (Coming soon!)
+
 {{% /blocks/section %}}
 
 
 
+
+
+
+
 <!-- New Section -->
 
-{{% blocks/section %}}
+{{% blocks/section color="blue" %}}
 <div class="mx-auto" style="width: 90%">
   <h1 class="text-center">GUIDANCE SYSTEM</h1>
 
 ---
 
-    Coming Soon!
-
+<p class="text-center">
+How can people and animals be guided away from tricky situations or pointed to interesting phenomena as gently as possible using an IoT guidance system?
+</p>
+<br>
+<div class="row align-items-start">
+    <div class="col-md-6 align-items-end">
+    <h3 class="text-end">Situation and ecological challenge</h3>
+    <p class="text-end">
+The guidance system is based on networked sensors of the <a href="/mitwelten-website/docs/MW_IOT_TOOLKIT.pdf" target="_blank">IoT Toolkit</a> (cameras, audio-loggers, PAX-counters) that are installed in the outdoor space.
+    </p>
+    </div>
+    <div class="col-md-6">
+        <figure>
+            <img src="/mitwelten-website/images/interventions/participatory_installations/Leitsystem.jpg" width="100%" alt="Outdoor guidance system. Based on the IoT Toolkit and a simulator tool.">
+	        <figcaption><p style="font-size:11px; text-align:right;">Outdoor guidance system. Based on the IoT Toolkit and a simulator tool</p></figcaption>
+        </figure>
+    </div>
 </div>
+
+<br>
+
+<h3>Key Concepts</h3>
+
+The processed measurement data are presented by means of an ambient information system with networked actuators (loudspeakers, lamps, and motors), as well positioned in the outdoor space, to have an audiovisual and physical effect on the environment. In this way, human, animal or plant activities can be recorded and decisions can be made depending on the situation as to whether a conflict between humans and nature could be avoided or whether the phenomenon could be used to sensitize people to nature and foster cohabitation. Based on audiovisual feedback, such as softly flashing lights or sound signals, the environment is given the opportunity to gently guide people or vehicles through the environment and distribute them. 
+Also, a map-based deployment software for the planning and maintenance of the networked IoT system was prototyped. It enables the monitoring of already installed IoT nodes in the field and the linking with simulated, planned nodes. 
+The use of light and sound in a peri-urban environment may not be as disturbing as in untouched nature, but despite this, the approach was viewed very critically from a biological point of view. Design questions arose as to how and where the media indicators would work best and be least disturbing.
+
+A more detailed description of the system and the findings are presented in the publication **'Mitwelten. Media-ecological Design Strategies for Improving Peri Urban Biodiversity'**. (Coming soon!)
+
 {{% /blocks/section %}}
+
+

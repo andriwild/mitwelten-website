@@ -28,6 +28,7 @@ The IoT Toolkit was set up in the field as part of the design interventions and 
   <h1 class="text-center">Open IoT TOOLKIT</h1>
 
 ----
+
 For development, we used open software and open hardware wherever possible or worked with simple, inexpensive components. To enable the devices to be assembled by laypersons in a do-it-yourself process, the findings and instructions were treated as open data and documented on the development platform Github (<a href="https://www.github.com/mitwelten" target="_blank">github.com/mitwelten</a>).
 First, we developed the generic IoT toolkit and the corresponding <a href="/docs/MW_Software_Environment.pdf" target="_blank">software environment</a> that can be used for biodiversity monitoring. In the context of interdisciplinary assembly workshops, the nodes were produced to test their use for citizen science. Building on this, we conducted sensor-based experiments in the field studies that enabled the identification of indicator species or families (insects and birds) in order to draw conclusions about the ecological quality of biodiversity. We used sensors and actuators to carry out design interventions that made the research results more tangible for the general public. Various relationship-building media formats were designed that allowed direct access to the research database, and participatory installations were set up in public spaces.
 

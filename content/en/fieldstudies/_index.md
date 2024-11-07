@@ -41,24 +41,36 @@ In these three (peri-)urban habitats, human needs have to be balanced with those
 <div class="container">
   <div class="row justify-content-evenly">
   
-  {{% blocks/iconlink icon="fa-map" url="/fieldstudies/meriangardens" url_text="FS1 MERIAN GARDENS" %}}
+  {{% blocks/iconlink icon="fa-map" url="/mitwelten-website/fieldstudies/meriangardens" url_text="FS1 MERIAN GARDENS" %}}
   <center>Basel/Münchenstein BL, 2021</center>
   <br>
+<<<<<<< HEAD
   {{< figure src="/mitwelten-website/images/fieldstudies/merian.png" text="Merian Gardens" link="/fieldstudies/meriangardens" width="100%" >}}
+=======
+  {{< figure src="/mitwelten-website/images/fieldstudies/merian.png" text="Merian Gardens" link="/mitwelten-website/fieldstudies/meriangardens" width="100%" >}}
+>>>>>>> main
   <center><a href="https://discover.mitwelten.org/app/?start=2020-01-08T11:59:43&end=2024-08-28T11:59:43&lat=47.53582777093257&lon=7.616186413196093&zoom=16.60514072279761&tags=FS1">Explore Field Study 1 with the Discover App</a></center>
   {{% /blocks/iconlink %}}
   
-  {{% blocks/iconlink icon="fa-map" url="/fieldstudies/dreispitz" url_text="FS2 DREISPITZ AREAL" %}}
+  {{% blocks/iconlink icon="fa-map" url="/mitwelten-website/fieldstudies/dreispitz" url_text="FS2 DREISPITZ AREAL" %}}
   <center>Basel/Münchenstein BL, 2022/23</center>
   <br>
+<<<<<<< HEAD
   {{< figure src="/mitwelten-website/images/fieldstudies/dreispitz.png" text="Dreispitz Areal" link="/fieldstudies/dreispitz" width="100%" >}}
+=======
+  {{< figure src="/mitwelten-website/images/fieldstudies/dreispitz.png" text="Dreispitz Areal" link="/mitwelten-website/fieldstudies/dreispitz" width="100%" >}}
+>>>>>>> main
   <center><a href="https://discover.mitwelten.org/app/?start=2020-01-08T11:59:43&end=2024-08-28T11:59:43&lat=47.52904923086514&lon=7.610367270830683&zoom=14.23254752794276&tags=FS2">Explore Field Study 2 with the Discover App</a></center>
   {{% /blocks/iconlink %}}
 
-  {{% blocks/iconlink icon="fa-map" url="/fieldstudies/reinacherheide" url_text="FS3 REINACHER HEIDE" %}}
+  {{% blocks/iconlink icon="fa-map" url="/mitwelten-website/fieldstudies/reinacherheide" url_text="FS3 REINACHER HEIDE" %}}
   <center>Reinach BL, 2022/23</center>
   <br>
+<<<<<<< HEAD
   {{< figure src="/mitwelten-website/images/fieldstudies/reinach.png" text="Reinacher Heide" link="/fieldstudies/reinacherheide" width="100%" >}}
+=======
+  {{< figure src="/mitwelten-website/images/fieldstudies/reinach.png" text="Reinacher Heide" link="/mitwelten-website/fieldstudies/reinacherheide" width="100%" >}}
+>>>>>>> main
   <center><a href="https://discover.mitwelten.org/app/?start=2020-01-08T11:59:43&end=2024-08-28T11:59:43&lat=47.49836360642701&lon=7.6086860341211935&zoom=15.76745247205724&tags=FS3">Entdecke Feldstudie 3 in der Discover App</a></center>
   {{% /blocks/iconlink %}}
 
