@@ -23,33 +23,46 @@ title: Mitwelten
 <!-- New Section -->
 
 {{% blocks/lead color="teal" %}}
+<div class="mx-auto" style="width: 90%">
+  <h1 class="text-center">ANOTHER WORLD IS POSSIBLE</h1>
 
-# ANOTHER WORLD IS POSSIBLE
 ----
 The aim of this research project is to contribute to the promotion of biodiversity in (peri-)urban recreational and nature reserves by means of an ***interdisciplinary design research*** approach that is expanded through cultural studies, grounded in natural science and potentiated through technology.
+</div>
 {{% /blocks/lead %}}
+
 
 
 
 <!-- New Section -->
 
-{{% blocks/lead color="primary" %}}
-# KEY QUESTION
+{{% blocks/section color="primary" %}}
+<div class="mx-auto" style="width: 90%">
+  <h1 class="text-center">KEY QUESTION</h1>
+
 ----
-How can media design interventions and infrastructures based on the Internet of Things contribute ecologically and culturally to the ***promotion of biodiversity*** in local ecosystems?
 
-{{% /blocks/lead %}}
+<h4 class="text-center mt-5">
+How can media design interventions and infrastructures based on the Internet of Things contribute ecologically and culturally to the <strong>promotion of biodiversity</strong> in local ecosystems?
+</h4>
+
+</div>
+{{% /blocks/section %}}
 
 
 
 <!-- New Section -->
 
-{{% blocks/lead color="info" %}}
-# DESIGN-INTERVENTIONEN
+{{% blocks/section color="info" %}}
+
+<div class="mx-auto" style="width: 90%">
+  <h1 class="text-center">DESIGN INTERVENTIONS</h1>
+
 ----
 The design interventions aim to give plants and animals a voice, expand ecological knowledge and experience, create new forms of cross-species coexistence and thereby cultivate ecological values and behaviors. To this end, an _<a href="https://github.com/mitwelten">Internet of Things Toolkit</a>_ is being developed that serves as a media technology infrastructure for the design interventions.
 
-{{% /blocks/lead %}}
+</div>
+{{% /blocks/section %}}
 
 
 
@@ -63,7 +76,7 @@ Collaborative research develops the ___ideal___ of experience-led and knowledge-
 <br>
 <br>
 <div class="col">
-{{< figure src="/images/logo/mitwelten_logo.png" width="80%" >}}
+{{< figure src="/mitwelten-website/images/logo/mitwelten_logo.png" width="80%" >}}
 </div>
 {{% /blocks/lead %}}
 

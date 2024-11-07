@@ -55,7 +55,7 @@ What forms of cross-species coexistence can be stimulated in urban settlement ar
 </h4>
 <br>
 
-{{< figure src="/images/logo/mitwelten_logo.png" width="100%" >}}
+{{< figure src="/mitwelten-website/images/logo/mitwelten_logo.png" width="100%" >}}
 </div>
 
 {{% /blocks/section %}}

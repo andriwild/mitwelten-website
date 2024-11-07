@@ -43,7 +43,8 @@ How can bird species in different habitat types be identified and compared using
 <div class="row align-items-start">
     <div class="col-md-6">
         <figure>
-            <img src="/mitwelten-website/images/interventions/ecosystem/BirdDiversity.png" width="100%">
+            <img src="/mitwelten-website/images/interventions/ecosystem/BirdDiversity.png" width="100%" alt="Bird identification based on extensive sound recordings and ML evaluation. 2021-2023">
+	        <figcaption><p style="font-size:11px; text-align:right;">Bird identification based on extensive sound recordings and ML evaluation. 2021-2023.</p></figcaption>
         </figure>
     </div>
     <div class="col-md-6">
@@ -92,7 +93,8 @@ To learn more about the local insect communities, we analyzed the Field Study Si
     </div>
     <div class="col-md-6">
         <figure>
-            <img src="/mitwelten-website/images/interventions/ecosystem/PollinatorDiversity.jpg" width="100%">
+            <img src="/mitwelten-website/images/interventions/ecosystem/PollinatorDiversity.jpg" width="100%" alt="Determining pollinating insects using ML analysis of large photo datasets. 2021-2023.">
+	        <figcaption><p style="font-size:11px; text-align:right;">Determining pollinating insects using ML analysis of large photo datasets. 2021-2023.</p></figcaption>
         </figure>
     </div>
 </div>
@@ -132,7 +134,8 @@ How can human presence be identified in local recreation areas and nature reserv
 <div class="row align-items-start">
     <div class="col-md-6">
         <figure>
-            <img src="/mitwelten-website/images/interventions/ecosystem/HumanPresence.jpg" width="100%">
+            <img src="/mitwelten-website/images/interventions/ecosystem/HumanPresence.jpg" width="100%" alt="Human presence identification in recreational areas and nature reserves. 2021-2023.">
+	    <figcaption><p style="font-size:11px; text-align:right;">Human presence identification in recreational areas and nature reserves. 2021-2023.</p></figcaption>
         </figure>
     </div>
     <div class="col-md-6 align-items-end">

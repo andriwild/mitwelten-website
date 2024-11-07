@@ -9,15 +9,24 @@ menu: {main: {weight: 10}}
 {{< /blocks/cover >}}
 
 
-{{% blocks/section %}}
+{{% blocks/section%}}
 <div class="mx-auto" style="width: 90%">
   <h1 class="text-center">INTERDISCIPLINARY APPROACH</h1>
 
   ----
+
+<p class="text-center">
 The value-based mission statement of Mitwelten (Co-worldings) is anchored in the ecological constitution of terrains and habitats. In the case of measures at a governmental level, it refers to areas that are still of ecological value and therefore worthy of protection. But it also applies to those areas that have been built over and colonized with human settlements or appropriated for business, transport and infrastructure. Here, the needs of the human species and its societies have so far taken absolute precedence over those of other living beings and ecosystemic relationships and biological habitats. Particularly in urban areas and as a result of supra-regional infrastructures, ecologically valuable habitats have been almost completely displaced by built-up habitats or extremely remodeled and decimated. In these areas, it is not so much a question of preserving the remaining green spaces and ecological resources, but also about establishing new building, infrastructure and economic cycles in urban planning and open space design. This includes the ‘re-naturalisation’ of the anthropogenic terrains of the advanced civilisations of the European-influenced industrial modernity of the carbon age. The restructuring process goes hand in hand with the emergence of new ways of life, which ideally produce both a new culture and a revitalized ‘material’ living environment.
+
+</p>
+<br>
+{{< figure src="/mitwelten-website/images/logo/mitwelten_logo.png" width="100%" >}}
+<br>
+
+<p class="text-center">
 New strategies are needed to meet such all-encompassing demands. In this research project we explored the potential of practice-based, interdisciplinary design research and thus tried to make a contribution to combating biodiversity loss. As part of the Mitwelten research project, we have therefore put together an interdisciplinary team of experts who combine the disciplines of design and landscape architecture, ecology and systems engineering, and cultural studies. We advocate an interdisciplinary, iterative, realization-oriented and context-sensitive development process. Based on objectives, research and drafts, measures are derived that are tested through experimental realizations and evaluations and then adapted and reviewed in subsequent cycles until principles can be derived. Through empirical links between analysis and design, carefully negotiated specifications and scenarios as well as a joint cultural learning and education process, impact is to be achieved and communicated.
-
-
+</p>
+<br>
 </div>
 {{% /blocks/section %}}
 
