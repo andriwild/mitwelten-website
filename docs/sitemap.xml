@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://andriwild.github.io/mitwelten-website/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/mitwelten-website/en/sitemap.xml</loc>
     
       <lastmod>2024-11-04T10:56:33+01:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://andriwild.github.io/mitwelten-website/de/sitemap.xml</loc>
+    <loc>http://localhost:1313/mitwelten-website/de/sitemap.xml</loc>
     
       <lastmod>2024-11-04T11:06:14+01:00</lastmod>
     

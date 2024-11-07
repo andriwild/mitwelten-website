@@ -4,7 +4,7 @@ linkTitle: ECOSYSTEM STUDIES
 menu: {intervention: {weight: 10}}
 ---
 
-{{< blocks/cover title="Ecosystem Studies" image_anchor="top" height="full" color="gray" >}}
+{{< blocks/cover title="Citizen Science based Ecosystem Studies" image_anchor="top" height="full" color="gray" >}}
 {{< blocks/link-down color="secondary" >}}
 {{< /blocks/cover >}}
 
@@ -14,7 +14,7 @@ menu: {intervention: {weight: 10}}
 <div class="mx-auto" style="width: 90%">
 
 
-One research approach in the Mitwelten project was based on natural science principles. By monitoring the ecosystems of the three field studies, we wanted to gain insight into the quality of biodiversity in the (peri-)urban habitats. Since it is not possible to measure and map the full richness of nature, we decided to analyze the presence of indicator species or families: five types of morphospecies of pollinating insects and the bird species. To complete the picture, human presence was also examined, as humans have a significant influence on (peri-)urban sites and to treat them as equal actors of the Mitwelt. By using the same systems in standardized circumstances in different habitats, we were able to make statements about the locations and compare them. The experiments for the investigations were designed in the interdisciplinary team and the sensor systems were developed to best answer ecological questions and minimize management efforts.
+One research approach in the Mitwelten project was based on natural science principles. By monitoring the ecosystems of the three field studies, we wanted to gain insight into the quality of biodiversity in the (peri-)urban habitats. Since it is not possible to measure and map the full richness of nature, we decided to analyze the presence of indicator species or families: five types of morphospecies of pollinating insects and the bird species. To complete the picture, human presence was also examined, as humans have a significant influence on (peri-)urban sites and to treat them as equal actors of the Mitwelt. By using the same systems in standardized circumstances in different habitats, we were able to make statements about the locations and compare them. The experiments for the investigations were carried out by the interdisciplinary team and the sensor systems were developed to best answer ecological questions and minimize management efforts.
 
 
 {{< figure src="/mitwelten-website/images/logo/mitwelten_logo.png" width="100%" >}}

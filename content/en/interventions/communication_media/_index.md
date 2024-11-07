@@ -22,7 +22,7 @@ As part of the Mitwelten research project, we developed a set of media formats f
 - Panorama: an interactive 3D image-based approach
 
 <br>
-{{< figure src="/mitwelten-website/images/mitwelten_logo.png" width="100%" >}}
+{{< figure src="/mitwelten-website/images/logo/mitwelten_logo.png" width="100%" >}}
 </div>
 {{% /blocks/section %}}
 
@@ -36,8 +36,8 @@ As part of the Mitwelten research project, we developed a set of media formats f
 {{< cardpane >}}
   {{< card header="**Discover**" >}}
 <figure>
-    <img src="/mitwelten-website/images/discover_app.png" width="100%">
-	<figcaption><p style="font-size:11px; text-align:right;">Hardware-Design zweier Sensor-Knoten</p></figcaption>
+    <img src="/mitwelten-website/images/applications/discover_app.png" width="100%">
+	<figcaption><p style="font-size:11px; text-align:right;">Screenshot Discover Application</p></figcaption>
 </figure>
 
 __Situation and ecological challenge__
@@ -52,8 +52,8 @@ As a starting point, we decided on a map-based approach, where the data sets and
   {{< card header="**Walk App**" >}}
 
 <figure>
-    <img src="/mitwelten-website/images/walk_app.png" width="100%">
-	<figcaption><p style="font-size:11px; text-align:right;">Hardware-Design zweier Sensor-Knoten</p></figcaption>
+    <img src="/mitwelten-website/images/applications/walk_app.png" width="100%">
+	<figcaption><p style="font-size:11px; text-align:right;">Screenshot Walk Application</p></figcaption>
 </figure>
 
 __Situation and ecological challenge__
@@ -77,8 +77,8 @@ A more detailed description of the medium and the findings are presented in the 
 
   {{< card header="**Panorama**" >}}
 <figure>
-    <img src="/mitwelten-website/images/pano.png" width="100%">
-	<figcaption><p style="font-size:11px; text-align:right;">Hardware-Design zweier Sensor-Knoten</p></figcaption>
+    <img src="/mitwelten-website/images/applications/pano.png" width="100%">
+	<figcaption><p style="font-size:11px; text-align:right;">Screenshot Pano Application</p></figcaption>
 </figure>
 
 __Situation and ecological challenge__
@@ -96,8 +96,8 @@ A more detailed description of the medium and the findings are presented in the 
 
   {{< card header="**Wild Cam TV**" >}}
 <figure>
-    <img src="/mitwelten-website/images/wildCamTV.jpg" width="100%">
-	<figcaption><p style="font-size:11px; text-align:right;">Hardware-Design zweier Sensor-Knoten</p></figcaption>
+    <img src="/mitwelten-website/images/applications/wildCamTV.jpg" width="100%">
+	<figcaption><p style="font-size:11px; text-align:right;">Screenshot Wild Cam TV</p></figcaption>
 </figure>
 
 __Situation and ecological challenge__

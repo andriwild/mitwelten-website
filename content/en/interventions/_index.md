@@ -12,7 +12,7 @@ menu: {main: {weight: 40}}
 
 <!-- New Section -->
 
-{{% blocks/section color="secondary" %}}
+{{% blocks/section %}}
 
 <div class="row row-cols-1 row-cols-md-2 g-4">
 
@@ -31,6 +31,13 @@ menu: {main: {weight: 40}}
     altText="Alternative Bildbeschreibung" 
 %}}
 
+
+{{% /blocks/section %}}
+
+
+{{% blocks/section %}}
+
+<div class="row row-cols-1 row-cols-md-2 g-4">
 {{% blocks/card 
     url="/interventions/interspecies_platforms"
     title="Interspecies Platforms"

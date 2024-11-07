@@ -24,9 +24,10 @@ title: Mitwelten
 
 {{% blocks/lead color="teal" %}}
 
-# ANOTHER WORLD IS POSSIBLE
+# THE MITWELTEN APPROACH
 ----
-The aim of this research project is to contribute to the promotion of biodiversity in (peri-)urban recreational and nature reserves by means of an ***interdisciplinary design research*** approach that is expanded through cultural studies, grounded in natural science and potentiated through technology.
+The increase in the human population and industrialization processes are leading to a worldwide loss of habitats and species. Industrial farming leads to agricultural desertification, which offers fewer living conditions to wild animals than human settlements with small-scale structures and gardens. Until now, however, green spaces in settlement design have been geared towards humans, while humans have been excluded from nature conservation biology. The supposed contradictions between nature, culture and technology should be brought into a constructive interplay to promote biodiversity in peri-urban areas.
+The attitude of the Mitwelten research project is post-humanistic and post-natural: it attempts to dissolve the central position of humans and to integrate them as a mere element into the more-than-human ecosystem. The interdisciplinary project aims to provide design approaches for promoting biodiversity in residential and recreational areas using the tools of design research and the natural, cultural and computer sciences. Through three field studies carried out in and around Basel, Switzerland, it explores how media design interventions based on an ‘IoT Toolkit’ (Internet of Things Toolkit), can enhance biodiversity in local ecosystems. The embedded media-technological infrastructure forms a 'response-able environment' that integrates the wider public and the needs and contributions of animals and plants to promote cohabitation.
 {{% /blocks/lead %}}
 
 
