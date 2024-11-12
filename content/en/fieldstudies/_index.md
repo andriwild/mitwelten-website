@@ -1,11 +1,10 @@
 ---
-title: fieldstudies
+title: Fieldstudies
 linkTitle: FIELD STUDIES 
 menu: {main: {weight: 30}}
 ---
 
 {{< blocks/cover title="FIELD STUDIES" image_anchor="top" height="full" color="gray" >}}
-{{< blocks/link-down color="secondary" >}}
 {{< /blocks/cover >}}
 
 
@@ -15,9 +14,7 @@ menu: {main: {weight: 30}}
 {{% blocks/section color="secondary" %}}
 
 <div class="mx-auto" style="width: 90%">
-  <h1 class="text-center">CHARACTERISTICS</h1>
-
-----
+  <h3 class="text-center mb-5">CHARACTERISTICS</h1>
 
 In order to answer the question of how to design and integrate IoT-based infrastructures to promote biodiversity, suitable areas for field studies were sought. These should not be characterized by special topographical and ecological features, but should have typical characteristics for Switzerland, so that findings can be applied as widely as possible. Based on a greater knowledge of local processes, ecosystems and human communities, the selection of areas in the research institute's environment seemed most promising. Three areas in Basel-Stadt and Basel-Land were selected:
 
@@ -40,28 +37,55 @@ In these three (peri-)urban habitats, human needs have to be balanced with those
 
 <div class="container">
   <div class="row justify-content-evenly">
+    <div class="col-sm mb-5 mb-lg-0 text-center">
+        <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"href="meriangardens">
+            <h3 class="mb-2">FS1 Merian Gardens</h3>
+            Basel/Münchenstein BL, 2021
+        </a>
+      {{< figure src="/mitwelten-website/images/fieldstudies/merian.png" 
+                    text="Merian Gardens" 
+                    link="meriangardens" 
+                    width="100%" 
+                    class="mt-2" >}}
+        Explore Field Study 1 with the 
+        <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
+            href="https://discover.mitwelten.org/app/?start=2020-01-08T11:59:43&end=2024-08-28T11:59:43&lat=47.53582777093257&lon=7.616186413196093&zoom=16.60514072279761&tags=FS1">
+        Discover App
+        </a>
+  </div>
+   <div class="col-sm mb-5 mb-lg-0 text-center">
+       <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"href="dreispitz">
+           <h3 class="mb-2">FS2 Dreispitz</h3>
+           Basel/Münchenstein BL, 2022/23
+       </a>
+     {{< figure src="/mitwelten-website/images/fieldstudies/dreispitz.png" 
+                   text="Merian Gardens" 
+                   link="dreispitz" 
+                   width="100%"
+                   class="mt-2" >}}
+        Explore Field Study 2 with the 
+        <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
+           href="https://discover.mitwelten.org/app/?start=2020-01-08T11:59:43&end=2024-08-28T11:59:43&lat=47.52904923086514&lon=7.610367270830683&zoom=14.23254752794276&tags=FS2">
+       Discover App
+       </a>
+  </div>
   
-  {{% blocks/iconlink icon="fa-map" url="/mitwelten-website/fieldstudies/meriangardens" url_text="FS1 MERIAN GARDENS" %}}
-  <center>Basel/Münchenstein BL, 2021</center>
-  <br>
-  {{< figure src="/mitwelten-website/images/fieldstudies/merian.png" text="Merian Gardens" link="/mitwelten-website/fieldstudies/meriangardens" width="100%" >}}
-  <center><a href="https://discover.mitwelten.org/app/?start=2020-01-08T11:59:43&end=2024-08-28T11:59:43&lat=47.53582777093257&lon=7.616186413196093&zoom=16.60514072279761&tags=FS1">Explore Field Study 1 with the Discover App</a></center>
-  {{% /blocks/iconlink %}}
-  
-  {{% blocks/iconlink icon="fa-map" url="/mitwelten-website/fieldstudies/dreispitz" url_text="FS2 DREISPITZ AREAL" %}}
-  <center>Basel/Münchenstein BL, 2022/23</center>
-  <br>
-  {{< figure src="/mitwelten-website/images/fieldstudies/dreispitz.png" text="Dreispitz Areal" link="/mitwelten-website/fieldstudies/dreispitz" width="100%" >}}
-  <center><a href="https://discover.mitwelten.org/app/?start=2020-01-08T11:59:43&end=2024-08-28T11:59:43&lat=47.52904923086514&lon=7.610367270830683&zoom=14.23254752794276&tags=FS2">Explore Field Study 2 with the Discover App</a></center>
-  {{% /blocks/iconlink %}}
-
-  {{% blocks/iconlink icon="fa-map" url="/mitwelten-website/fieldstudies/reinacherheide" url_text="FS3 REINACHER HEIDE" %}}
-  <center>Reinach BL, 2022/23</center>
-  <br>
-  {{< figure src="/mitwelten-website/images/fieldstudies/reinach.png" text="Reinacher Heide" link="/mitwelten-website/fieldstudies/reinacherheide" width="100%" >}}
-  <center><a href="https://discover.mitwelten.org/app/?start=2020-01-08T11:59:43&end=2024-08-28T11:59:43&lat=47.49836360642701&lon=7.6086860341211935&zoom=15.76745247205724&tags=FS3">Entdecke Feldstudie 3 in der Discover App</a></center>
-  {{% /blocks/iconlink %}}
-
+   <div class="col-sm mb-5 mb-lg-0 text-center">
+       <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"href="reinacherheide">
+           <h3 class="mb-2">FS3 Reinacher Heide</h3>
+           Reinach BL, 2022/23
+       </a>
+     {{< figure src="/mitwelten-website/images/fieldstudies/reinach.png" 
+                   text="Merian Gardens" 
+                   link="reinacherheide" 
+                   width="100%"
+                   class="mt-2" >}}
+        Explore Field Study 3 with the 
+        <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
+            href="https://discover.mitwelten.org/app/?start=2020-01-08T11:59:43&end=2024-08-28T11:59:43&lat=47.49836360642701&lon=7.6086860341211935&zoom=15.76745247205724&tags=FS3">
+       Discover App
+       </a>
+  </div>
 </div>
 </div>
 

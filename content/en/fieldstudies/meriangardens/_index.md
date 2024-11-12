@@ -7,7 +7,6 @@ linkTitle: meriangardens
 
 {{< blocks/cover title="Field Study 1 (FS1) Merian Gardens" image_anchor="mid" height="full" color="primary" >}}
 <h2>Field study in Basel/Münchenstein BL, 2021</h2>
-{{< blocks/link-down color="yellow" >}}
 {{< /blocks/cover >}}
 
 
@@ -17,16 +16,15 @@ linkTitle: meriangardens
 {{% blocks/section color="primary" %}}
 
 <div class="mx-auto" style="width: 90%">
-  <h1 class="text-center">SITUATION</h1>
-
-
----
-
+  <h3 class="text-center mb-5">SITUATION</h3>
+<h4 class="text-center mt-3 fw-light">
 The Merian Gardens are a spacious botanical garden on the outskirts of Basel and are located in the millennia-old river landscape of the Birs. The terraces created by the river structure the Merian Gardens topographically. Over the centuries, various personalities have left their mark on the area, including Christoph Merian, whose possessions are currently managed by the Christoph Merian Foundation. In the 19th century, the wild river landscape was first converted into an important agricultural site and later, step by step, into a garden complex. Today, the Merian Gardens combine scientific plant collections, nature conservation areas of national importance, horticulture, and biological non-profit agriculture with farm animals. They are aimed at a culturally and scientifically interested public and are a recreational area for the local population.
+<h4>
 
 </div>
 
 {{% /blocks/section %}}
+
 
 
 
@@ -35,14 +33,25 @@ The Merian Gardens are a spacious botanical garden on the outskirts of Basel and
 {{% blocks/section color="secondary" %}}
 
 <div class="mx-auto" style="width: 90%">
-  <h1 class="text-center">CHARACTERISTICS AND RESEARCH FOCUS</h1>
+  <h3 class="text-center mb-5">Characteristics and Research Focus</h3>
 
----
-
-We chose the field study of the Merian Gardens because it offers a broad field of investigation with a variety of perspectives, needs, services, and correlations of the involved stakeholders. Negotiation processes between education and entertainment, people and nature, farm animals and wild animals as well as cultivated and wild plants. On paths, along canals, in greenhouses and on animal trails or in the vicinity of their shelters, a complex interplay of the actors and habitat types can be observed.
-
-The field study was carried out in close cooperation with the Merian Gardens. They were interested in using our technologies to learn more about the non-human inhabitants that populate the Merian Gardens. The biologist and Head of Science & Documentation, Dr. Lisa Eggenschwiler accompanied the research and established contacts with the various people working in the Merian Gardens, from the management to the gardening and agriculture departments and to the mediation team. In this field study the focus was on investigating the relationship between nature, culture and technology, and the inclusion of sensor-based survey methods and multimedia presentation formats for analyzing biodiversity and ecological knowledge production. 
-
+<br>
+<div class="row align-items-start">
+    <div class="col-md-6">
+    <!-- TODO : figcatption -->
+        <figure>
+            <img src="/mitwelten-website/images/fieldstudies/illustration_2.jpg" width="100%" alt="Interactive outdoor installation. Summer 2024, campus of the FHNW Academy of Art and Design.">
+	        <figcaption><p style="font-size:11px; text-align: end"></p></figcaption>
+        </figure>
+    </div>
+    <div class="col-md-6 align-items-end">
+        <p>
+We chose the field study of the Merian Gardens because it offers a broad field of investigation with a variety of perspectives, needs, services, and correlations of the involved stakeholders. Negotiation processes between education and entertainment, people and nature, farm animals and wild animals as well as cultivated and wild plants. On paths, along canals, in greenhouses and on animal trails or in the vicinity of their shelters, a complex interplay of the actors and habitat types can be observed. The field study was carried out in close cooperation with the Merian Gardens. 
+        </p>
+        <p>
+They were interested in using our technologies to learn more about the non-human inhabitants that populate the Merian Gardens. The biologist and Head of Science & Documentation, Dr. Lisa Eggenschwiler accompanied the research and established contacts with the various people working in the Merian Gardens, from the management to the gardening and agriculture departments and to the mediation team. In this field study the focus was on investigating the relationship between nature, culture and technology, and the inclusion of sensor-based survey methods and multimedia presentation formats for analyzing biodiversity and ecological knowledge production. 
+        </p>
+    </div>
 </div>
 
 {{% /blocks/section %}}
@@ -54,11 +63,8 @@ The field study was carried out in close cooperation with the Merian Gardens. Th
 {{% blocks/section color="yellow" %}}
 
 <div class="mx-auto" style="width: 90%">
-  <h1 class="text-center">RESEARCH QUESTION OF THE FIELD STUDY</h1>
 
-----
-
-<h4 class="text-center">
+<h4 class="text-center fst-italic">
 What scope for action arises from the media-ecological determination of the behaviors, needs, achievements and mutual relationships of different actors in a hybrid ecosystem?
 </h4>
 <br>
@@ -72,18 +78,27 @@ What scope for action arises from the media-ecological determination of the beha
 
 <!-- New Section -->
 
-{{% blocks/section color="info" %}}
+{{< blocks/section color="info" >}}
 
 <div class="mx-auto" style="width: 90%">
-  <h1 class="text-center">INTERVENTIONS</h1>
-
-----
-
-The following ‘interventions’ were conducted in the field study:
-- __Ecosystem Studies__: Bird Diversity, Pollinator Diversity, Human Presence
-- __Media applications__: Discover, Panorama
-
+    <h3 class="text-center mb-5">Interventions</h3>
+    <h4 class="fw-light">
+        The following ‘interventions’ were conducted in the field study:
+    </h4>
+    <ul>
+        <li>
+            <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
+                href="/mitwelten-website/interventions/ecosystem">
+                Ecosystem Studies
+            </a>: Bird Diversity, Pollinator Diversity, Human Presence
+        </li>
+        <li>
+            <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
+                href="/mitwelten-website/interventions/communication_media">
+                Media Applications
+            </a> : Discover, Panorama
+        </li>
 </div>
 
-{{% /blocks/section %}}
+{{< /blocks/section >}}
 

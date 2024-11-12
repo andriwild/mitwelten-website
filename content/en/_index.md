@@ -13,7 +13,6 @@ title: Mitwelten
     <h1>
         Interdisciplinary design research project<br>funded by the Swiss National Science Foundation<br>2020-2024
     </h1>
-{{< blocks/link-down color="secondary" >}}
 </div>
 
 {{< /blocks/cover >}}
@@ -24,10 +23,11 @@ title: Mitwelten
 
 {{% blocks/lead color="teal" %}}
 <div class="mx-auto" style="width: 90%">
-  <h1 class="text-center">ANOTHER WORLD IS POSSIBLE</h1>
-
-----
-The aim of this research project is to contribute to the promotion of biodiversity in (peri-)urban recreational and nature reserves by means of an ***interdisciplinary design research*** approach that is expanded through cultural studies, grounded in natural science and potentiated through technology.
+  <h3 class="text-center">THE MITWELTEN APPROACH</h3>
+<h4 class="text-center mt-3 fw-light">
+The increase in the human population and industrialization processes are leading to a worldwide loss of habitats and species. Industrial farming leads to agricultural desertification, which offers fewer living conditions to wild animals than human settlements with small-scale structures and gardens. Until now, however, green spaces in settlement design have been geared towards humans, while humans have been excluded from nature conservation biology. The supposed contradictions between nature, culture and technology should be brought into a constructive interplay to promote biodiversity in peri-urban areas.
+The attitude of the Mitwelten research project is post-humanistic and post-natural: it attempts to dissolve the central position of humans and to integrate them as a mere element into the more-than-human ecosystem. The interdisciplinary project aims to provide design approaches for promoting biodiversity in residential and recreational areas using the tools of design research and the natural, cultural and computer sciences. Through three field studies carried out in and around Basel, Switzerland, it explores how media design interventions based on an ‘IoT Toolkit’ (Internet of Things Toolkit), can enhance biodiversity in local ecosystems. The embedded media-technological infrastructure forms a 'response-able environment' that integrates the wider public and the needs and contributions of animals and plants to promote cohabitation.
+</h4>
 </div>
 {{% /blocks/lead %}}
 
@@ -38,11 +38,8 @@ The aim of this research project is to contribute to the promotion of biodiversi
 
 {{% blocks/section color="primary" %}}
 <div class="mx-auto" style="width: 90%">
-  <h1 class="text-center">KEY QUESTION</h1>
 
-----
-
-<h4 class="text-center mt-5">
+<h4 class="text-center fst-italic fw-light">
 How can media design interventions and infrastructures based on the Internet of Things contribute ecologically and culturally to the <strong>promotion of biodiversity</strong> in local ecosystems?
 </h4>
 
@@ -56,10 +53,10 @@ How can media design interventions and infrastructures based on the Internet of 
 {{% blocks/section color="info" %}}
 
 <div class="mx-auto" style="width: 90%">
-  <h1 class="text-center">DESIGN INTERVENTIONS</h1>
-
-----
+  <h3 class="text-center">DESIGN INTERVENTIONS</h3>
+<h4 class="text-center mt-3 fw-light">
 The design interventions aim to give plants and animals a voice, expand ecological knowledge and experience, create new forms of cross-species coexistence and thereby cultivate ecological values and behaviors. To this end, an _<a href="https://github.com/mitwelten">Internet of Things Toolkit</a>_ is being developed that serves as a media technology infrastructure for the design interventions.
+</h4>
 
 </div>
 {{% /blocks/section %}}
@@ -69,14 +66,11 @@ The design interventions aim to give plants and animals a voice, expand ecologic
 <!-- New Section -->
 
 {{% blocks/lead color="yellow" %}}
-Collaborative research develops the ___ideal___ of experience-led and knowledge-based design of livable landscape architectures and sustainable everyday processes for all creatures in the form of media-ecological prototypes and infrastructures of ecological structural change.
-
-----
-→ human colonies and their environments become ***biodiverse MITWELTEN***
-<br>
-<br>
-<div class="col">
-{{< figure src="/mitwelten-website/images/logo/mitwelten_logo.png" width="80%" >}}
+<div class="mx-auto" style="width: 90%">
+<h4 class="text-center fw-light">
+Collaborative research develops the <em>ideal</em> of experience-led and knowledge-based design of livable landscape architectures and sustainable everyday processes for all creatures in the form of media-ecological prototypes and infrastructures of ecological structural change: <br>human colonies and their environments become <strong>biodiverse MITWELTEN</strong>.
+</h4>
+{{< figure src="/mitwelten-website/images/logo/mitwelten_logo.png" width="80%" class="mt-5">}}
 </div>
 {{% /blocks/lead %}}
 
@@ -110,5 +104,6 @@ Collaborative research develops the ___ideal___ of experience-led and knowledge-
         </div>
     </div>
 
+</div>
 {{< /blocks/section >}}
 

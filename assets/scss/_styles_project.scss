@@ -22,3 +22,38 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
+.number {
+  font-size: 5rem;
+  font-weight: bold;
+    color: rgba(16, 73, 17, 0.3);
+}
+.divider {
+  position: absolute;
+  left: 50%;
+  width: 1px;
+  background-color: rgba(0, 0, 0, 0.3);
+  top: 0;
+  bottom: 0;
+}
+.row {
+  position: relative;
+}
+@media (max-width: 576px) {
+  .divider {
+    display: none;
+  }
+  .col-md-6 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .number {
+    text-align: center;
+  }
+}
+
+.highlight {
+  background-color: lighten($teal, 20%);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+}

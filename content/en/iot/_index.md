@@ -1,71 +1,126 @@
 ---
-title: iot-toolkit
+title: IOT-Toolkit
 linkTitle: IOT-TOOLKIT
 menu: {main: {weight: 20}}
 ---
 
 {{< blocks/cover title="IoT TOOLKIT" image_anchor="top" height="full" color="gray" >}}
-{{< blocks/link-down color="secondary" >}}
 {{< /blocks/cover >}}
 
-{{% blocks/section color=blue %}}
+{{% blocks/section color="blue" %}}
+
 <div class="mx-auto" style="width: 90%">
-  <h1 class="text-center">SENSOR-ACTUATOR NETWORK</h1>
+  <h3 class="text-center mb-5">SENSOR-ACTUATOR NETWORK</h3>
 
-----
-
-Based on the technologies of the Internet of Things (IoT), a generic <a href="/docs/MW_IOT_TOOLKIT.pdf" target="_blank">IoT Toolkit</a> was developed for field and design research. It consists of a network of nodes that are built from sensors, actuators, processors and other components. The sensors captured activities and changes in the state of the research areas (e.g. image, sound, movement, distance, temperature, humidity) and actuators (e.g. motors, loudspeakers, lamps) actively influenced them. Energy supply units (e.g. batteries or solar panels) and network modules (e.g. LoRaWAN or 4/5G mobile networks) are used for power supply and networking.
-The IoT Toolkit was set up in the field as part of the design interventions and thus functioned as a media technology infrastructure. However, the use of technology was critically distinguished from the commercial and technophile 'smart' paradigm. The sensors were used to monitor the local living environment, the collected data was analyzed using the <a href="https://explore.mitwelten.org" target="_blank">'Explore'</a> software and presented to the public in the <a href="https://discover.mitwelten.org/app/" target="_blank">'Discover'</a> atlas. The actuators fed the evaluated measured values back into the physical environment and thus contributed to the design of a 'response-able environment' (instead of 'smart' or 'responsive') with extended communication capability and agency.
+<br>
+<div class="row align-items-start">
+    <div class="col-md-6">
+    <!-- TODO : figcatption -->
+        <figure>
+            <img src="/mitwelten-website/images/iot/enclosure.jpg" width="100%" alt="Interactive outdoor installation. Summer 2024, campus of the FHNW Academy of Art and Design.">
+	        <figcaption><p style="font-size:11px; text-align:right;">Outdoor IOT Camera (Raspberry Pi Zero)</p></figcaption>
+        </figure>
+    </div>
+    <div class="col-md-6 align-items-end">
+        <h4>Creating Response-able Spaces with IoT Toolkits</h4>
+        <p>
+            Based on the technologies of the Internet of Things (IoT), a generic <a href="/docs/MW_IOT_TOOLKIT.pdf" target="_blank">IoT Toolkit</a> was developed for field and design research. It consists of a network of nodes that are built from sensors, actuators, processors and other components. The sensors captured activities and changes in the state of the research areas (e.g. image, sound, movement, distance, temperature, humidity) and actuators (e.g. motors, loudspeakers, lamps) actively influenced them. Energy supply units (e.g. batteries or solar panels) and network modules (e.g. LoRaWAN or 4/5G mobile networks) are used for power supply and networking.
+        </p>
+        <p>
+    The IoT Toolkit was set up in the field as part of the design interventions and thus functioned as a media technology infrastructure. However, the use of technology was critically distinguished from the commercial and technophile 'smart' paradigm. The sensors were used to monitor the local living environment, the collected data was analyzed using the <a href="https://explore.mitwelten.org" target="_blank">'Explore'</a> software and presented to the public in the <a href="https://discover.mitwelten.org/app/" target="_blank">'Discover'</a> atlas. The actuators fed the evaluated measured values back into the physical environment and thus contributed to the design of a 'response-able environment' (instead of 'smart' or 'responsive') with extended communication capability and agency.
+        </p>
+    </div>
 </div>
-{{% /blocks/section  %}}
 
-
-
-<!-- New Section -->
-
-{{% blocks/section color=indigo %}}
-<div class="mx-auto" style="width: 90%">
-  <h1 class="text-center">Open IoT TOOLKIT</h1>
-
-----
-
-For development, we used open software and open hardware wherever possible or worked with simple, inexpensive components. To enable the devices to be assembled by laypersons in a do-it-yourself process, the findings and instructions were treated as open data and documented on the development platform Github (<a href="https://www.github.com/mitwelten" target="_blank">github.com/mitwelten</a>).
-First, we developed the generic IoT toolkit and the corresponding <a href="/docs/MW_Software_Environment.pdf" target="_blank">software environment</a> that can be used for biodiversity monitoring. In the context of interdisciplinary assembly workshops, the nodes were produced to test their use for citizen science. Building on this, we conducted sensor-based experiments in the field studies that enabled the identification of indicator species or families (insects and birds) in order to draw conclusions about the ecological quality of biodiversity. We used sensors and actuators to carry out design interventions that made the research results more tangible for the general public. Various relationship-building media formats were designed that allowed direct access to the research database, and participatory installations were set up in public spaces.
-
-</div>
 {{% /blocks/section %}}
 
 
 
+
 <!-- New Section -->
 
-{{< blocks/section color="yellow" type="row" >}}
+{{% blocks/section color="indigo" %}}
 
+<div class="mx-auto" style="width: 90%">
+  <h3 class="text-center mb-5">OPEN IOT TOOLKIT</h3>
 
-{{% blocks/feature icon="fa-edit" title="IoT Toolkit" %}}
 <br>
-  {{< figure src="/mitwelten-website/images/iot/IOT_Toolkit_PDF_Cover_Image.png" text="Walk App"  width="80%"  height="200px" link="/docs/MW_IOT_TOOLKIT.pdf" target="_blank">}}
-The <a href="/docs/MW_IOT_TOOLKIT.pdf" target="_blank">PDF document</a> describes the IoT toolkit, which consists of sensors, actuators and processors that were developed and used in the three case studies.
-<br>
-{{% /blocks/feature %}}
+<div class="row align-items-start">
+    <div class="col-md-6 align-items-end">
+        <p class="text-end">
+        For development, we used open software and open hardware wherever possible or worked with simple, inexpensive components. To enable the devices to be assembled by laypersons in a do-it-yourself process, the findings and instructions were treated as open data and documented on the development platform Github (<a href="https://www.github.com/mitwelten" target="_blank">github.com/mitwelten</a>).
+        First, we developed the generic IoT Toolkit and the corresponding <a href="/docs/MW_Software_Environment.pdf" target="_blank">software environment</a> that can be used for biodiversity monitoring. In the context of interdisciplinary assembly workshops, the nodes were produced to test their use for citizen science. 
+        </p>
+        <p class="text-end">
+        Building on this, we conducted sensor-based experiments in the field studies that enabled the identification of indicator species or families (insects and birds) in order to draw conclusions about the ecological quality of biodiversity. We used sensors and actuators to carry out design interventions that made the research results more tangible for the general public. Various relationship-building media formats were designed that allowed direct access to the research database, and participatory installations were set up in public spaces.
+        </p>
+    </div>
+    <div class="col-md-6">
+    <!-- TODO : figcatption -->
+        <figure>
+            <img src="/mitwelten-website/images/iot/pollinators.jpg" width="100%" alt="Interactive outdoor installation. Summer 2024, campus of the FHNW Academy of Art and Design.">
+	        <figcaption><p style="font-size:11px;">Machine Learning based Flower and Pollinator detection</p></figcaption>
+        </figure>
+    </div>
+</div>
+
+{{% /blocks/section %}}
 
 
-{{% blocks/feature icon="fa-globe" title="Applications" %}}
-<br>
-{{< figure src="/mitwelten-website/images/applications/discover_explorer.png" text="Mitwelten Applications"  width="80%" height="200px">}}
-
-The <a href="https://explore.mitwelten.org" target="_blank">Explore App</a> is used for exploratory data analysis.
-The <a href="https://discover.mitwelten.org/app/" target="_blank">Discover App</a> makes the results of the field studies available to the public.
-
-{{% /blocks/feature %}}
 
 
-{{% blocks/feature icon="fa-edit" title="Software Environment" %}}
-<br>
-  {{< figure src="/mitwelten-website/images/iot/IOT_Reference.png" text="Walk App"  width="80%" link="/docs/MW_Software_Environment.pdf" target="_blank" height="200px">}}
-The <a href="/docs/MW_Software_Environment.pdf" target="_blank">PDF document</a> describes the software environment developed together with the IoT Toolkit, including services, storage infrastructure, web applications and mobile applications.
-<br>
-{{% /blocks/feature %}}
+
+
+<!-- New Section -->
+
+{{< blocks/section color="yellow" >}}
+<div class="mx-auto" style="width: 90%">
+  <h3 class="text-center mb-5">OPEN IOT TOOLKIT</h3>
+  <div class="row">
+    <div class="col-md-3 col-sm-6 mb-5 mb-lg-0 d-flex flex-column text-center flex-grow-1 d-flex align-items-center justify-content-center">
+        <a class="link-dark link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
+                href="/docs/MW_IOT_TOOLKIT.pdf" 
+                style="min-height: 60px;">
+            <h4>IoT Toolkit</h4>
+        </a>
+      {{< figure src="/mitwelten-website/images/iot/Bauteil_PiCam_card.jpg" 
+                    text="IoT Toolkit"
+                    link="/docs/MW_IOT_TOOLKIT.pdf" 
+                    width="100%" >}}
+            <p style="min-height: 150px">
+                The <a href="/docs/MW_IOT_TOOLKIT.pdf" target="_blank">PDF document</a> describes the IoT toolkit, which consists of sensors, actuators and processors that were developed and used in the three case studies.
+                </p>
+    </div>
+    <div class="col-md-3 col-sm-6 mb-5 mb-lg-0 d-flex flex-column text-center flex-grow-1 d-flex align-items-center justify-content-center">
+        <a class="link-dark link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
+                href="/docs/MW_IOT_TOOLKIT.pdf" 
+                style="min-height: 60px;">
+            <h4>Applications</h4>
+        </a>
+      {{< figure src="/mitwelten-website/images/applications/discover_explorer.png" 
+                    text="Mitwelten Applications"
+                    width="100%" >}}
+        <p style="min-height: 150px">
+        The <a href="https://explore.mitwelten.org" target="_blank">Explore App</a> is used for exploratory data analysis.
+        The <a href="https://discover.mitwelten.org/app/" target="_blank">Discover App</a> makes the results of the field studies available to the public.
+        </p>
+    </div>
+    <div class="col-md-3 col-sm-6 mb-5 mb-lg-0 d-flex flex-column text-center flex-grow-1 d-flex align-items-center justify-content-center">
+        <a class="link-dark link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
+                href="/docs/MW_Software_Environment.pdf"
+            style="min-height: 60px;"> 
+            <h4>Software Environment </h4>
+        </a>
+      {{< figure src="/mitwelten-website/images/iot/IOT_Reference.png" 
+                    text="Mitwelten Applications"
+                    link="/docs/MW_Software_Environment.pdf" 
+                    width="100%" >}}
+            <p style="min-height: 150px">
+        The <a href="/docs/MW_Software_Environment.pdf" target="_blank">PDF document</a> describes the software environment developed together with the IoT Toolkit, including services, storage infrastructure, web applications and mobile applications.
+                </p>
+    </div>
+  </div>
+</div>
 
 {{< /blocks/section >}}
 
