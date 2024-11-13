@@ -13,11 +13,21 @@ linkTitle: dreispitz
 <!-- New Section -->
 
 {{% blocks/section color="primary" %}}
-<div class="mx-auto" style="width: 90%">
+<div class="mx-auto">
   <h3 class="text-center mb-5">SITUATION</h3>
-<h4 class="text-center mt-3 fw-light">
-The field study Dreispitzt was conducted in a post-industrial neighborhood on the outskirts of Basel, adjacent to the Merian Gardens but cut off by a main road, a railroad track and two tram lines. 170 years ago, Christoph Merian farmed on the Dreispitz, 100 years ago the Dreispitz was a materials storage area and 15 years ago it was a closed goods area. It is currently undergoing a process of transformation that is moving away from industrial production and the primacy of transportation towards more mixed forms of use with residential areas. The promotion of cultural and creative industries, the expansion of educational facilities and an architectural facelift in a trendy style are aimed at upgrading industrial wastelands to higher-income sections of the population. However, large areas are still reserved for businesses, services and retailers on the approximately 50-hectare Dreispitz site.
-</h4>
+<div class="row align-items-start px-0 gx-5">
+    <div class="col-xl-6">
+    <p style="text-align: justify; line-height: 1.5" class="fw-light h5">
+The field study Dreispitzt was conducted in a post-industrial neighborhood on the outskirts of Basel, adjacent to the Merian Gardens but cut off by a main road, a railroad track and two tram lines. 170 years ago, Christoph Merian farmed on the Dreispitz, 100 years ago the Dreispitz was a materials storage area and 15 years ago it was a closed goods area. It is currently undergoing a process of transformation that is moving away from industrial production and the primacy of transportation towards more mixed forms
+    </p>
+    </div>
+    <div class="col-xl-6 align-items-end">
+    <p style="text-align: justify; line-height: 1.5"  class="fw-light h5">
+ of use with residential areas. The promotion of cultural and creative industries, the expansion of educational facilities and an architectural facelift in a trendy style are aimed at upgrading industrial wastelands to higher-income sections of the population. However, large areas are still reserved for businesses, services and retailers on the approximately 50-hectare Dreispitz site.
+    </p>
+    </div>
+</div>
+
 {{% /blocks/section %}}
 
 
@@ -27,11 +37,9 @@ The field study Dreispitzt was conducted in a post-industrial neighborhood on th
 
 {{% blocks/section color="secondary" %}}
 
-<div class="mx-auto" style="width: 90%">
-  <h3 class="text-center mb-5">Characteristics and Research Focus</h3>
-
-<br>
-<div class="row align-items-start">
+<div class="mx-auto">
+  <h3 class="text-center mb-5">CHARACTERISTICS AND RESEARCH FOCUS</h3>
+<div class="row align-items-start px-0 gx-5">
     <div class="col-md-6">
     <!-- TODO : figcatption -->
         <figure>
@@ -40,10 +48,10 @@ The field study Dreispitzt was conducted in a post-industrial neighborhood on th
         </figure>
     </div>
     <div class="col-md-6 align-items-end">
-        <p>
+    <p style="text-align: justify; line-height: 1.5"  class="fw-light h5">
 The field study area exhibits characteristics and challenges typical of current transformation processes in Western European societies. Specific local, historical, administrative, and urban social conditions, however, also have an impact on the research process. The owner of the area, the Christoph Merian Foundation’s (CMS) is currently updating a master plan with sustainable and diverse approaches. Since the whole area is geared towards commercial and human requirements and the surfaces are largely sealed, only small but biologically valuable ruderal areas remain and should be connected to create corridors for wildlife. 
         </p>
-        <p>
+    <p style="text-align: justify; line-height: 1.5"  class="fw-light h5">
     The Dreispitz quarter therefore has a great need for ecological upgrading and also offers scope for landscape architecture and media-ecological design in the context of the FHNW Academy of Art and Design.
 This field study is focused on the development of adaptive, Interspecies Platforms with multifunctional furniture in order to design the limited space available in such a way that it allows animals and plants more development and protection, and to coordinate the various forms of use. Places and infrastructures were (re)designed where different living beings can meet and get to know each other and create new forms of coexistence. 
         </p>
@@ -59,7 +67,7 @@ This field study is focused on the development of adaptive, Interspecies Platfor
 
 {{% blocks/section color="yellow" %}}
 
-<div class="mx-auto" style="width: 90%">
+<div class="mx-auto">
 <h4 class="text-center fst-italic">
 What forms of cross-species coexistence can be stimulated in urban settlement areas through the design of interspecies infrastructures?
 </h4>
@@ -74,11 +82,11 @@ What forms of cross-species coexistence can be stimulated in urban settlement ar
 
 {{< blocks/section color="info" >}}
 
-<div class="mx-auto" style="width: 90%">
-  <h3 class="text-center mb-5">Interventions</h3>
-<h4 class="text-center mt-3 fw-light">
+<div class="mx-auto">
+  <h3 class="text-center mb-5">INTERVENTIONS</h3>
+<p class="text-center mt-3 fw-light h5">
 The following ‘interventions’ were conducted in the field study:
-</h4>
+</p>
 
 <div class="container mt-5 mb-5">
   <div class="row">
@@ -138,7 +146,6 @@ The following ‘interventions’ were conducted in the field study:
   </div>
 </div>
 
-{{< figure src="/mitwelten-website/images/logo/mitwelten_logo.png" width="100%" >}}
 {{< /blocks/section >}}
 
 

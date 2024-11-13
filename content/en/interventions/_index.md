@@ -11,20 +11,29 @@ menu: {main: {weight: 40}}
 
 <!-- New Section -->
 
-{{< blocks/lead color="secondary" >}}
-<div class="mx-auto" style="width: 90%">
+{{< blocks/section color="secondary" >}}
+<div class="mx-auto">
   <h3 class="text-center mb-5">INNOVATIVE APPROACHES TO ENHANCING BIODIVERSITY</h3>
+<div class="row align-items-start px-0 gx-5">
+  <div class="col-xl-6 text-end">
+    <p style="text-align: justify; line-height: 1.5"  class="fw-light h5">
+Biodiversity is a cornerstone of resilient and thriving ecosystems, essential for maintaining ecological balance and supporting life on Earth. To effectively preserve and promote biodiversity, it is crucial to employ diverse and innovative strategies. This section delves into four key approaches: Citizen Science-based Ecosystem Studies, which empower individuals to contribute to scientific research and data collection; 
+    </p>
+  </div>
 
-<h4 class="text-center mt-3 fw-light">
-Biodiversity is a cornerstone of resilient and thriving ecosystems, essential for maintaining ecological balance and supporting life on Earth. To effectively preserve and promote biodiversity, it is crucial to employ diverse and innovative strategies. This section delves into four key approaches: Citizen Science-based Ecosystem Studies, which empower individuals to contribute to scientific research and data collection; Communication Media, which play a vital role in raising awareness and disseminating information about biodiversity; Interspecies Platforms, which integrate the needs of various non-human species into urban and natural environments; and Participatory Installations, which engage communities in creating interactive and supportive habitats. Together, these approaches foster a collaborative and informed effort to sustain and enrich the natural world.
-</h4>
-{{< /blocks/lead >}}
+  <div class="col-xl-6 text-end">
+    <p style="text-align: justify; line-height: 1.5"  class="fw-light h5">
+Communication Media, which play a vital role in raising awareness and disseminating information about biodiversity; Interspecies Platforms, which integrate the needs of various non-human species into urban and natural environments; and Participatory Installations, which engage communities in creating interactive and supportive habitats. Together, these approaches foster a collaborative and informed effort to sustain and enrich the natural world.
+    </p>
+  </div>
+</div>
+{{< /blocks/section >}}
 
 
 
 {{< blocks/section color="yellow" >}}
 
-<div class="container mt-5 mb-5">
+<div class="mb-5">
   <div class="row">
     <!-- Spalte 1 -->
     <div class="col-md-3 col-sm-6 mb-5 mb-lg-0 d-flex flex-column text-center">
@@ -79,6 +88,6 @@ Biodiversity is a cornerstone of resilient and thriving ecosystems, essential fo
 </div>
 
 
-<figure class="text-center"> <img src="/mitwelten-website/images/logo/mitwelten_logo.png" width="90%"> </figure>
+<figure class="text-center"> <img src="/mitwelten-website/images/logo/mitwelten_logo.png" width="80%"> </figure>
 
 {{< /blocks/section >}}
