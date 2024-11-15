@@ -14,15 +14,15 @@ menu: {intervention: {weight: 10}}
 {{% blocks/section %}}
 
 <div class="mx-auto">
-    <p class="fw-light h5 justify">
+    <p class="fw-light h5 justify mb-3">
         As part of the Mitwelten research project, we developed a set of media formats for communicating research results. The aim was to sensitize the public to local ecosystems and their unspectacular but ecologically important more-than-human inhabitants. From a technological point of view, it was important that the mediation approaches were based as much as possible on the project's data sets and findings and that they had direct access to the research database. In this sense, the media applications are output channels of the IoT Toolkit and should be generically applicable for other locations and research projects. We developed and investigated the following four different media approaches:
-        <br>
-        <br>
-        - WalkApp: a GPS-based, context-aware web app
-        - Discover: an atlas-like, map-based information display with selection and filtering functions
-        - Panorama: an interactive 3D image-based approach
-        - WildCam TV: a cinematic image sequencer
     </p>
+    <ul class="fw-light">
+        <li><strong>WalkApp:</strong> a GPS-based, context-aware web app</li>
+        <li><strong>Discover:</strong> an atlas-like, map-based information display with selection and filtering functions</li>
+        <li><strong>Panorama:</strong> an interactive 3D image-based approach</li>
+        <li><strong>WildCam TV:</strong> a cinematic image sequencer</li>
+    </ul>
 </div>
 
 {{% /blocks/section %}}
