@@ -1,6 +1,6 @@
 baseURL: "https://andriwild.github.io/mitwelten-website"
 #relativeURLs: true
-title: "Mitwelten"
+title: MITWELTEN
 publishDir: "docs"
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
