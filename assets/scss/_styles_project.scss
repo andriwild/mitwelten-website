@@ -7,21 +7,6 @@
   box-shadow:  0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
-.card-img-overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0, 0, 0, 0.2);
-  pointer-events: none; 
-}
-
-.img-zoom:hover {
-  transform: scale(1.05);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-}
-
 .number {
   font-size: 5rem;
   font-weight: bold;
@@ -35,9 +20,11 @@
   top: 0;
   bottom: 0;
 }
+
 .row {
   position: relative;
 }
+
 @media (max-width: 576px) {
   .divider {
     display: none;
@@ -56,4 +43,24 @@
   padding: 1rem;
   border-radius: 0.5rem;
   margin-bottom: 1rem;
+}
+
+p {
+    line-height: 1.5 !important;
+}
+
+.text-column {
+  text-align: justify;
+  column-count: 1;
+  column-gap: 48px;
+}
+
+@media (min-width: 768px) {
+  .text-column {
+    column-count: 2;
+  }
+}
+
+.justify {
+    text-align: justify
 }

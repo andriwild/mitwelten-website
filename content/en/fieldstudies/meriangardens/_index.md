@@ -16,21 +16,10 @@ linkTitle: meriangardens
 {{% blocks/section color="primary" %}}
 
 <div class="mx-auto">
-  <h3 class="text-center mb-5">SITUATION</h3>
-<hp class="text-center mt-3 fw-light">
-<div class="row align-items-start px-0 gx-5">
-    <div class="col-xl-6">
-    <p style="text-align: justify; line-height: 1.5" class="fw-light h5">
-The Merian Gardens are a spacious botanical garden on the outskirts of Basel and are located in the millennia-old river landscape of the Birs. The terraces created by the river structure the Merian Gardens topographically. Over the centuries, various personalities have left their mark on the area, including Christoph Merian, whose possessions are currently managed by the Christoph Merian Foundation. In the 19th century, the wild river 
+    <h3 class="text-center mb-5">SITUATION</h3>
+    <p class="fw-light h5 text-column">
+        The Merian Gardens are a spacious botanical garden on the outskirts of Basel and are located in the millennia-old river landscape of the Birs. The terraces created by the river structure the Merian Gardens topographically. Over the centuries, various personalities have left their mark on the area, including Christoph Merian, whose possessions are currently managed by the Christoph Merian Foundation. In the 19th century, the wild river landscape was first converted into an important agricultural site and later, step by step, into a garden complex. Today, the Merian Gardens combine scientific plant collections, nature conservation areas of national importance, horticulture, and biological non-profit agriculture with farm animals. They are aimed at a culturally and scientifically interested public and are a recreational area for the local population.
     </p>
-    </div>
-    <div class="col-xl-6 align-items-end">
-    <p style="text-align: justify; line-height: 1.5"  class="fw-light h5">
-landscape was first converted into an important agricultural site and later, step by step, into a garden complex. Today, the Merian Gardens combine scientific plant collections, nature conservation areas of national importance, horticulture, and biological non-profit agriculture with farm animals. They are aimed at a culturally and scientifically interested public and are a recreational area for the local population.
-    </p>
-    </div>
-</div>
-
 </div>
 
 {{% /blocks/section %}}
@@ -43,28 +32,29 @@ landscape was first converted into an important agricultural site and later, ste
 {{% blocks/section color="secondary" %}}
 
 <div class="mx-auto">
-  <h3 class="text-center mb-5">CHARACTERISTICS AND RESEARCH FOCUS</h3>
-
-<br>
-<div class="row align-items-start px-0 gx-5">
-    <div class="col-md-6">
-    <!-- TODO : figcatption -->
-        <figure>
-            <img src="/mitwelten-website/images/fieldstudies/illustration_2.jpg" width="100%" alt="Interactive outdoor installation. Summer 2024, campus of the FHNW Academy of Art and Design.">
-	        <figcaption><p style="font-size:11px; text-align: end"></p></figcaption>
-        </figure>
-    </div>
-    <div class="col-md-6 align-items-end">
-    <p style="text-align: justify; line-height: 1.5"  class="fw-light h5">
-We chose the field study of the Merian Gardens because it offers a broad field of investigation with a variety of perspectives, needs, services, and correlations of the involved stakeholders. Negotiation processes between education and entertainment, people and nature, farm animals and wild animals as well as cultivated and wild plants. On paths, along canals, in greenhouses and on animal trails or in the vicinity of their shelters, a complex interplay of the actors and habitat types can be observed. The field study was carried out in close cooperation with the Merian Gardens. 
-        </p>
-    <p style="text-align: justify; line-height: 1.5"  class="fw-light h5">
-They were interested in using our technologies to learn more about the non-human inhabitants that populate the Merian Gardens. The biologist and Head of Science & Documentation, Dr. Lisa Eggenschwiler accompanied the research and established contacts with the various people working in the Merian Gardens, from the management to the gardening and agriculture departments and to the mediation team. In this field study the focus was on investigating the relationship between nature, culture and technology, and the inclusion of sensor-based survey methods and multimedia presentation formats for analyzing biodiversity and ecological knowledge production. 
-        </p>
+    <h3 class="text-center mb-5">CHARACTERISTICS AND RESEARCH FOCUS</h3>
+    <br>
+    <div class="row align-items-start px-0 gx-5">
+        <div class="col-md-6">
+            <!-- TODO : figcatption -->
+            <figure>
+                <img src="/mitwelten-website/images/fieldstudies/illustration_2.jpg" width="100%" alt="Interactive outdoor installation. Summer 2024, campus of the FHNW Academy of Art and Design.">
+                <figcaption><p style="font-size:11px; text-align: end"></p></figcaption>
+            </figure>
+        </div>
+        <div class="col-md-6 align-items-end">
+            <p class="fw-light h5 justify">
+                We chose the field study of the Merian Gardens because it offers a broad field of investigation with a variety of perspectives, needs, services, and correlations of the involved stakeholders. Negotiation processes between education and entertainment, people and nature, farm animals and wild animals as well as cultivated and wild plants. On paths, along canals, in greenhouses and on animal trails or in the vicinity of their shelters, a complex interplay of the actors and habitat types can be observed. The field study was carried out in close cooperation with the Merian Gardens. 
+            </p>
+            <p class="fw-light h5 justify">
+                They were interested in using our technologies to learn more about the non-human inhabitants that populate the Merian Gardens. The biologist and Head of Science & Documentation, Dr. Lisa Eggenschwiler accompanied the research and established contacts with the various people working in the Merian Gardens, from the management to the gardening and agriculture departments and to the mediation team. In this field study the focus was on investigating the relationship between nature, culture and technology, and the inclusion of sensor-based survey methods and multimedia presentation formats for analyzing biodiversity and ecological knowledge production. 
+            </p>
+        </div>
     </div>
 </div>
 
 {{% /blocks/section %}}
+
 
 
 
@@ -73,11 +63,11 @@ They were interested in using our technologies to learn more about the non-human
 {{% blocks/section color="yellow" %}}
 
 <div class="mx-auto">
-
-<h4 class="text-center fst-italic">
-What scope for action arises from the media-ecological determination of the behaviors, needs, achievements and mutual relationships of different actors in a hybrid ecosystem?
-</h4>
+    <h4 class="text-center fst-italic">
+        What scope for action arises from the media-ecological determination of the behaviors, needs, achievements and mutual relationships of different actors in a hybrid ecosystem?
+    </h4>
 </div>
+
 {{% /blocks/section %}}
 
 
@@ -108,4 +98,3 @@ What scope for action arises from the media-ecological determination of the beha
 </div>
 
 {{< /blocks/section >}}
-
