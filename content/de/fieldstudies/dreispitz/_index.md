@@ -84,7 +84,7 @@ Die folgenden ‘Interventionen’ wurden in der Feldstudie durchgeführt:
 - __Ökosystemstudien__: Bird Diversity, Pollinator Diversity, Human Presence
 - __Medienanwendungen__: Discover, WildCam TV
 - __Interspezies-Plattformen__: Interspecies Outdoor Furniture, Hacked Infrastructures, Stepping Stone Habitats
-- __Partizipative Installationen__: Lamenting Trees
+- __Partizipative Installationen__: Sensing with Trees
 
 </div>
 

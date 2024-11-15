@@ -1,5 +1,6 @@
 ---
 title: Mitwelten
+linkTitle: MITWELTEN
 ---
 
 
@@ -7,9 +8,7 @@ title: Mitwelten
 
 {{< blocks/cover title="MITWELTEN" image_anchor="center" height="full" >}}
 
-<div class="mx-auto">
-    <p></br></p>
-    <p></br></p>
+<div class="mx-auto mb-5">
     <h1>
         Interdisciplinary design research project<br>funded by the Swiss National Science Foundation<br>2020-2024
     </h1>
@@ -23,21 +22,11 @@ title: Mitwelten
 {{% blocks/section color="blue" %}}
 
 <div class="mx-auto">
-  <h3 class="text-center mb-5">THE MITWELTEN APPROACH</h3>
-
-<div class="row align-items-start px-0 gx-5">
-    <div class="col-xl-6">
-    <p style="text-align: justify; line-height: 1.5" class="fw-light h5">
-The increase in the human population and industrialization processes are leading to a worldwide loss of habitats and species. Industrial farming leads to agricultural desertification, which offers fewer living conditions to wild animals than human settlements with small-scale structures and gardens. Until now, however, green spaces in settlement design have been geared towards humans, while humans have been excluded from nature conservation biology. The supposed contradictions between nature, culture and technology should be brought into a constructive interplay to promote biodiversity in peri-urban areas.The attitude of the Mitwelten research project is post-humanistic and post-natural: it attempts to dissolve the central position of humans and to integrate them as a mere element into
+    <h3 class="text-center mb-5">THE MITWELTEN APPROACH</h3>
+    <p class="fw-light h5 text-column">
+        The increase in the human population and industrialization processes are leading to a worldwide loss of habitats and species. Industrial farming leads to agricultural desertification, which offers fewer living conditions to wild animals than human settlements with small-scale structures and gardens. Until now, however, green spaces in settlement design have been geared towards humans, while humans have been excluded from nature conservation biology. The supposed contradictions between nature, culture and technology should be brought into a constructive interplay to promote biodiversity in peri-urban areas.The attitude of the Mitwelten research project is post-humanistic and post-natural: it attempts to dissolve the central position of humans and to integrate them as a mere element into the more-than-human ecosystem. The interdisciplinary project aims to provide design approaches for promoting biodiversity in residential and recreational areas using the tools of design research and the natural, cultural and computer sciences. Through three field studies carried out in and around Basel, Switzerland, it explores how media design interventions based on an ‘IoT Toolkit’ (Internet of Things Toolkit), can enhance biodiversity in local ecosystems. The embedded media-technological infrastructure forms a 'response-able environment' that integrates the wider public and the needs and contributions of animals and plants to promote cohabitation.
     </p>
-    </div>
-    <div class="col-xl-6 align-items-end">
-    <p style="text-align: justify; line-height: 1.5"  class="fw-light h5">
- the more-than-human ecosystem. The interdisciplinary project aims to provide design approaches for promoting biodiversity in residential and recreational areas using the tools of design research and the natural, cultural and computer sciences. Through three field studies carried out in and around Basel, Switzerland, it explores how media design interventions based on an ‘IoT Toolkit’ (Internet of Things Toolkit), can enhance biodiversity in local ecosystems. The embedded media-technological infrastructure forms a 'response-able environment' that integrates the wider public and the needs and contributions of animals and plants to promote cohabitation.
-    </p>
-    </div>
 </div>
-
 
 {{% /blocks/section %}}
 
@@ -47,14 +36,15 @@ The increase in the human population and industrialization processes are leading
 <!-- New Section -->
 
 {{% blocks/section color="primary" %}}
+
 <div class="mx-auto" style="width: 100%">
-
-<h3 class="text-center fst-italic fw-light">
-How can media design interventions and infrastructures based on the Internet of Things contribute ecologically and culturally to the <strong>promotion of biodiversity</strong> in local ecosystems?
-</h3>
-
+    <h3 class="text-center fst-italic fw-light">
+        How can media design interventions and infrastructures based on the Internet of Things contribute ecologically and culturally to the <strong>promotion of biodiversity</strong> in local ecosystems?
+    </h3>
 </div>
+
 {{% /blocks/section %}}
+
 
 
 
@@ -63,11 +53,11 @@ How can media design interventions and infrastructures based on the Internet of 
 {{% blocks/section color="info" %}}
 
 <div class="mx-auto" style="width: 100%">
-<h3 class="text-center mt-3 fw-light">
-The <strong>design interventions</strong> aim to give plants and animals a voice, expand ecological knowledge and experience, create new forms of cross-species coexistence and thereby cultivate ecological values and behaviors. To this end, an <a href="https://github.com/mitwelten">Internet of Things Toolkit</a> is being developed that serves as a media technology infrastructure for the design interventions.
-</h3>
-
+    <h3 class="text-center mt-3 fw-light">
+        The <strong>design interventions</strong> aim to give plants and animals a voice, expand ecological knowledge and experience, create new forms of cross-species coexistence and thereby cultivate ecological values and behaviors. To this end, an <a href="https://github.com/mitwelten">Internet of Things Toolkit</a> is being developed that serves as a media technology infrastructure for the design interventions.
+    </h3>
 </div>
+
 {{% /blocks/section %}}
 
 
@@ -75,10 +65,10 @@ The <strong>design interventions</strong> aim to give plants and animals a voice
 <!-- New Section -->
 
 {{% blocks/section color="yellow" %}}
-<div class="mx-auto" style="width: 90%">
-<h4 class="text-center fw-light">
-Collaborative research develops the <em>ideal</em> of experience-led and knowledge-based design of livable landscape architectures and sustainable everyday processes for all creatures in the form of media-ecological prototypes and infrastructures of ecological structural change: <br>human colonies and their environments become <strong>biodiverse MITWELTEN</strong>.
-</h4>
+<div class="mx-auto">
+    <h4 class="text-center fw-light">
+        Collaborative research develops the <em>ideal</em> of experience-led and knowledge-based design of livable landscape architectures and sustainable everyday processes for all creatures in the form of media-ecological prototypes and infrastructures of ecological structural change: <br>human colonies and their environments become <strong>biodiverse MITWELTEN</strong>.
+    </h4>
 </div>
 <figure class="text-center mt-5"> <img src="/mitwelten-website/images/logo/mitwelten_logo.png" width="80%"> </figure>
 {{% /blocks/section %}}
@@ -110,7 +100,6 @@ Collaborative research develops the <em>ideal</em> of experience-led and knowled
             <p>Email: <a href="mailto:mitwelten@fhnw.ch">mitwelten@fhnw.ch</a></p>
         </div>
     </div>
-
 </div>
-{{< /blocks/section >}}
 
+{{< /blocks/section >}}
