@@ -1,7 +1,5 @@
 ---
 title: IOT-Toolkit
-linkTitle: IOT-TOOLKIT
-menu: {main: {weight: 20}}
 ---
 
 {{< blocks/cover title="IoT TOOLKIT" image_anchor="top" height="full" color="gray" >}}
@@ -19,14 +17,14 @@ menu: {main: {weight: 20}}
             <!-- TODO : figcatption -->
             <figure>
                 <img src="/mitwelten-website/images/iot/enclosure.jpg" alt="Interactive outdoor installation. Summer 2024, campus of the FHNW Academy of Art and Design.">
-                <figcaption><p style="font-size:11px; text-align:right;">Outdoor IOT Camera (Raspberry Pi Zero)</p></figcaption>
+                <figcaption><p class="text-end">Outdoor IOT Camera (Raspberry Pi Zero)</p></figcaption>
             </figure>
         </div>
         <div class="col-xl-6 align-items-end">
-            <p style="text-align: justify; line-height: 1.5"  class="fw-light h5">
+            <p class="justify">
                 Based on the technologies of the Internet of Things (IoT), a generic <a href="/docs/MW_IOT_TOOLKIT.pdf" target="_blank">IoT Toolkit</a> was developed for field and design research. It consists of a network of nodes that are built from sensors, actuators, processors and other components. The sensors captured activities and changes in the state of the research areas (e.g. image, sound, movement, distance, temperature, humidity) and actuators (e.g. motors, loudspeakers, lamps) actively influenced them. Energy supply units (e.g. batteries or solar panels) and network modules (e.g. LoRaWAN or 4/5G mobile networks) are used for power supply and networking.
             </p>
-            <p style="text-align: justify; line-height: 1.5"  class="fw-light h5">
+            <p class="justify">
                 The IoT Toolkit was set up in the field as part of the design interventions and thus functioned as a media technology infrastructure. However, the use of technology was critically distinguished from the commercial and technophile 'smart' paradigm. The sensors were used to monitor the local living environment, the collected data was analyzed using the <a href="https://explore.mitwelten.org" target="_blank">'Explore'</a> software and presented to the public in the <a href="https://discover.mitwelten.org/app/" target="_blank">'Discover'</a> atlas. The actuators fed the evaluated measured values back into the physical environment and thus contributed to the design of a 'response-able environment' (instead of 'smart' or 'responsive') with extended communication capability and agency.
             </p>
         </div>
@@ -46,11 +44,11 @@ menu: {main: {weight: 20}}
 <h3 class="text-center mb-5">OPEN IOT TOOLKIT</h3>
 <div class="row align-items-start px-0 gx-5">
     <div class="col-xl-6 text-end">
-        <p style="text-align: justify; line-height: 1.5"  class="fw-light h5">
+        <p class="justify">
             For development, we used open software and open hardware wherever possible or worked with simple, inexpensive components. To enable the devices to be assembled by laypersons in a do-it-yourself process, the findings and instructions were treated as open data and documented on the development platform Github (<a href="https://www.github.com/mitwelten" target="_blank">github.com/mitwelten</a>).
             First, we developed the generic IoT Toolkit and the corresponding <a href="/docs/MW_Software_Environment.pdf" target="_blank">software environment</a> that can be used for biodiversity monitoring. In the context of interdisciplinary assembly workshops, the nodes were produced to test their use for citizen science. 
         </p>
-        <p style="text-align: justify; line-height: 1.5"  class="fw-light h5">
+        <p class="justify">
             Building on this, we conducted sensor-based experiments in the field studies that enabled the identification of indicator species or families (insects and birds) in order to draw conclusions about the ecological quality of biodiversity. We used sensors and actuators to carry out design interventions that made the research results more tangible for the general public. Various relationship-building media formats were designed that allowed direct access to the research database, and participatory installations were set up in public spaces.
         </p>
     </div>
@@ -58,7 +56,7 @@ menu: {main: {weight: 20}}
         <!-- TODO : figcatption -->
         <figure>
             <img src="/mitwelten-website/images/iot/pollinators.jpg" width="100%" alt="Interactive outdoor installation. Summer 2024, campus of the FHNW Academy of Art and Design.">
-            <figcaption><p style="font-size:11px;">Machine Learning based Flower and Pollinator detection</p></figcaption>
+            <figcaption><p>Machine Learning based Flower and Pollinator detection</p></figcaption>
         </figure>
     </div>
 </div>
@@ -138,12 +136,12 @@ menu: {main: {weight: 20}}
 <div class="mx-auto">
     <h3 class="text-center mb-5">TEAM TECHNOLOGY & DEVELOPMENT</h3>
     <div class="container">
-        <div class="row justify-content-evenly">
-            <div class="col-sm">
+        <div class="row">
+            <div class="col">
                 {{% blocks/iconlink icon="fab fa-github" url="https://github.com/mitwelten" url_text="Github"  %}}
                 {{% /blocks/iconlink %}}
             </div>
-            <div class="col-sm">
+            <div class="col-6">
                 <p>
                     Management: Thomas Amberg<br>
                     Institute for Mobile and Distributed Systems<br>
@@ -151,7 +149,7 @@ menu: {main: {weight: 20}}
                     Bahnhofstrasse 6, 5210 Windisch
                 </p>
             </div>
-            <div class="col-sm">
+            <div class="col">
                 {{% blocks/iconlink icon="fa-envelope" url="mailto:mitwelten.technik@fhnw.ch" url_text="Email" %}}
                 {{% /blocks/iconlink %}}
             </div>
