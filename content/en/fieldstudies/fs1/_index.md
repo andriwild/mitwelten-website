@@ -33,7 +33,15 @@ title: Merian Gardens
     <h3 class="text-center mb-5">CHARACTERISTICS AND RESEARCH FOCUS</h3>
     <br>
     <div class="row align-items-start px-0 gx-5">
-        <div class="col-md-6">
+        <div class="col-md-6 align-items-end">
+            <p class="justify">
+                We chose the field study of the Merian Gardens because it offers a broad field of investigation with a variety of perspectives, needs, services, and correlations of the involved stakeholders. Negotiation processes between education and entertainment, people and nature, farm animals and wild animals as well as cultivated and wild plants. On paths, along canals, in greenhouses and on animal trails or in the vicinity of their shelters, a complex interplay of the actors and habitat types can be observed. The field study was carried out in close cooperation with the Merian Gardens. 
+            </p>
+            <p class="justify">
+                They were interested in using our technologies to learn more about the non-human inhabitants that populate the Merian Gardens. The biologist and Head of Science & Documentation, Dr. Lisa Eggenschwiler accompanied the research and established contacts with the various people working in the Merian Gardens, from the management to the gardening and agriculture departments and to the mediation team. In this field study the focus was on investigating the relationship between nature, culture and technology, and the inclusion of sensor-based survey methods and multimedia presentation formats for analyzing biodiversity and ecological knowledge production. 
+            </p>
+        </div>
+        <div class="col-md-6 order-md-first">
             <figure>
                 <img src="/mitwelten-website/images/fieldstudies/FS1/FS1_1.jpg" width="100%" alt="In the foreground: a dry meadow; in the middle: lawn and iris flower collection; in the background: historical farm buildings by the architect Melchior Berri (1801-1854), the left one today used as a restaurant.">
                 <figcaption><p class="text-end">In the foreground: a dry meadow; in the middle: lawn and iris flower collection; in the background: historical farm buildings by the architect Melchior Berri (1801-1854), the left one today used as a restaurant.</p></figcaption>
@@ -42,14 +50,6 @@ title: Merian Gardens
                 <img src="/mitwelten-website/images/fieldstudies/FS1/FS1_2.jpg" width="100%" alt="In the foreground: the cottage garden; in the background: historical buildings, the mill (Mill Museum); above: the Villa Merian, built by Alexander Löffel (1662–1736) and used as a stately home by the Merians.">
                 <figcaption><p class="text-end">In the foreground: the cottage garden; in the background: historical buildings, the mill (Mill Museum); above: the Villa Merian, built by Alexander Löffel (1662–1736) and used as a stately home by the Merians.</p></figcaption>
             </figure>
-        </div>
-        <div class="col-md-6 align-items-end">
-            <p class="justify">
-                We chose the field study of the Merian Gardens because it offers a broad field of investigation with a variety of perspectives, needs, services, and correlations of the involved stakeholders. Negotiation processes between education and entertainment, people and nature, farm animals and wild animals as well as cultivated and wild plants. On paths, along canals, in greenhouses and on animal trails or in the vicinity of their shelters, a complex interplay of the actors and habitat types can be observed. The field study was carried out in close cooperation with the Merian Gardens. 
-            </p>
-            <p class="justify">
-                They were interested in using our technologies to learn more about the non-human inhabitants that populate the Merian Gardens. The biologist and Head of Science & Documentation, Dr. Lisa Eggenschwiler accompanied the research and established contacts with the various people working in the Merian Gardens, from the management to the gardening and agriculture departments and to the mediation team. In this field study the focus was on investigating the relationship between nature, culture and technology, and the inclusion of sensor-based survey methods and multimedia presentation formats for analyzing biodiversity and ecological knowledge production. 
-            </p>
         </div>
     </div>
 </div>

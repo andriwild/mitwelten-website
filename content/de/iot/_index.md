@@ -1,10 +1,8 @@
 ---
 title: iot-toolkit
-linkTitle: IOT-TOOLKIT
-menu: {main: {weight: 20}}
 ---
 
-{{< blocks/cover title="IoT TOOLKIT" image_anchor="top" height="full" color="gray" >}}
+{{< blocks/cover title="IOT TOOLKIT" image_anchor="top" height="full" color="gray" >}}
 {{< blocks/link-down color="secondary" >}}
 {{< /blocks/cover >}}
 

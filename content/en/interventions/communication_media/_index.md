@@ -41,16 +41,6 @@ title: Communication Media
         How should a location-based app be designed so that local information on natural events can be experienced and users are encouraged to participate?
     </h4>
     <div class="row align-items-start px-0 gx-5">
-        <div class="col-xl-6">
-            <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/WalkApp1.jpg" width="100%" alt="Photo of a walk with the WalkApp on the cell phone, on the bridge of the village stream in the Reinacher Heide.">
-                <figcaption><p class="text-end">Photo of a walk with the WalkApp on the cell phone, on the bridge of the village stream in the Reinacher Heide.</p></figcaption>
-            </figure>
-            <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/WalkApp2.png" width="100%" alt="Four screenshots of different interfaces and 'experience modes' (from left to right): information on orchid species, audio clips of expert interviews, photo contributions from visitors, data visualization of identified insects.">
-                <figcaption><p class="text-end">Four screenshots of different interfaces and 'experience modes' (from left to right): information on orchid species, audio clips of expert interviews, photo contributions from visitors, data visualization of identified insects.</p></figcaption>
-            </figure>
-        </div>
         <div class="col-md-6 align-items-end">
             <h4>Situation and ecological challenge</h4>
             <p class="justify">
@@ -63,6 +53,16 @@ title: Communication Media
             <p class="justify mt-5">
                 A more detailed description of the medium and the findings are presented in the publication <strong>'Mitwelten. Media-ecological Design Strategies for Improving Peri Urban Biodiversity'</strong>. (Coming soon!)
             </p>
+        </div>
+        <div class="col-xl-6 order-md-first">
+            <figure>
+                <img src="/mitwelten-website/images/interventions/communication_media/WalkApp1.jpg" width="100%" alt="Photo of a walk with the WalkApp on the cell phone, on the bridge of the village stream in the Reinacher Heide.">
+                <figcaption><p class="text-end">Photo of a walk with the WalkApp on the cell phone, on the bridge of the village stream in the Reinacher Heide.</p></figcaption>
+            </figure>
+            <figure>
+                <img src="/mitwelten-website/images/interventions/communication_media/WalkApp2.png" width="100%" alt="Four screenshots of different interfaces and 'experience modes' (from left to right): information on orchid species, audio clips of expert interviews, photo contributions from visitors, data visualization of identified insects.">
+                <figcaption><p class="text-end">Four screenshots of different interfaces and 'experience modes' (from left to right): information on orchid species, audio clips of expert interviews, photo contributions from visitors, data visualization of identified insects.</p></figcaption>
+            </figure>
         </div>
     </div>
 </div>
@@ -124,18 +124,7 @@ title: Communication Media
     <h4 class="text-center fst-italic mb-5">
         What potential do interactive 3D images have for helping people to put themselves in the position of non-human actors and as a publication format?
     </h4>
-    <br>
     <div class="row align-items-start px-0 gx-5">
-        <div class="col-md-6">
-            <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/Panorama1.png" width="100%" alt="Screenshot of the 'Panorama' application at the ‘Weide’ site in the Merian Gardens, with interactive buttons and a map navigation tool, for retrieving information and measurement data.">
-                <figcaption><p class="text-end">Screenshot of the 'Panorama' application at the ‘Weide’ site in the Merian Gardens, with interactive buttons and a map navigation tool, for retrieving information and measurement data.</p></figcaption>
-            </figure>
-            <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/Panorama2.png" width="100%" alt="Screenshot of the 'Panorama' application at the 'cottage garden' site in the Merian Gardens, in the middle of the fennel bed, with interactive buttons for retrieving information and measurement data.">
-                <figcaption><p class="text-end">Screenshot of the 'Panorama' application at the 'cottage garden' site in the Merian Gardens, in the middle of the fennel bed, with interactive buttons for retrieving information and measurement data.</p></figcaption>
-            </figure>
-        </div>
         <div class="col-md-6 align-items-end">
             <h4>Situation and ecological challenge</h4>
             <p class="justify">
@@ -148,6 +137,16 @@ title: Communication Media
             <p class="justify mt-5">
                 A more detailed description of the medium and the findings are presented in the publication <strong>'Mitwelten. Media-ecological Design Strategies for Improving Peri Urban Biodiversity'</strong>. (Coming soon!)
             </p>
+        </div>
+        <div class="col-md-6 order-md-first">
+            <figure>
+                <img src="/mitwelten-website/images/interventions/communication_media/Panorama1.png" width="100%" alt="Screenshot of the 'Panorama' application at the ‘Weide’ site in the Merian Gardens, with interactive buttons and a map navigation tool, for retrieving information and measurement data.">
+                <figcaption><p class="text-end">Screenshot of the 'Panorama' application at the ‘Weide’ site in the Merian Gardens, with interactive buttons and a map navigation tool, for retrieving information and measurement data.</p></figcaption>
+            </figure>
+            <figure>
+                <img src="/mitwelten-website/images/interventions/communication_media/Panorama2.png" width="100%" alt="Screenshot of the 'Panorama' application at the 'cottage garden' site in the Merian Gardens, in the middle of the fennel bed, with interactive buttons for retrieving information and measurement data.">
+                <figcaption><p class="text-end">Screenshot of the 'Panorama' application at the 'cottage garden' site in the Merian Gardens, in the middle of the fennel bed, with interactive buttons for retrieving information and measurement data.</p></figcaption>
+            </figure>
         </div>
     </div>
 </div>

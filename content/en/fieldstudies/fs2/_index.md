@@ -31,16 +31,6 @@ title: Dreispitz
 <div class="mx-auto">
     <h3 class="text-center mb-5">CHARACTERISTICS AND RESEARCH FOCUS</h3>
     <div class="row align-items-start px-0 gx-5">
-        <div class="col-md-6">
-            <figure>
-                <img src="/mitwelten-website/images/fieldstudies/FS2/FS2_1.jpg" width="100%" alt="Central square of the campus area with renovated Freilager buildings and the new high-rise building.">
-                <figcaption><p class="text-end">Central square of the campus area with renovated Freilager buildings and the new high-rise building.</p></figcaption>
-            </figure>
-            <figure>
-                <img src="/mitwelten-website/images/fieldstudies/FS2/FS2_2.jpg" width="100%" alt="A shady courtyard between buildings of the FHNW Academy of Art and Design, with wild plants growing.">
-                <figcaption><p class="text-end">A shady courtyard between buildings of the FHNW Academy of Art and Design, with wild plants growing.</p></figcaption>
-            </figure>
-        </div>
         <div class="col-md-6 align-items-end">
             <p class="justify">
                 The field study area exhibits characteristics and challenges typical of current transformation processes in Western European societies. Specific local, historical, administrative, and urban social conditions, however, also have an impact on the research process. The owner of the area, the Christoph Merian Foundation’s (CMS) is currently updating a master plan with sustainable and diverse approaches. Since the whole area is geared towards commercial and human requirements and the surfaces are largely sealed, only small but biologically valuable ruderal areas remain and should be connected to create corridors for wildlife. 
@@ -49,6 +39,16 @@ title: Dreispitz
                 The Dreispitz quarter therefore has a great need for ecological upgrading and also offers scope for landscape architecture and media-ecological design in the context of the FHNW Academy of Art and Design.
                 This field study is focused on the development of adaptive, Interspecies Platforms with multifunctional furniture in order to design the limited space available in such a way that it allows animals and plants more development and protection, and to coordinate the various forms of use. Places and infrastructures were (re)designed where different living beings can meet and get to know each other and create new forms of coexistence. 
             </p>
+        </div>
+        <div class="col-md-6 order-md-first">
+            <figure>
+                <img src="/mitwelten-website/images/fieldstudies/FS2/FS2_1.jpg" width="100%" alt="Central square of the campus area with renovated Freilager buildings and the new high-rise building.">
+                <figcaption><p class="text-end">Central square of the campus area with renovated Freilager buildings and the new high-rise building.</p></figcaption>
+            </figure>
+            <figure>
+                <img src="/mitwelten-website/images/fieldstudies/FS2/FS2_2.jpg" width="100%" alt="A shady courtyard between buildings of the FHNW Academy of Art and Design, with wild plants growing.">
+                <figcaption><p class="text-end">A shady courtyard between buildings of the FHNW Academy of Art and Design, with wild plants growing.</p></figcaption>
+            </figure>
         </div>
     </div>
 </div>
