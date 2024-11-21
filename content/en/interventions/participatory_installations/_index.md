@@ -32,16 +32,6 @@ title: Participatory Installations
     </h4>
     <br>
     <div class="row align-items-start px-0 gx-5">
-        <div class="col-md-6">
-            <figure>
-                <img src="/mitwelten-website/images/interventions/participatory_installations/LTrees01.jpg" width="100%" alt="Speakers of the installation “Sensing with Trees”, with which the trees are given a voice.">
-                <figcaption><p class="text-end">Speakers of the installation “Sensing with Trees”, with which the trees are given a voice.</p></figcaption>
-            </figure>
-            <figure>
-                <img src="/mitwelten-website/images/interventions/participatory_installations/LTrees02.jpg" width="100%" alt="The moisture sensor measures the dryness in the soil and registers when the tree is watered by passers-by.">
-                <figcaption><p class="text-end">The moisture sensor measures the dryness in the soil and registers when the tree is watered by passers-by.</p></figcaption>
-            </figure>
-        </div>
         <div class="col-md-6 align-items-end">
             <h4>Situation and ecological challenge</h4>
             <p class="justify">
@@ -55,6 +45,16 @@ title: Participatory Installations
             <p class="justify mt-5">
                 A more detailed description of the installation and the findings are presented in the publication <strong>'Mitwelten. Media-ecological Design Strategies for Improving Peri Urban Biodiversity'</strong>. (Coming soon!)
             </p>
+        </div>
+        <div class="col-md-6 order-md-first">
+            <figure>
+                <img src="/mitwelten-website/images/interventions/participatory_installations/LTrees01.jpg" width="100%" alt="Speakers of the installation “Sensing with Trees”, with which the trees are given a voice.">
+                <figcaption><p class="text-end">Speakers of the installation “Sensing with Trees”, with which the trees are given a voice.</p></figcaption>
+            </figure>
+            <figure>
+                <img src="/mitwelten-website/images/interventions/participatory_installations/LTrees02.jpg" width="100%" alt="The moisture sensor measures the dryness in the soil and registers when the tree is watered by passers-by.">
+                <figcaption><p class="text-end">The moisture sensor measures the dryness in the soil and registers when the tree is watered by passers-by.</p></figcaption>
+            </figure>
         </div>
     </div>
 </div>

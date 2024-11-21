@@ -32,16 +32,6 @@ title: Ecosystem
     </h4>
     <div class="row px-0 gx-5">
         <div class="col-md-6">
-            <figure>
-                <img src="/mitwelten-website/images/interventions/ecosystem/BirdDiversity1.jpg" width="100%" alt="'AudioMoth' audio logger in camouflaged casing, with QR code for interested passers-by.">
-                <figcaption><p class="text-end">'AudioMoth' audio logger in camouflaged casing, with QR code for interested passers-by.</p></figcaption>
-            </figure>
-            <figure>
-                <img src="/mitwelten-website/images/interventions/ecosystem/BirdDiversity2.png" width="100%" alt="Map with the locations of the audio loggers in 2021 in different types of terrain.">
-                <figcaption><p class="text-end">Map with the locations of the audio loggers in 2021 in different types of terrain.</p></figcaption>
-            </figure>
-        </div>
-        <div class="col-md-6">
             <p class="justify">
                 To learn more about the local bird life, we analyzed the three Field Study Sites. We first defined locations with different habitat types, recorded the singing activities with audio loggers (AudioMoth, https://www.openacousticdevices.info), and analyzed the bird species using a data pipeline based on the machine learning (ML) model BirdNET. 
             </p>
@@ -56,6 +46,16 @@ title: Ecosystem
             <p class="justify mt-5">
                 For further information please read the open access publication <strong>‘Bird Diversity in Peri-urban Areas of the City of Basel’</strong>. (Coming soon!)
             </p>
+        </div>
+        <div class="col-md-6 order-md-first">
+            <figure>
+                <img src="/mitwelten-website/images/interventions/ecosystem/BirdDiversity1.jpg" width="100%" alt="'AudioMoth' audio logger in camouflaged casing, with QR code for interested passers-by.">
+                <figcaption><p class="text-end">'AudioMoth' audio logger in camouflaged casing, with QR code for interested passers-by.</p></figcaption>
+            </figure>
+            <figure>
+                <img src="/mitwelten-website/images/interventions/ecosystem/BirdDiversity2.png" width="100%" alt="Map with the locations of the audio loggers in 2021 in different types of terrain.">
+                <figcaption><p class="text-end">Map with the locations of the audio loggers in 2021 in different types of terrain.</p></figcaption>
+            </figure>
         </div>
     </div>
 </div>
@@ -118,16 +118,6 @@ title: Ecosystem
         How can human presence be identified in local recreation areas and nature reserves?
     </h4>
     <div class="row align-items-start px-0 gx-5">
-        <div class="col-md-6">
-            <figure>
-                <img src="/mitwelten-website/images/interventions/ecosystem/HumanPresence1.jpg" width="100%" alt="PAX counter mounted out of reach on tree next to the beaver trail.">
-                <figcaption><p class="text-end">PAX counter mounted out of reach on tree next to the beaver trail.</p></figcaption>
-            </figure>
-            <figure>
-                <img src="/mitwelten-website/images/interventions/ecosystem/HumanPresence2.png" width="100%" alt="Heat map of human presence in the entire study area.">
-                <figcaption><p class="text-end">Heat map of human presence in the entire study area.</p></figcaption>
-            </figure>
-        </div>
         <div class="col-md-6 align-items-end">
             <p class="justify">
                 In addition to biological monitoring through sampling of birds and insects, we also recorded the presence of humans, since they should be treated as equal habitat actants. 
@@ -143,6 +133,16 @@ title: Ecosystem
             <p class="justify mt-5">
                 For further information please read the open access publication <strong>‘Bird Diversity in Peri-urban Areas of the City of Basel’</strong>. (Coming soon!)
             </p>
+        </div>
+        <div class="col-md-6 order-md-first">
+            <figure>
+                <img src="/mitwelten-website/images/interventions/ecosystem/HumanPresence1.jpg" width="100%" alt="PAX counter mounted out of reach on tree next to the beaver trail.">
+                <figcaption><p class="text-end">PAX counter mounted out of reach on tree next to the beaver trail.</p></figcaption>
+            </figure>
+            <figure>
+                <img src="/mitwelten-website/images/interventions/ecosystem/HumanPresence2.png" width="100%" alt="Heat map of human presence in the entire study area.">
+                <figcaption><p class="text-end">Heat map of human presence in the entire study area.</p></figcaption>
+            </figure>
         </div>
     </div>
 </div>

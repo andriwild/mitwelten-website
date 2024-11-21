@@ -31,7 +31,12 @@ title: Reinacher Heide
     <h3 class="text-center mb-5">CHARACTERISTICS AND RESEARCH FOCUS</h3>
     <br>
     <div class="row align-items-start px-0 gx-5">
-        <div class="col-md-6">
+        <div class="col-md-6 align-items-end">
+            <p class="justify">
+                In collaboration with the municipality of Reinach (Marc Bayard, biologist), the Reinacher Heide Supervisory Commission (Prof. em. Dr. Andreas Erhardt, biologist) and the Rangers (Yannick Bucher, geographer), we developed the research questions and methods. The field study partners were interested in our bird and insect diversity studies and to learn more about the different human visitor types and their behaviors: e.g. age groups, interests, favorite locations, and activities. They wanted to find out if the new bath and recreation area relieves the nature reserve, whether their visitor guidance is working properly, and if the “adventure pond” is a good measure to improve visitor information. 
+            </p>
+        </div>
+        <div class="col-md-6 order-md-first">
             <figure>
                 <img src="/mitwelten-website/images/fieldstudies/FS3/FS3_1.jpg" width="100%" alt="Open landscape with dry meadows, dry scrub and paths that visitors are not allowed to leave.">
                 <figcaption><p class="text-end">Open landscape with dry meadows, dry scrub and paths that visitors are not allowed to leave.</p></figcaption>
@@ -40,11 +45,6 @@ title: Reinacher Heide
                 <img src="/mitwelten-website/images/fieldstudies/FS3/FS3_2.jpg" width="100%" alt="Area around the new 'adventure pond' (outside the nature reserve), with infrastructure and information boards with rules for using the newly created natural swimming pool.">
                 <figcaption><p class="text-end">Area around the new 'adventure pond' (outside the nature reserve), with infrastructure and information boards with rules for using the newly created natural swimming pool.</p></figcaption>
             </figure>
-        </div>
-        <div class="col-md-6 align-items-end">
-            <p class="justify">
-                In collaboration with the municipality of Reinach (Marc Bayard, biologist), the Reinacher Heide Supervisory Commission (Prof. em. Dr. Andreas Erhardt, biologist) and the Rangers (Yannick Bucher, geographer), we developed the research questions and methods. The field study partners were interested in our bird and insect diversity studies and to learn more about the different human visitor types and their behaviors: e.g. age groups, interests, favorite locations, and activities. They wanted to find out if the new bath and recreation area relieves the nature reserve, whether their visitor guidance is working properly, and if the “adventure pond” is a good measure to improve visitor information. 
-            </p>
         </div>
     </div>
 </div>
