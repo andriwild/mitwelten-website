@@ -6,26 +6,29 @@
 
 
 <nav class="navbar navbar-expand-lg js-navbar-scroll {{- if $cover }} td-navbar-cover {{- end }} bg-primary" data-bs-theme="dark">
-
     <div class="container-fluid">
 
-        <div class="navbar-brand__logo navbar-logo">
-            <a href="https://www.fhnw.ch" target="_blank">
-                {{- /**/ -}}
-                {{- if ne .Site.Params.ui.navbar_logo false -}}
-                {{ with resources.Get "icons/logo.svg" -}}
-                {{ ( . | minify).Content | safeHTML -}}
-                {{ end -}}
-                {{ end -}}
-                {{- /**/ -}}
-            </a>
-        </div>
+        <div class="d-flex align-items-center">
 
-        <a href="{{ .Site.Home.RelPermalink }}" style="text-decoration: none;">
-            <span class="navbar-brand__name ms-5 nav-link text-uppercase text-white fs-4">
-                {{- .Site.Title -}}
-            </span>
-        </a>
+            <div class="navbar-brand__logo navbar-logo d-none d-sm-inline ms-2 me-5">
+                <a href="https://www.fhnw.ch" target="_blank">
+                    {{- /**/ -}}
+                    {{- if ne .Site.Params.ui.navbar_logo false -}}
+                    {{ with resources.Get "icons/logo.svg" -}}
+                    {{ ( . | minify).Content | safeHTML -}}
+                    {{ end -}}
+                    {{ end -}}
+                    {{- /**/ -}}
+                </a>
+            </div>
+
+            <a href="{{ .Site.Home.RelPermalink }}" style="text-decoration: none;">
+                <span class="nav-link text-uppercase text-white fs-4">
+                    {{- .Site.Title -}}
+                </span>
+            </a>
+
+        </div>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -34,7 +37,7 @@
         {{ $currentPage := . }}
 
         <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
-            <ul class="navbar-nav">
+            <ul class="navbar-nav me-3">
 
                 {{ range .Site.Menus.main }}
                 {{ if .HasChildren }}
