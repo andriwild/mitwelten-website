@@ -155,7 +155,6 @@ params:
     # Set to true to disable the About link in the site footer
 
     sidebar_menu_foldable: true
-    ul_show: 3
 
     # Adds a H2 section titled "Feedback" to the bottom of each doc. The responses are sent to Google Analytics as events.
     # This feature depends on [services.googleAnalytics] and will be disabled if "services.googleAnalytics.id" is not set.
@@ -204,6 +203,70 @@ params:
       #   url: https://example.org/mail
       #   icon: fa fa-envelope
       #   desc: Discuss development issues around the project
+
+menu:
+  main:
+  - name: APPROACH
+    weight: 10
+    pageRef: /approach
+
+  - name: IOT-TOOLKIT
+    weight: 20
+    pageRef: /iot
+
+  - name: FIELD STUDIES
+    weight: 30
+    identifier: fs 
+
+  - name: FIELD STUDIES
+    weight: 10
+    pageRef: /fieldstudies
+    parent: fs
+
+  - name: FS 1
+    weight: 20
+    pageRef: /fieldstudies/meriangardens
+    parent: fs
+
+  - name: FS 2
+    weight: 30
+    pageRef: /fieldstudies/dreispitz
+    parent: fs
+
+  - name: FS 3
+    weight: 40
+    pageRef: /fieldstudies/reinacherheide
+    parent: fs
+
+  - name: INTERVENTIONS
+    weight: 40
+    identifier: interventions
+
+  - name: INTERVENTIONS
+    weight: 10
+    pageRef: /interventions
+    parent: interventions
+
+  - name: ECOSYSTEM STUDIES
+    weight: 20
+    pageRef: /interventions/ecosystem
+    parent: interventions
+
+  - name: INTERSPECIES PLATFORMS
+    weight: 30
+    pageRef: /interventions/interspecies_platfroms
+    parent: interventions
+
+  - name: PARTICIPATORY INSTALLATIONS
+    weight: 40
+    pageRef: /interventions/participatory_installations
+    parent: interventions
+
+  - name: COMMUNICATION MEDIA
+    weight: 50
+    pageRef: /interventions/communication_media
+    parent: interventions
+
 
 module:
   # Uncomment the next line to build and serve using local docsy clone declared in the named Hugo workspace:
