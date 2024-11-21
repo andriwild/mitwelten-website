@@ -37,7 +37,7 @@ We developed design strategies that contribute to a post-anthropocentric paradig
                 style="min-height: 80px;">
                 <h4 class="mb-2">ECOSYSTEM<br>STUDIES</h4>
             </a>
-            {{< figure src="/mitwelten-website/images/interventions/ecosystem/HumanPresence_card.jpg"
+            {{< figure src="/mitwelten-website/images/interventions/ecosystem/ecosystem_card_sm.jpg"
                 text="IoT Toolkit"
                 link="/mitwelten-website/interventions/ecosystem"
                 width="100%" 
@@ -61,7 +61,7 @@ We developed design strategies that contribute to a post-anthropocentric paradig
                 style="min-height: 80px;">
                 <h4 class="mb-2">INTERSPECIES<br>PLATFORMS</h4>
             </a>
-            {{< figure src="/mitwelten-website/images/interventions/interspecies_plattform/InterspeciesOutdoorFurniture.jpg"
+            {{< figure src="/mitwelten-website/images/interventions/interspecies_plattform/InterspeciesOutdoorFurniture01_card_sm.jpg"
                 text="Interspecies Platforms"
                 link="/mitwelten-website/interventions/interspecies_platforms"
                 width="100%" 
@@ -73,7 +73,7 @@ We developed design strategies that contribute to a post-anthropocentric paradig
                 style="min-height: 80x;">
                 <h4 class="mb-2">PARTICIPATORY<br>INSTALLATIONS</h4>
             </a>
-            {{< figure src="/mitwelten-website/images/interventions/participatory_installations/Leitsystem.jpg"
+            {{< figure src="/mitwelten-website/images/interventions/participatory_installations/Leitsystem01_card_sm.jpg"
                 text="Interspecies Platforms"
                 link="/mitwelten-website/interventions/participatory_installations"
                 width="100%" 
