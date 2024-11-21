@@ -34,8 +34,12 @@ title: Participatory Installations
     <div class="row align-items-start px-0 gx-5">
         <div class="col-md-6">
             <figure>
-                <img src="/mitwelten-website/images/interventions/participatory_installations/LamentingTrees.jpg" width="100%" alt="Interactive outdoor installation. Summer 2024, campus of the FHNW Academy of Art and Design.">
-                <figcaption><p class="text-end">Interactive outdoor installation. Summer 2024, campus of the FHNW Academy of Art and Design.</p></figcaption>
+                <img src="/mitwelten-website/images/interventions/participatory_installations/LTrees01.jpg" width="100%" alt="Speakers of the installation “Sensing with Trees”, with which the trees are given a voice.">
+                <figcaption><p class="text-end">Speakers of the installation “Sensing with Trees”, with which the trees are given a voice.</p></figcaption>
+            </figure>
+            <figure>
+                <img src="/mitwelten-website/images/interventions/participatory_installations/LTrees02.jpg" width="100%" alt="The moisture sensor measures the dryness in the soil and registers when the tree is watered by passers-by.">
+                <figcaption><p class="text-end">The moisture sensor measures the dryness in the soil and registers when the tree is watered by passers-by.</p></figcaption>
             </figure>
         </div>
         <div class="col-md-6 align-items-end">
@@ -88,8 +92,12 @@ title: Participatory Installations
         </div>
         <div class="col-md-6">
             <figure>
-                <img src="/mitwelten-website/images/interventions/participatory_installations/Leitsystem.jpg" width="100%" alt="Outdoor guidance system. Based on the IoT Toolkit and a simulator tool.">
-                <figcaption><p>Outdoor guidance system. Based on the IoT Toolkit and a simulator tool</p></figcaption>
+                <img src="/mitwelten-website/images/interventions/participatory_installations/Leitsystem01.jpg" width="100%" alt="Motorized pointer actuator (prototype) from the IoT toolkit, mounted on a fence for visitor guidance.">
+                <figcaption><p>Motorized pointer actuator (prototype) from the IoT toolkit, mounted on a fence for visitor guidance.</p></figcaption>
+            </figure>
+            <figure>
+                <img src="/mitwelten-website/images/interventions/participatory_installations/Leitsystem02.png" width="100%" alt="Screenshot of the software prototype for planning visitor guidance with set up and virtual sensors and actuators.">
+                <figcaption><p>Screenshot of the software prototype for planning visitor guidance with set up and virtual sensors and actuators.</p></figcaption>
             </figure>
         </div>
     </div>

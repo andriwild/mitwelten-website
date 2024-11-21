@@ -35,8 +35,12 @@ title: Interspecies Platforms
 <div class="row align-items-start px-0 gx-5">
     <div class="col-md-6">
         <figure>
-            <img src="/mitwelten-website/images/interventions/interspecies_plattform/InterspeciesOutdoorFurniture.jpg" width="100%" alt="2023 | FHNW campus Brugg/Windisch | semester project ‘SociaLandscapes’, collaboration with the HGK BA Interior Architecture and Scenography">
-            <figcaption><p class="text-end">2023 | FHNW campus Brugg/Windisch | semester project ‘SociaLandscapes’, collaboration with the HGK BA Interior Architecture and Scenography</p></figcaption>
+            <img src="/mitwelten-website/images/interventions/interspecies_plattform/InterspeciesOutdoorFurniture01.jpg" width="100%" alt="Design interventions by HGK students on the FHNW campus in Brugg-Windisch during the semester project ‘SociaLandscapes’ (2023). ">
+            <figcaption><p class="text-end">Design interventions by HGK students on the FHNW campus in Brugg-Windisch during the semester project ‘SociaLandscapes’ (2023). </p></figcaption>
+        </figure>
+        <figure>
+            <img src="/mitwelten-website/images/interventions/interspecies_plattform/InterspeciesOutdoorFurniture02.jpg" width="100%" alt="Design intervention by HGK students on the FHNW campus in Brugg-Windisch: project “Der Auftakt” (2023), presentation of discreet but ecologically important small animals in a zoo format.">
+            <figcaption><p class="text-end">Design intervention by HGK students on the FHNW campus in Brugg-Windisch: project “Der Auftakt” (2023), presentation of discreet but ecologically important small animals in a zoo format.</p></figcaption>
         </figure>
     </div>
     <div class="col-md-6 align-items-end">
@@ -84,8 +88,12 @@ title: Interspecies Platforms
     </div>
     <div class="col-md-6">
         <figure>
-            <img src="/mitwelten-website/images/interventions/interspecies_plattform/HackedInfrastructure.jpg" width="100%" alt="2023 | Basel Academy of Art and Design FHNW | educational unit ‘CoCreate’">
-            <figcaption><p>2023 | Basel Academy of Art and Design FHNW | educational unit ‘CoCreate’</p></figcaption>
+            <img src="/mitwelten-website/images/interventions/interspecies_plattform/HackedInfrastructure01.jpg" width="100%" alt="Design intervention by students on the HGK campus: “Networking Corridor” (2023), call for the renaturation of paved railroad tracks.">
+            <figcaption><p>Design intervention by students on the HGK campus: “Networking Corridor” (2023), call for the renaturation of paved railroad tracks.</p></figcaption>
+        </figure>
+        <figure>
+            <img src="/mitwelten-website/images/interventions/interspecies_plattform/HackedInfrastructure02.jpg" width="100%" alt="Design intervention by students on the HGK campus: “Seed Sculpture” (2023), art as an ephemeral biodiversity promoter.">
+            <figcaption><p>Design intervention by students on the HGK campus: “Seed Sculpture” (2023), art as an ephemeral biodiversity promoter.</p></figcaption>
         </figure>
     </div>
 </div>
@@ -108,8 +116,12 @@ title: Interspecies Platforms
     <div class="row align-items-start px-0 gx-5">
         <div class="col-md-6">
             <figure>
-                <img src="/mitwelten-website/images/interventions/interspecies_plattform/SteppingStoneHabitats.jpg" width="100%" alt=" 2023 | Campus of the Basel Academy of Art and Design FHNW | concepts and student projects">
-                <figcaption><p class="text-end">2023 | Campus of the Basel Academy of Art and Design FHNW | concepts and student projects</p></figcaption>
+                <img src="/mitwelten-website/images/interventions/interspecies_plattform/SteppingStoneHabitats01.jpg" width="100%" alt="Design intervention by students on the HGK campus (2023): plant bed unit of the modular “Trittsteinwelten” system.">
+                <figcaption><p class="text-end">Design intervention by students on the HGK campus (2023): plant bed unit of the modular “Trittsteinwelten” system.</p></figcaption>
+            </figure>
+            <figure>
+                <img src="/mitwelten-website/images/interventions/interspecies_plattform/SteppingStoneHabitats02.jpg" width="100%" alt="Design intervention by students on the HGK Campus: “Trittsteinwelten” (2023), modular system for the biodiversity-promoting expansion of existing infrastructures.">
+                <figcaption><p class="text-end">Design intervention by students on the HGK Campus: “Trittsteinwelten” (2023), modular system for the biodiversity-promoting expansion of existing infrastructures.</p></figcaption>
             </figure>
         </div>
         <div class="col-md-6 align-items-end">

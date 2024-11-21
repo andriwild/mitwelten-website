@@ -14,10 +14,13 @@ title: IOT-Toolkit
     <h3 class="text-center mb-5">SENSOR-ACTUATOR NETWORK</h3>
     <div class="row align-items-start px-0 gx-5">
         <div class="col-xl-6 text-end">
-            <!-- TODO : figcatption -->
             <figure>
-                <img src="/mitwelten-website/images/iot/enclosure.jpg" alt="Interactive outdoor installation. Summer 2024, campus of the FHNW Academy of Art and Design.">
-                <figcaption><p class="text-end">Outdoor IOT Camera (Raspberry Pi Zero)</p></figcaption>
+                <img src="/mitwelten-website/images/iot/PAX-sensor.png" alt="PAX-Counter: open electrical junction box with electronic components including integrated antenna." width="100%">
+                <figcaption><p class="text-end">PAX-Counter: open electrical junction box with electronic components including integrated antenna.</p></figcaption>
+            </figure>
+            <figure>
+                <img src="/mitwelten-website/images/iot/Light-actuator.png" width="100%" alt="LED actuator: opened electrical connection box with electronic components including LED lamp ring.">
+                <figcaption><p>LED actuator: opened electrical connection box with electronic components including LED lamp ring.</p></figcaption>
             </figure>
         </div>
         <div class="col-xl-6 align-items-end">
@@ -53,10 +56,13 @@ title: IOT-Toolkit
         </p>
     </div>
     <div class="col-xl-6">
-        <!-- TODO : figcatption -->
         <figure>
-            <img src="/mitwelten-website/images/iot/pollinators.jpg" width="100%" alt="Interactive outdoor installation. Summer 2024, campus of the FHNW Academy of Art and Design.">
-            <figcaption><p>Machine Learning based Flower and Pollinator detection</p></figcaption>
+            <img src="/mitwelten-website/images/iot/PAX_Counter.jpg" width="100%" alt="PAX-Counter: last design version with integrated solar panel.">
+            <figcaption><p>PAX-Counter: last design version with integrated solar panel.</p></figcaption>
+        </figure>
+        <figure>
+            <img src="/mitwelten-website/images/iot/Light-Pixel.png" width="100%" alt="LED actuator: allows coding with brightness and RGB colors.">
+            <figcaption><p>LED actuator: allows coding with brightness and RGB colors.</p></figcaption>
         </figure>
     </div>
 </div>
@@ -110,7 +116,7 @@ title: IOT-Toolkit
                 href="/mitwelten-website/docs/MW_Software_Environment.pdf"
                 target="_blank"
                 style="min-height: 60px;"> 
-                <h4>SOFTWARE ENVIRONMENT </h4>
+                <h4>SOFTWARE ENVIRONMENT</h4>
             </a>
             {{< figure src="/mitwelten-website/images/iot/IOT_Reference.png" 
                 text="Mitwelten Applications"

@@ -31,7 +31,7 @@ title: Approach
     <h3 class="text-center mb-5">FOUR PHASES OF FIELD RESEARCH</h3>
     <div class="container position-relative">
         <div class="divider"></div>
-        <div class="row my-2">
+        <div class="row my-2 p-0">
             <div class="col-md-6 text-end pe-4">
                 <div class="number">1</div>
                 <h4>Situational Analysis</h4>
@@ -41,7 +41,7 @@ title: Approach
             </div>
             <div class="col-md-6"></div>
         </div>
-        <div class="row my-2">
+        <div class="row my-2 p-0">
             <div class="col-md-6"></div>
             <div class="col-md-6 ps-4">
                 <div class="number">2</div>
@@ -51,7 +51,7 @@ title: Approach
                 </p>
             </div>
         </div>
-        <div class="row my-2">
+        <div class="row my-2 p-0">
             <div class="col-md-6 text-end pe-4">
                 <div class="number">3</div>
                 <h4>Mixed Methods Evaluation</h4>
@@ -61,7 +61,7 @@ title: Approach
             </div>
             <div class="col-md-6"></div>
         </div>
-        <div class="row my-2">
+        <div class="row my-2 p-0">
             <div class="col-md-6 ps-4"></div>
             <div class="col-md-6 ps-4">
                 <div class="number">4</div>
@@ -87,23 +87,39 @@ title: Approach
 <!-- New Section -->
 
 {{< blocks/section color="blue" >}}
+
 <div class="mx-auto">
     <h3 class="text-center mb-5">INTERDISCIPLINARY TEAM & COOPERATION</h3>
-    <p>
-        <b>Jan Torpus:</b>&nbsp;&nbsp; design and art research (project development, project management)<br>
-        <b>Prof. Thomas Amberg:</b>&nbsp;&nbsp; computer science, “maker”, IoT (tech. project management)<br>
-        <b>Felix Gerloff:</b>&nbsp;&nbsp; cultural and media studies (project development)<br>
-        <b>Dr. Daniel Küry:</b>&nbsp;&nbsp; biology, ecology, lifescience.ch<br>
-        <b>Prof. Dr. Christoph Küffer:</b>&nbsp;&nbsp; urban ecology, open space planning, environmental humanities<br>
-        <b>Cedric Spindler:</b>&nbsp;&nbsp; computer science, audiovisual media, data analysis<br>
-        <b>Ines Schauer:</b>&nbsp;&nbsp; molecular biology, ecological settlement design<br>
-        <b>Timeo Wullschleger:</b>&nbsp;&nbsp; computer science, data analysis, automation<br>
-        <b>Andri Wild:</b>&nbsp;&nbsp; computer science, dataViz<br>
-        <b>Rebecca Geyer:</b>&nbsp;&nbsp; geography, process design (research assistant)
-    </p>
-    <br>
-    <p>
-        <b>Scientific Advisory Board:</b>&nbsp;&nbsp;Prof. Dr. Christiane Heibach, Prof. Dr. Claudia Mareis, Prof. Dr. Birgit Schneider, Dr. Eva Spehn, Prof. Dr. Evi Zemanek.</p>
+    <div class="row align-items-start px-0 gx-5">
+        <div class="col-md-7 align-items-end">
+            <p>
+                <b>Jan Torpus:</b>&nbsp;&nbsp; design and art research (project development, project management)<br>
+                <b>Prof. Thomas Amberg:</b>&nbsp;&nbsp; computer science, “maker”, IoT (tech. project management)<br>
+                <b>Felix Gerloff:</b>&nbsp;&nbsp; cultural and media studies (project development)<br>
+                <b>Dr. Daniel Küry:</b>&nbsp;&nbsp; biology, ecology, lifescience.ch<br>
+                <b>Prof. Dr. Christoph Küffer:</b>&nbsp;&nbsp; urban ecology, open space planning, environmental humanities<br>
+                <b>Cedric Spindler:</b>&nbsp;&nbsp; computer science, audiovisual media, data analysis<br>
+                <b>Dr. Ines Schauer:</b>&nbsp;&nbsp; molecular biology, ecological settlement design<br>
+                <b>Timeo Wullschleger:</b>&nbsp;&nbsp; computer science, data analysis, automation<br>
+                <b>Andri Wild:</b>&nbsp;&nbsp; computer science, dataViz<br>
+                <b>Rebecca Geyer:</b>&nbsp;&nbsp; geography, process design (research assistant)
+            </p>
+        </div>
+        <div class="col-md-5">
+            <p>
+                <b>Field study partners:</b> 
+                Dr. Lisa Eggenschwiler (Merian Gärten); Christina Felle (FHNW Hochschule für Gestaltung und Kunst); Prof. em. Dr. Andreas Erhardt, Marc Bayard and Yannick Bucher (Reinacher Heide).
+            </p>
+            <p>
+                <b>Students of the IMVS:</b>
+                Thushyanthan Saravani, Mithusan Sivakumar, Patrick Gutter, Tobias Villiger, Marc Bugmann, Tobias Kunz, Simon Matile.
+            </p>
+            <p>
+                <b>Scientific Advisory Board:</b> 
+                Prof. Dr. Christiane Heibach, Prof. Dr. Claudia Mareis, Prof. Dr. Birgit Schneider, Dr. Eva Spehn, Prof. Dr. Evi Zemanek.
+            </p>
+        </div>
+    </div>
 </div>
 
 {{< /blocks/section >}}

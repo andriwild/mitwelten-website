@@ -225,17 +225,17 @@ menu:
 
   - name: FS 1
     weight: 20
-    pageRef: /fieldstudies/meriangardens
+    pageRef: /fieldstudies/fs1
     parent: fs
 
   - name: FS 2
     weight: 30
-    pageRef: /fieldstudies/dreispitz
+    pageRef: /fieldstudies/fs2
     parent: fs
 
   - name: FS 3
     weight: 40
-    pageRef: /fieldstudies/reinacherheide
+    pageRef: /fieldstudies/fs3
     parent: fs
 
   - name: INTERVENTIONS
@@ -254,7 +254,7 @@ menu:
 
   - name: INTERSPECIES PLATFORMS
     weight: 30
-    pageRef: /interventions/interspecies_platfroms
+    pageRef: /interventions/interspecies_platforms
     parent: interventions
 
   - name: PARTICIPATORY INSTALLATIONS

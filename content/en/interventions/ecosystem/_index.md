@@ -33,8 +33,12 @@ title: Ecosystem
     <div class="row px-0 gx-5">
         <div class="col-md-6">
             <figure>
-                <img src="/mitwelten-website/images/interventions/ecosystem/BirdDiversity.png" width="100%" alt="Bird identification based on extensive sound recordings and ML evaluation. 2021-2023">
-                <figcaption><p class="text-end">Bird identification based on extensive sound recordings and ML evaluation. 2021-2023</p></figcaption>
+                <img src="/mitwelten-website/images/interventions/ecosystem/BirdDiversity1.jpg" width="100%" alt="'AudioMoth' audio logger in camouflaged casing, with QR code for interested passers-by.">
+                <figcaption><p class="text-end">'AudioMoth' audio logger in camouflaged casing, with QR code for interested passers-by.</p></figcaption>
+            </figure>
+            <figure>
+                <img src="/mitwelten-website/images/interventions/ecosystem/BirdDiversity2.png" width="100%" alt="Map with the locations of the audio loggers in 2021 in different types of terrain.">
+                <figcaption><p class="text-end">Map with the locations of the audio loggers in 2021 in different types of terrain.</p></figcaption>
             </figure>
         </div>
         <div class="col-md-6">
@@ -87,8 +91,12 @@ title: Ecosystem
         </div>
         <div class="col-md-6">
             <figure>
-                <img src="/mitwelten-website/images/interventions/ecosystem/PollinatorDiversity.jpg" width="100%" alt="Determining pollinating insects using ML analysis of large photo datasets. 2021-2023.">
-                <figcaption><p>Determining pollinating insects using ML analysis of large photo datasets. 2021-2023.</p></figcaption>
+                <img src="/mitwelten-website/images/interventions/ecosystem/PollinatorDiversity1.jpg" width="100%" alt="Pollinator installations after an interdisciplinary assembly workshop, ready for setup in the field. ">
+                <figcaption><p>Pollinator installations after an interdisciplinary assembly workshop, ready for setup in the field. </p></figcaption>
+            </figure>
+            <figure>
+                <img src="/mitwelten-website/images/interventions/ecosystem/PollinatorDiversity2.jpg" width="100%" alt="Open self-assembled camera, mounted on a pole above a pot of attractant plants.">
+                <figcaption><p>Open self-assembled camera, mounted on a pole above a pot of attractant plants.</p></figcaption>
             </figure>
         </div>
     </div>
@@ -112,8 +120,12 @@ title: Ecosystem
     <div class="row align-items-start px-0 gx-5">
         <div class="col-md-6">
             <figure>
-                <img src="/mitwelten-website/images/interventions/ecosystem/HumanPresence.jpg" width="100%" alt="Human presence identification in recreational areas and nature reserves. 2021-2023.">
-                <figcaption><p class="text-end">Human presence identification in recreational areas and nature reserves. 2021-2023.</p></figcaption>
+                <img src="/mitwelten-website/images/interventions/ecosystem/HumanPresence1.jpg" width="100%" alt="PAX counter mounted out of reach on tree next to the beaver trail.">
+                <figcaption><p class="text-end">PAX counter mounted out of reach on tree next to the beaver trail.</p></figcaption>
+            </figure>
+            <figure>
+                <img src="/mitwelten-website/images/interventions/ecosystem/HumanPresence2.png" width="100%" alt="Heat map of human presence in the entire study area.">
+                <figcaption><p class="text-end">Heat map of human presence in the entire study area.</p></figcaption>
             </figure>
         </div>
         <div class="col-md-6 align-items-end">
