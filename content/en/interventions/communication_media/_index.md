@@ -60,7 +60,7 @@ title: Communication Media
                 <figcaption><p class="text-end">Photo of a walk with the WalkApp on the cell phone, on the bridge of the village stream in the Reinacher Heide.</p></figcaption>
             </figure>
             <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/WalkApp2.png" width="100%" alt="Four screenshots of different interfaces and 'experience modes' (from left to right): information on orchid species, audio clips of expert interviews, photo contributions from visitors, data visualization of identified insects.">
+                <img src="/mitwelten-website/images/interventions/communication_media/WalkApp2.jpg" width="100%" alt="Four screenshots of different interfaces and 'experience modes' (from left to right): information on orchid species, audio clips of expert interviews, photo contributions from visitors, data visualization of identified insects.">
                 <figcaption><p class="text-end">Four screenshots of different interfaces and 'experience modes' (from left to right): information on orchid species, audio clips of expert interviews, photo contributions from visitors, data visualization of identified insects.</p></figcaption>
             </figure>
         </div>
@@ -98,11 +98,11 @@ title: Communication Media
         </div>
         <div class="col-md-6">
             <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/Discover1.png" width="100%" alt="Screenshot of the 'Discover' application: data visualization of the bird species detected at a selected location.">
+                <img src="/mitwelten-website/images/interventions/communication_media/Discover1.jpg" width="100%" alt="Screenshot of the 'Discover' application: data visualization of the bird species detected at a selected location.">
                 <figcaption><p>Screenshot of the 'Discover' application: data visualization of the bird species detected at a selected location.</p></figcaption>
             </figure>
             <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/Discover2.png" width="100%" alt="Screenshot of the 'Discover' application: display of photos taken with a selected wild cam of the Reinacher Heide.">
+                <img src="/mitwelten-website/images/interventions/communication_media/Discover2.jpg" width="100%" alt="Screenshot of the 'Discover' application: display of photos taken with a selected wild cam of the Reinacher Heide.">
                 <figcaption><p>Screenshot of the 'Discover' application: display of photos taken with a selected wild cam of the Reinacher Heide.</p></figcaption>
             </figure>
         </div>
@@ -140,11 +140,11 @@ title: Communication Media
         </div>
         <div class="col-md-6 order-md-first">
             <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/Panorama1.png" width="100%" alt="Screenshot of the 'Panorama' application at the ‘Weide’ site in the Merian Gardens, with interactive buttons and a map navigation tool, for retrieving information and measurement data.">
+                <img src="/mitwelten-website/images/interventions/communication_media/Panorama1.jpg" width="100%" alt="Screenshot of the 'Panorama' application at the ‘Weide’ site in the Merian Gardens, with interactive buttons and a map navigation tool, for retrieving information and measurement data.">
                 <figcaption><p class="text-end">Screenshot of the 'Panorama' application at the ‘Weide’ site in the Merian Gardens, with interactive buttons and a map navigation tool, for retrieving information and measurement data.</p></figcaption>
             </figure>
             <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/Panorama2.png" width="100%" alt="Screenshot of the 'Panorama' application at the 'cottage garden' site in the Merian Gardens, in the middle of the fennel bed, with interactive buttons for retrieving information and measurement data.">
+                <img src="/mitwelten-website/images/interventions/communication_media/Panorama2.jpg" width="100%" alt="Screenshot of the 'Panorama' application at the 'cottage garden' site in the Merian Gardens, in the middle of the fennel bed, with interactive buttons for retrieving information and measurement data.">
                 <figcaption><p class="text-end">Screenshot of the 'Panorama' application at the 'cottage garden' site in the Merian Gardens, in the middle of the fennel bed, with interactive buttons for retrieving information and measurement data.</p></figcaption>
             </figure>
         </div>
@@ -182,11 +182,11 @@ title: Communication Media
         </div>
         <div class="col-md-6">
             <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/WildCamTV1.jpg" width="100%" alt="Exhibition of the installation in the HGK's Civic Exhibition Space, examined by two visitors.">
+                <img src="/mitwelten-website/images/interventions/communication_media/WildCamTV01.jpg" width="100%" alt="Exhibition of the installation in the HGK's Civic Exhibition Space, examined by two visitors.">
                 <figcaption><p>Exhibition of the installation in the HGK's Civic Exhibition Space, examined by two visitors.</p></figcaption>
             </figure>
             <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/WildCamTV2.png" width="100%" alt="Interface for selecting image series from the different wild cams, with parametric settings for the form of image reproduction.">
+                <img src="/mitwelten-website/images/interventions/communication_media/WildCamTV02.jpg" width="100%" alt="Interface for selecting image series from the different wild cams, with parametric settings for the form of image reproduction.">
                 <figcaption><p>Interface for selecting image series from the different wild cams, with parametric settings for the form of image reproduction.</p></figcaption>
             </figure>
         </div>
