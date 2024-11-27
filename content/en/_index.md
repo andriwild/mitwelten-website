@@ -9,8 +9,8 @@ linkTitle: MITWELTEN
 {{< blocks/cover title="MITWELTEN" image_anchor="center" height="full" >}}
 
 <div class="mx-auto mb-5">
-    <h1>
-        Interdisciplinary DESIGN RESEARCH PROJECT<br>funded by the Swiss National Science Foundation<br>2020-2024
+    <h1 style="margin-top: 100px">
+        Interdisciplinary Design Research Project<br>funded by the Swiss National Science Foundation<br>2020-2024
     </h1>
 </div>
 

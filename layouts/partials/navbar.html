@@ -27,7 +27,6 @@
                     {{- .Site.Title -}}
                 </span>
             </a>
-
         </div>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -68,7 +67,7 @@
                 {{ end -}}
 
                 {{ if (gt (len .Site.Home.Translations) 0) -}}
-                <li class="nav-item dropdown d-none d-lg-block ms-3">
+                <li class="nav-item dropdown d-lg-block">
                     <em>
                         {{ partial "navbar-lang-selector.html" . -}}
                     </em>
@@ -86,6 +85,7 @@
             <div class="d-none d-lg-block">
                 {{ partial "search-input.html" . }}
             </div>
+
         </div>
     </div>
 </nav>

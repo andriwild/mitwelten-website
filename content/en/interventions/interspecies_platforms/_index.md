@@ -34,7 +34,7 @@ title: Interspecies Platforms
     </h4>
     <div class="row align-items-start px-0 gx-5">
         <div class="col-md-6 align-items-end">
-            <h4 class="mt-3">Situation and ecological challenge</h4>
+            <h4>Situation and ecological challenge</h4>
             <p class="justify">
                 Urban outdoor furniture is usually designed to meet human's needs, such as sitting while waiting, relaxation, socializing, waste disposal and the like. They usually consist of uniformly designed elements that are combined according to the requirements of the respective situation.
             </p>
@@ -75,7 +75,7 @@ title: Interspecies Platforms
     </h4>
     <div class="row align-items-start px-0 gx-5">
         <div class="col-md-6 align-items-end">
-            <h4 class="">Situation and ecological challenge</h4>
+            <h4>Situation and ecological challenge</h4>
             <p class="justify">
                 City infrastructures and public furniture systems for parks and streets are designed to support people during leisure activities, while waiting for public transport, with illumination at nighttime, or similar. Unfortunately, the more-than-human actors of those habitats are usually not incorporated in the planning and design approaches. The infrastructures and public furniture should be improved with regard to their biodiversity potential and to better meet the needs of non-human life forms. 
             </p>

@@ -77,7 +77,7 @@ title: Reinacher Heide
 <div class="mx-auto">
     <h3 class="text-center mb-5">INTERVENTIONS</h3>
     <p class="justify">
-        The following ‘interventions’ were conducted in the field study:
+        The following interventions were conducted in the field study:
     </p>
     <ul>
         <li>

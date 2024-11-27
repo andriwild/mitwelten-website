@@ -35,7 +35,7 @@ We developed design strategies that contribute to a post-anthropocentric paradig
             <a class="link-dark link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover flex-grow-1 d-flex align-items-center justify-content-center"
                 href="/mitwelten-website/interventions/ecosystem"
                 style="min-height: 80px;">
-                <h4 class="mb-2">ECOSYSTEM<br>STUDIES</h4>
+                <h4 class="mb-2">CITIZEN SCIENCE BASED</br>ECOSYSTEM STUDIES</h4>
             </a>
             {{< figure src="/mitwelten-website/images/interventions/ecosystem/ecosystem_card_sm.jpg"
                 text="IoT Toolkit"

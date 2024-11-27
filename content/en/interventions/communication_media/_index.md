@@ -128,7 +128,7 @@ title: Communication Media
         <div class="col-md-6 align-items-end">
             <h4>Situation and ecological challenge</h4>
             <p class="justify">
-                People visit peri-urban recreation areas and nature reserves for a variety of reasons: to relax, observe nature, go for a walk, walk the dog, do sports, meet friends and much more. They are often not informed in depth about the different habitat types and their inhabitants and are also not aware of how much work goes into maintaining such areas. With the WalkApp, we tried to inform visitors on site and to involve them by context aware content presentation.
+                It is difficult for humans to put themselves in the position of animals and plants, especially without anthropomorphizing their views. We have therefore explored a medium that allows the perspectives, needs and services of non-human actors in an ecosystem to be made more tangible. With the help of interactive 3D photography, immersive virtual spaces can be accessed and different viewpoints interconnected.
             </p>
             <h4>Media-ecological approach</h4>
             <p class="justify">

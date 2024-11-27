@@ -81,7 +81,7 @@ title: Dreispitz
 <div class="mx-auto">
     <h3 class="text-center mb-5">INTERVENTIONS</h3>
     <p class="fw-light h5">
-        The following ‘interventions’ were conducted in the field study:
+        The following interventions were conducted in the field study:
     </p>
     <ul>
         <li>
