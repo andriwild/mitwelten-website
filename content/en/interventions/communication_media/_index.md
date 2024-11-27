@@ -98,7 +98,7 @@ title: Communication Media
         </div>
         <div class="col-md-6">
             <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/Discover1.jpg" width="100%" alt="Screenshot of the 'Discover' application: data visualization of the bird species detected at a selected location.">
+                <img src="/mitwelten-website/images/interventions/communication_media/Discover1.png" width="100%" alt="Screenshot of the 'Discover' application: data visualization of the bird species detected at a selected location.">
                 <figcaption><p>Screenshot of the 'Discover' application: data visualization of the bird species detected at a selected location.</p></figcaption>
             </figure>
             <figure>
