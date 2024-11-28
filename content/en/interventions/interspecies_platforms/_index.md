@@ -135,7 +135,7 @@ title: Interspecies Platforms
                 <figcaption><p class="text-end">Design intervention by students on the HGK campus (2023): plant bed unit of the modular “Trittsteinwelten” system.</p></figcaption>
             </figure>
             <figure>
-                <img src="/mitwelten-website/images/interventions/interspecies_plattform/SteppingStoneHabitats02.jpg" width="100%" alt="Design intervention by students on the HGK Campus: “Trittsteinwelten” (2023), modular system for the biodiversity-promoting expansion of existing infrastructures.">
+                <img src="/mitwelten-website/images/interventions/interspecies_plattform/SteppingStoneHabitat02.jpg" width="100%" alt="Design intervention by students on the HGK Campus: “Trittsteinwelten” (2023), modular system for the biodiversity-promoting expansion of existing infrastructures.">
                 <figcaption><p class="text-end">Design intervention by students on the HGK Campus: “Trittsteinwelten” (2023), modular system for the biodiversity-promoting expansion of existing infrastructures.</p></figcaption>
             </figure>
         </div>

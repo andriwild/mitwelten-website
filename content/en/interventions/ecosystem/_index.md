@@ -33,7 +33,7 @@ title: Ecosystem
     <div class="row px-0 gx-5">
         <div class="col-md-6">
             <p class="justify">
-                To learn more about the local bird life, we analyzed the three Field Study Sites. We first defined locations with different habitat types, recorded the singing activities with audio loggers (AudioMoth, https://www.openacousticdevices.info), and analyzed the bird species using a data pipeline based on the machine learning (ML) model BirdNET. 
+                To learn more about the local bird life, we analyzed the three Field Study Sites. We first defined locations with different habitat types, recorded the singing activities with audio loggers (AudioMoth, <a href="https://www.openacousticdevices.info">openacousticdevices.info</a>), and analyzed the bird species using a data pipeline based on the machine learning (ML) model BirdNET. 
             </p>
             <h4 class="mt-3">Data Collection and Methods</h4>
             <p  class="justify">

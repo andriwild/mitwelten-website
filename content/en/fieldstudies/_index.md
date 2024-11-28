@@ -18,10 +18,10 @@ title: Fieldstudies
                 In order to answer the question of how to design and integrate IoT-based infrastructures to promote biodiversity in (peri-)urban habitats, suitable areas for field studies were sought. These should not be characterized by special topographical and ecological features, but should have typical characteristics for Switzerland, so that findings can be applied as widely as possible. 
                 In the three cases, human needs have to be balanced with those of nature conservation, with human dominance decreasing gradually from the urban settlement area to the cultural landscape and nature reserve. In collaboration with the relevant authorities, foundations and municipal representatives, scenarios were developed to accompany transformation processes. Based on a greater knowledge of local processes, ecosystems and human communities, areas in the research institute's environment, in Basel-Stadt and Basel-Land, were selected:
             </p>
-            <ul class="fw-light">
-                <li><strong>Field Study 1 (FS1) Merian Gardens</strong> – botanical garden and recreational area, Basel/Münchenstein, 2021.</li>
-                <li><strong>Field Study 2 (FS2)  Dreispitz</strong> – industrial-urban area in transformation with mixed use, Basel/Münchenstein, 2022/2023.</li>
-                <li><strong>Field Study 3 (FS3) Reinacher Heide</strong> – local recreation and nature reserve, Reinach, 2022/2023.</li>
+            <ul class="fw-light mt-2">
+                <li class="mt-1"><strong>Field Study 1 (FS1) Merian Gardens</strong> – botanical garden and recreational area, Basel/Münchenstein, 2021.</li>
+                <li class="mt-1"><strong>Field Study 2 (FS2)  Dreispitz</strong> – industrial-urban area in transformation with mixed use, Basel/Münchenstein, 2022/2023.</li>
+                <li class="mt-1"><strong>Field Study 3 (FS3) Reinacher Heide</strong> – local recreation and nature reserve, Reinach, 2022/2023.</li>
             </ul>
         </div>
 </div>

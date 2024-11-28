@@ -102,7 +102,7 @@ title: Communication Media
                 <figcaption><p>Screenshot of the 'Discover' application: data visualization of the bird species detected at a selected location.</p></figcaption>
             </figure>
             <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/Discover2.jpg" width="100%" alt="Screenshot of the 'Discover' application: display of photos taken with a selected wild cam of the Reinacher Heide.">
+                <img src="/mitwelten-website/images/interventions/communication_media/Discover2.png" width="100%" alt="Screenshot of the 'Discover' application: display of photos taken with a selected wild cam of the Reinacher Heide.">
                 <figcaption><p>Screenshot of the 'Discover' application: display of photos taken with a selected wild cam of the Reinacher Heide.</p></figcaption>
             </figure>
         </div>

@@ -97,7 +97,7 @@ title: Reinacher Heide
         <li>
             <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
                 href="/mitwelten-website/interventions/participatory_installations">
-                Media Applications:
+                Participatory Installations:
             </a>
             <p class="d-inline">Guidance System</p>
         </li>

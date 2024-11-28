@@ -93,16 +93,16 @@ title: Approach
     <div class="row align-items-start px-0 gx-5">
         <div class="col-md-6 align-items-end">
             <p>
-                <b>Jan Torpus:</b></br>design and art research (project development, project management)<br>
-                <b>Prof. Thomas Amberg:</b></br>computer science, “maker”, IoT (tech. project management)<br>
-                <b>Felix Gerloff:</b></br>cultural and media studies (project development)<br>
-                <b>Dr. Daniel Küry:</b></br>biology, ecology, lifescience.ch<br>
-                <b>Prof. Dr. Christoph Küffer:</b></br>urban ecology, open space planning, environmental humanities<br>
-                <b>Cedric Spindler:</b></br>computer science, audiovisual media, data analysis<br>
-                <b>Dr. Ines Schauer:</b></br>molecular biology, ecological settlement design<br>
-                <b>Timeo Wullschleger:</b></br>computer science, data analysis, automation<br>
-                <b>Andri Wild:</b></br>computer science, dataViz<br>
-                <b>Rebecca Geyer:</b></br>geography, process design (research assistant)
+                <b>Jan Torpus:</b><br>design and art research (project development, project management)<br>
+                <b>Prof. Thomas Amberg:</b><br>computer science, “maker”, IoT (tech. project management)<br>
+                <b>Felix Gerloff:</b><br>cultural and media studies (project development)<br>
+                <b>Dr. Daniel Küry:</b><br>biology, ecology, lifescience.ch<br>
+                <b>Prof. Dr. Christoph Küffer:</b><br>urban ecology, open space planning, environmental humanities<br>
+                <b>Cedric Spindler:</b><br>computer science, audiovisual media, data analysis<br>
+                <b>Dr. Ines Schauer:</b><br>molecular biology, ecological settlement design<br>
+                <b>Timeo Wullschleger:</b><br>computer science, data analysis, automation<br>
+                <b>Andri Wild:</b><br>computer science, dataViz<br>
+                <b>Rebecca Geyer:</b><br>geography, process design (research assistant)
             </p>
         </div>
         <div class="col-md-6">
