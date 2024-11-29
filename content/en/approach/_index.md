@@ -107,19 +107,19 @@ title: Approach
         </div>
         <div class="col-md-6">
             <p>
-                <b>Field study partners:</b> 
+                <b>Field study partners:</b><br>
                 Dr. Lisa Eggenschwiler (Merian Gärten); Christina Felle (FHNW Hochschule für Gestaltung und Kunst); Prof. em. Dr. Andreas Erhardt, Marc Bayard and Yannick Bucher (Reinacher Heide).
             </p>
             <p>
-                <b>Project partner:</b> 
+                <b>Project partner:</b><br>
                 Swild, Dr. Sandra Gloor, Dr. Fabio Bontadina (urban ecology, wildlife research, communication)
             </p>
             <p>
-                <b>Students of the IMVS:</b>
+                <b>Students of the IMVS:</b><br>
                 Thushyanthan Saravani, Mithusan Sivakumar, Patrick Gutter, Tobias Villiger, Marc Bugmann, Tobias Kunz, Simon Matile.
             </p>
             <p>
-                <b>Scientific Advisory Board:</b> 
+                <b>Scientific Advisory Board:</b><br>
                 Prof. Dr. Christiane Heibach, Prof. Dr. Claudia Mareis, Prof. Dr. Birgit Schneider, Dr. Eva Spehn, Prof. Dr. Evi Zemanek.
             </p>
         </div>

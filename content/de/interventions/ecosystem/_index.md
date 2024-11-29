@@ -33,7 +33,7 @@ Wie können Vogelarten in unterschiedlichen Habitattypen mit Hilfe umfangreicher
     <div class="row px-0 gx-5">
         <div class="col-md-6">
             <p class="justify">
-Um mehr über die lokale Vogelwelt zu erfahren, analysierten wir die Untersuchungsgebiete der drei Feldstudien. Zunächst definierten wir Standorte mit unterschiedlichen Lebensraumtypen, zeichneten die Gesangsaktivitäten mit Audiologgern (AudioMoth, <a href="https://www.openacousticdevices.info">openacousticdevices.info</a>) auf und analysierten die Vogelarten mithilfe einer Datenpipeline, die auf dem maschinellen Lernmodell (ML) BirdNET basiert. 
+Um mehr über die lokale Vogelwelt zu erfahren, analysierten wir die Untersuchungsgebiete der drei Feldstudien. Zunächst definierten wir Standorte mit unterschiedlichen Lebensraumtypen, zeichneten die Gesangsaktivitäten mit Audiologgern (<a href="https://www.openacousticdevices.info">AudioMoth</a>) auf und analysierten die Vogelarten mithilfe einer Datenpipeline, die auf dem maschinellen Lernmodell (ML) BirdNET basiert. 
             </p>
             <h4 class="mt-3">Datensammlung und Methodik</h4>
             <p  class="justify">

@@ -3,7 +3,7 @@ title: Merian Gardens
 ---
 
 
-{{< blocks/cover title="Field Study 1 (FS1) Merian Gardens" image_anchor="mid" height="full" color="primary" >}}
+{{< blocks/cover title="Field Study Merian Gardens" image_anchor="mid" height="full" color="primary" >}}
 <h2>Field study in Basel/Münchenstein BL, 2021</h2>
 {{< /blocks/cover >}}
 
@@ -94,7 +94,7 @@ title: Merian Gardens
         <li>
             <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
                 href="/mitwelten-website/interventions/communication_media">
-                Media Applications:
+                Communication Media:
             </a>
             <p class="d-inline">Discover, Panorama</p>
         </li>

@@ -3,7 +3,7 @@ title: Reinacher Heide
 ---
 
 
-{{< blocks/cover title="Field Study 3 (FS3) Reinacher Heide" image_anchor="mid" height="full" >}}
+{{< blocks/cover title="Field Study Reinacher Heide" image_anchor="mid" height="full" >}}
 <h2>Field study in Reinach BL, 2023</h2>
 {{< /blocks/cover >}}
 
@@ -90,7 +90,7 @@ title: Reinacher Heide
         <li>
             <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
                 href="/mitwelten-website/interventions/communication_media">
-                Media Applications:
+                Communication Media:
             </a>
             <p class="d-inline">Discover, WalkApp</p>
         </li>

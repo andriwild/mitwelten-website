@@ -3,7 +3,7 @@ title: Dreispitz
 ---
 
 
-{{< blocks/cover title="Feldstudie 2 (FS2)  Dreispitz" image_anchor="mid" height="full">}}
+{{< blocks/cover title="Feldstudie Dreispitz" image_anchor="mid" height="full">}}
 <h2>Feldstudie in Basel/Münchenstein BL, 2022</h2>
 {{< /blocks/cover >}}
 
@@ -93,7 +93,7 @@ Diese Feldstudie konzentriert sich auf die Entwicklung adaptiver, artenübergrei
         <li>
             <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
                 href="/mitwelten-website/de/interventions/communication_media">
-                Medienanwendungen:
+                Vermittlungsmedien:
             </a>
             <p class="d-inline">Discover, WildCam TV</p>
         </li>

@@ -3,7 +3,7 @@ title: Reinacher Heide
 ---
 
 
-{{< blocks/cover title="Feldstudie 3 (FS2) Reinacher Heide" image_anchor="mid" height="full" >}}
+{{< blocks/cover title="Feldstudie Reinacher Heide" image_anchor="mid" height="full" >}}
 <h2>Feldstudie in Reinach BL, 2023</h2>
 {{< /blocks/cover >}}
 
@@ -90,7 +90,7 @@ Die ehemaligen Bauern- und Winzerdörfer des Birstals gehören heute zur Agglome
         <li>
             <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
                 href="/mitwelten-website/interventions/communication_media">
-                Medienanwendungen:
+                Vermittlungsmedien:
             </a>
             <p class="d-inline">Discover, WalkApp</p>
         </li>

@@ -3,7 +3,7 @@ title: Merian Gardens
 ---
 
 
-{{< blocks/cover title="Feldstudie 1 (FS1) Merian Gärten" image_anchor="mid" height="full" color="primary" >}}
+{{< blocks/cover title="Feldstudie Merian Gärten" image_anchor="mid" height="full" color="primary" >}}
 <h2>Feldstudie in Basel/Münchenstein BL, 2021</h2>
 {{< /blocks/cover >}}
 
@@ -94,7 +94,7 @@ Die Feldstudie wurde in enger Zusammenarbeit mit den Merian Gärten durchgeführ
         <li>
             <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
                 href="/mitwelten-website/de/interventions/communication_media">
-                Medienanwendungen:
+                Vermittlungsmedien:
             </a>
             <p class="d-inline">Discover, Panorama</p>
         </li>

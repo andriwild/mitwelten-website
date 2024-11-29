@@ -81,7 +81,7 @@ Städtische Infrastrukturen und Möbelsysteme für Parks und Strassen sind so ko
             </p>
             <h4 class="mt-3">Konzepte</h4>
             <p class="justify">
-Die Infrastrukturen und Möbelsysteme sollten im Hinblick auf ihr Biodiversitätspotenzial verbessert werden und den Bedürfnissen nichtmenschlicher Lebensformen besser entsprechen. Das Ziel dieser Unterrichtseinheit, die mit Studierenden der Basel Academy of Art and Design FHNW (HGK) durchgeführt wurde, bestand jedoch nicht darin, neue städtische, bioinklusive Möbel zu entwerfen, sondern bestehende Installationen zu untersuchen und anzupassen. Durch minimale Eingriffe, Aktivismus und Visualisierungen sollte auf Missstände hingewiesen und Vorschläge für Umgestaltungen, Erweiterungen oder Neukonfiguration präsentiert werden. Das Auftreten anderer Lebensformen sollte auch zu einem besseren menschlichen Verständnis und mehr Empathie für ihre Perspektiven und Bedürfnisse führen. Zusätzlich zu den Aktionen und Prototypen wurden die Studierenden gebeten, Vorschläge zu machen, wie Biodiversitätsfunktionen standardmässig in zukünftige Infrastrukturen integriert werden könnten.
+Die Infrastrukturen und Möbelsysteme sollten im Hinblick auf ihr Biodiversitätspotenzial verbessert werden und den Bedürfnissen nichtmenschlicher Lebensformen besser entsprechen. Das Ziel dieser Unterrichtseinheit, die mit Studierenden der Hochschule für Gestaltung und Kunst FHNW (HGK) durchgeführt wurde, bestand jedoch nicht darin, neue städtische, bioinklusive Möbel zu entwerfen, sondern bestehende Installationen zu untersuchen und anzupassen. Durch minimale Eingriffe, Aktivismus und Visualisierungen sollte auf Missstände hingewiesen und Vorschläge für Umgestaltungen, Erweiterungen oder Neukonfiguration präsentiert werden. Das Auftreten anderer Lebensformen sollte auch zu einem besseren menschlichen Verständnis und mehr Empathie für ihre Perspektiven und Bedürfnisse führen. Zusätzlich zu den Aktionen und Prototypen wurden die Studierenden gebeten, Vorschläge zu machen, wie Biodiversitätsfunktionen standardmässig in zukünftige Infrastrukturen integriert werden könnten.
             </p>
             <p class="justify mt-5">
 Eine detailliertere Beschreibung der durchgeführten Aktionen, der implementierten Prototypen und der Lehreinheiten finden Sie in der Publikation
@@ -90,12 +90,12 @@ Eine detailliertere Beschreibung der durchgeführten Aktionen, der implementiert
         </div>
         <div class="col-md-6">
             <figure>
-                <img src="/mitwelten-website/images/interventions/interspecies_plattform/HackedInfrastructure01.jpg" width="100%" alt="Designintervention von Studierenden auf dem HGK Campus: “Vernetzungskorridor” (2023), Aufruf zur Renaturierung der asphaltierten Gleistrassen">
-                <figcaption><p>Designintervention von Studierenden auf dem HGK Campus: “Vernetzungskorridor” (2023), Aufruf zur Renaturierung der asphaltierten Gleistrassen</p></figcaption>
+                <img src="/mitwelten-website/images/interventions/interspecies_plattform/HackedInfrastructure01.jpg" width="100%" alt="Designintervention von Studierenden auf dem HGK Campus: “Vernetzungskorridor” (2023), Aufruf zur Renaturierung der asphaltierten Gleistrassen.">
+                <figcaption><p>Designintervention von Studierenden auf dem HGK Campus: “Vernetzungskorridor” (2023), Aufruf zur Renaturierung der asphaltierten Gleistrassen.</p></figcaption>
             </figure>
             <figure>
-                <img src="/mitwelten-website/images/interventions/interspecies_plattform/HackedInfrastructure02.jpg" width="100%" alt="Designintervention von Studierenden auf dem HGK Campus: "Seed Sculpture" (2023), Kunst als vergänglicher Biodiveritätsförderer">
-                <figcaption><p>Designintervention von Studierenden auf dem HGK Campus: "Seed Sculpture" (2023), Kunst als vergänglicher Biodiveritätsförderer</p></figcaption>
+                <img src="/mitwelten-website/images/interventions/interspecies_plattform/HackedInfrastructure02.jpg" width="100%" alt="Designintervention von Studierenden auf dem HGK Campus: 'Seed Sculpture' (2023), Kunst als vergänglicher Biodiveritätsförderer.">
+                <figcaption><p>Designintervention von Studierenden auf dem HGK Campus: "Seed Sculpture" (2023), Kunst als vergänglicher Biodiveritätsförderer.</p></figcaption>
             </figure>
         </div>
     </div>
@@ -133,11 +133,11 @@ Eine detailliertere Beschreibung der Konzepte und der umgesetzten Prototypen fin
         <div class="col-md-6 order-md-first">
             <figure>
                 <img src="/mitwelten-website/images/interventions/interspecies_plattform/SteppingStoneHabitats01.jpg" width="100%" alt="Designintervention von Studierenden auf dem HGK Campus (2023): Modul Pflanzenrabatte des modularen 'Trittsteinwelten' Systems.">
-                <figcaption><p class="text-end">Designintervention von Studierenden auf dem HGK Campus (2023): Modul Pflanzenrabatte des modularen "Trittsteinwelten" Systems.</p></figcaption>
+                <figcaption><p class="text-end">Designintervention von Studierenden auf dem HGK Campus: "Trittsteinwelten" (2023), modulares System zur biodiversitätsfördernden Erweiterung bestehender Infrastrukturen.</p></figcaption>
             </figure>
             <figure>
                 <img src="/mitwelten-website/images/interventions/interspecies_plattform/SteppingStoneHabitat02.jpg" width="100%" alt="Designintervention von Studierenden auf dem HGK Campus: "Trittsteinwelten" (2023), modulares System zur biodiversitätsfördernden Erweiterung bestehender Infrastrukturen.">
-                <figcaption><p class="text-end">Designintervention von Studierenden auf dem HGK Campus: "Trittsteinwelten" (2023), modulares System zur biodiversitätsfördernden Erweiterung bestehender Infrastrukturen.</p></figcaption>
+                <figcaption><p class="text-end">Designintervention von Studierenden auf dem HGK Campus (2023): Modul Pflanzenrabatte des modularen "Trittsteinwelten" Systems.</p></figcaption>
             </figure>
         </div>
     </div>

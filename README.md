@@ -1,4 +1,4 @@
-# Mitwelten Web Static
+# Mitwelten Website
 Hugo source code of the static part, to be hosted on www.mitwelten.org.
 
 Hosting is not yet automated, you'll have to preview on your Mac.
@@ -6,27 +6,39 @@ Hosting is not yet automated, you'll have to preview on your Mac.
 Publishing requires copying files to [mitwelten.github.io](https://github.com/mitwelten/mitwelten.github.io).
 
 ## Install Hugo
-On your Mac, open a Terminal and type
+
+On your Mac / PC, open a Terminal and type
+
+This page is built with version v0.136.4. Older versions might not work.
+
+If you want to install a specific version, visit the following link: [gohugo.io/installation](https://gohugo.io/installation/)
 
 ```
 $ brew install hugo
+```
+
+### Check the Installation
+```
 $ hugo version
 ```
+If you see a version number, you're good to go.
+
 
 ## Get this repo
 To clone the repo with git, type
 
 ```
 $ cd ~/Desktop # (or wherever you like)
-$ git clone https://github.com/mitwelten/mitwelten-web-static
-$ cd mitwelten-web-static
+$ git clone https://github.com/mitwelten/mitwelten.github.io
+$ cd mitwelten.github.io
+$ npm install autoprefixer
 ```
 
 ## Run a local server
 To run a local Web server, type
 
 ```
-$ cd ~/Desktop/mitwelten-web-static
+$ cd ~/Desktop/mitwelten.github.io
 $ hugo server -D
 (visit http://localhost:1313/)
 ```
@@ -35,135 +47,105 @@ $ hugo server -D
 To set up publishing to www.mitwelten.org, type
 
 ```
-$ cd ~/Desktop # (or wherever you keep mitwelten-web-static)
-$ git clone https://github.com/mitwelten/mitwelten.github.io
-$ npm install autoprefixer
+$ cd ~/Desktop # (or wherever you keep mitwelten.github.io)
 ```
 
-## Publish to mitwelten.org
+## Add new content
+
 To publish to www.mitwelten.org (assuming you're [set up to publish](#set-up-to-publish)), type
 
+Before you add new content, don't forget to pull the latest changes from the repository.
+
 ```
-$ cd ~/Desktop/mitwelten-web-static
 $ git pull
+```
+
+Open the content folder and add new content in markdown format. The content is structured in two languages (de and en).
+
+If you add new pages, you need to add them to the menu. The menu is defined in the config folder.
+
+### Publish new content
+
+Open the terminal and navigate to your project folder.
+
+```
+$ cd ~/Desktop/mitwelten.github.io (or wherever you keep mitwelten.github.io)
 $ hugo
-$ cp -r public/ ../mitwelten.github.io
-$ cd ../mitwelten.github.io
 $ git status # check changed files
 $ git commit --all
 $ git push
 (visit https://www.mitwelten.org/)
 ```
 
-## Add a post
-To add a new post, type
-
-```
-$ cd ~/Desktop/mitwelten-web-static
-$ hugo new posts/my-new-post.md
-$ open content/posts/my-new-post.md
-(edit, save your new post)
-(check http://localhost:1313/posts)
-```
-
-## Add a device
-To add a new device (i.e. using a custom archetype and custom shortcodes to embed charts, maps), type
-
-```
-$ cd ~/Desktop/mitwelten-web-static
-$ hugo new id/0000-0004.md
-$ open content/id/0000-0004.md
-(edit, save your new device)
-(check http://localhost:1313/id)
-```
-> Note: The convention would require `ids`, but we already commited to `id`.
 
 ## Check the file structure
 ```
-$ cd ~/Desktop/mitwelten-web-static
+$ cd ~/Desktop/mitwelten.github.io
 $ brew install tree
 $ tree
+
 .
-├── LICENSE
-├── README.md
-├── archetypes
-│   └── id.md
 ├── assets
+│   ├── icons
+│   │   └── logo.svg
 │   └── scss
+│       ├── _styles_project.scss
 │       └── _variables_project.scss
-├── config.toml
+├── config
+│   └── _default
+│       ├── hugo.yaml
+│       ├── menus.de.yml
+│       └── menus.en.yml
 ├── content
-│   └── de
-│       ├── _index.html
-│       ├── about
-│       │   ├── _index.html
-│       │   └── featured-background.jpg
-│       ├── blog
-│       │   ├── _index.md
-│       │   ├── news
-│       │   │   ├── _index.md
-│       │   │   ├── first-post
-│       │   │   │   ├── featured-sunset-get.png
-│       │   │   │   └── index.md
-│       │   │   └── second-post.md
-│       │   └── releases
-│       │       ├── _index.md
-│       │       └── in-depth-monoliths-detailed-spec.md
-│       ├── docs
-│       │   ├── Concepts
-│       │   │   └── _index.md
-│       │   ├── Contribution guidelines
-│       │   │   └── _index.md
-│       │   ├── Examples
-│       │   │   └── _index.md
-│       │   ├── Getting started
-│       │   │   ├── _index.md
-│       │   │   └── example-page.md
-│       │   ├── Overview
-│       │   │   └── _index.md
-│       │   ├── Reference
-│       │   │   ├── _index.md
-│       │   │   └── parameter-reference.md
-│       │   ├── Tasks
-│       │   │   ├── Ponycopters
-│       │   │   │   ├── _index.md
-│       │   │   │   ├── configuring-ponycopters.md
-│       │   │   │   └── launching-ponycopters.md
-│       │   │   ├── _index.md
-│       │   │   ├── beds.md
-│       │   │   ├── porridge.md
-│       │   │   └── task.md
-│       │   ├── Tutorials
-│       │   │   ├── _index.md
-│       │   │   ├── multi-bear.md
-│       │   │   └── tutorial2.md
-│       │   └── _index.md
-│       ├── featured-background.jpg
-│       ├── id
-│       │   ├── 0000-0001.md
-│       │   ├── 0000-0002.md
-│       │   └── 0000-0003.md
-│       └── search.md
-├── go.mod
-├── go.sum
+│   ├── de
+│   │   ├── approach
+│   │   ├── featured-background.png
+│   │   ├── fieldstudies
+│   │   ├── _index.md
+│   │   ├── interventions
+│   │   └── iot
+│   └── en
+│       ├── approach
+│       ├── featured-background.png
+│       ├── fieldstudies
+│       ├── _index.md
+│       ├── interventions
+│       └── iot
+│  
+├── docs
 ├── layouts
 │   ├── 404.html
+│   ├── _default
+│   │   └── _markup
+│   ├── partials
+│   │   ├── footer.html
+│   │   └── navbar.html
 │   └── shortcodes
+│       ├── blocks
 │       ├── swisstopo.md
-│       └── thingspeak.html
-├── netlify.toml
-├── package.json
-├── resources
-│   └── _gen
-├── static
-│   └── images
-│       ├── dreispitz.png
-│       ├── merian.png
-│       └── reinach.png
-└── themes
-    └── docsy
+│       └── test.html
+├── LICENSE
+├── README.md
+└── static
+    ├── docs
+    │   ├── MW_IOT_TOOLKIT.pdf
+    │   └── MW_Software_Environment.pdf
+    ├── favicons
+    └── images
+        ├── applications
+        ├── fieldstudies
+        ├── interventions
+        ├── iot
+        └── logo
 
 ```
+
+### Relevant folders
+
+- config: general hugo configuration with standalone files for menus entries for each language
+- static: static files like images, pdfs, etc.
+- content: markdown files for the content of the website for each language
+- layouts: html templates for the website (partials: only includes overwritten templates)
 
 # Docs
 The following links provide technical background.
@@ -180,3 +162,11 @@ The following links provide technical background.
 * https://gohugo.io/getting-started/quick-start/
 * https://gohugo.io/content-management/archetypes/
 * https://gohugo.io/content-management/shortcodes/
+
+## Used Theme
+* https://www.docsy.dev/
+* https://github.com/google/docsy
+
+Note: The theme uses bootstrap, therefore the following links might be helpful
+
+* https://getbootstrap.com/docs/5.0/getting-started/introduction/

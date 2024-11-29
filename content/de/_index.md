@@ -22,7 +22,7 @@ linkTitle: MITWELTEN
 {{% blocks/section color="blue" %}}
 
 <div class="mx-auto">
-    <h3 class="text-center mb-5">DER MITWELTEN-ANSATZ</h3>
+    <h3 class="text-center mb-5">DER MITWELTEN-STRATEGIE</h3>
     <p class="text-column">
 Die Zunahme der menschlichen Bevölkerung und Industrialisierungsprozesse führen zu einem weltweiten Lebensraumverlust und Artensterben. Die industrielle Landwirtschaft führt zu Agrarwüsten, die Wildtieren weniger Lebensgrundlagen bieten als menschliche Siedlungen mit Kleinstrukturen und Gärten. Bislang wurden Grünflächen bei der Siedlungsgestaltung auf den Menschen ausgerichtet, während der Mensch aus der Naturschutzbiologie ausgeschlossen wurde. Die vermeintlichen Gegensätze zwischen Natur, Kultur und Technik sollten in ein konstruktives Zusammenspiel gebracht werden, um die Biodiversität in stadtnahen Gebieten zu fördern.
 Das Forschungsprojekt Mitwelten vertritt eine posthumanistische, anthropodezentralisierte Haltung: Es versucht, die zentrale Stellung des Menschen aufzulösen und ihn als blosses Element in das mehr als menschliche (more-than-human) Ökosystem zu integrieren. Das interdisziplinäre Projekt versucht, mit Instrumenten der Designforschung und der Natur-, Kultur- und Computerwissenschaften Gestaltungsansätze zur Förderung der Biodiversität in Wohn- und Erholungsgebieten zu entwickeln. Im Rahmen dreier Feldstudien in und um Basel (Schweiz) wurde untersucht, wie mediengestalterische Interventionen auf der Grundlage eines ‘IoT-Toolkits’ (Internet of Things Toolkit) die Biodiversität in lokalen Ökosystemen verbessern können. Die eingebettete medientechnische Infrastruktur bildet ein 'response-able environment', das die breite Bevölkerung und die Bedürfnisse und Beiträge von Tieren und Pflanzen miteinbezieht, um das Zusammenleben zu fördern.
@@ -55,7 +55,7 @@ Das Forschungsprojekt Mitwelten vertritt eine posthumanistische, anthropodezentr
 
 <div class="mx-auto" style="width: 100%">
     <h4 class="text-center mt-3 fw-light">
-        Die <strong>Design-Interventionen</strong> haben zum Ziel, Pflanzen und Tieren eine Stimme zu geben, ökologische Wissensbestände und Erfahrungen zu erweitern, neue Formen Spezies übergreifenden Zusammenlebens zu gestalten und dadurch ökologische Werte und Verhaltensweisen zu kultivieren. Dazu wird ein Internet of Things Toolkit entwickelt, das für die gestalterischen Interventionen als medientechnologische Infrastruktur dient.
+        Die <strong>Design-Interventionen</strong> haben zum Ziel, Pflanzen und Tieren eine Stimme zu geben, ökologische Wissensbestände und Erfahrungen zu erweitern, neue Formen Spezies übergreifenden Zusammenlebens zu gestalten und dadurch ökologische Werte und Verhaltensweisen zu kultivieren. Dazu wird ein <a href="https://github.com/mitwelten" target="_blank">Internet of Things Toolkit</a> entwickelt, das für die gestalterischen Interventionen als medientechnologische Infrastruktur dient.
     </h4>
 </div>
 

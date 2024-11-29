@@ -12,10 +12,10 @@ title: Fieldstudies
 {{% blocks/section color="secondary" %}}
 
 <div class="mx-auto">
-    <h3 class="text-center mb-5">CHARACTERISTICS</h1>
+    <h3 class="text-center mb-5">CHARAKTERISTIKA</h1>
         <div class="text-column">
             <p class="mb-0">
-Um die Frage nach der Gestaltung und Integration IoT-basierter Infrastrukturen zur Förderung der Biodiversität beantworten in (peri-)urbanen Lebensräumen zu können, wurde nach geeigneten Untersuchungsgebieten für Feldstudien gesucht. Sie sollten sich weniger durch besondere topographische und ökologische Gegebenheiten auszeichnen, sondern für die Schweiz typische Charakteristika aufweisen, damit Erkenntnisse eine möglichst breite Anwendung finden können. In diesen drei Fällen müssen menschliche Bedürfnisse jeweils mit denen des Naturschutzes austariert werden, wobei die menschliche Dominanz graduell vom urbanen Siedlungsgebiet über die Kulturlandschaft zum Naturschutzgebiet abnimmt. In Zusammenarbeit mit den zuständigen Ämtern, Stiftungen und Gemeindevertretungen wurden Szenarien entwickelt, die Umgestaltungsprozesse begleiteten. Aufgrund der besseren Kenntnisse der lokalen Prozesse, Ökosysteme und Communities wurden Gebiete in der Umgebung des Forschungsinstituts, in Basel-Stadt und Basel-Land, ausgewählt:
+Um die Frage nach der Gestaltung und Integration IoT-basierter Infrastrukturen zur Förderung der Biodiversität in (peri-)urbanen Lebensräumen beantworten zu können, wurde nach geeigneten Untersuchungsgebieten für Feldstudien gesucht. Sie sollten sich weniger durch besondere topographische und ökologische Gegebenheiten auszeichnen, sondern für die Schweiz typische Charakteristika aufweisen, damit Erkenntnisse eine möglichst breite Anwendung finden können. In den drei gewählten Fällen müssen menschliche Bedürfnisse jeweils mit denen des Naturschutzes austariert werden, wobei die menschliche Dominanz graduell vom urbanen Siedlungsgebiet über die Kulturlandschaft zum Naturschutzgebiet abnimmt. In Zusammenarbeit mit den zuständigen Ämtern, Stiftungen und Gemeindevertretungen wurden Szenarien entwickelt, die Umgestaltungsprozesse begleiteten. Aufgrund der besseren Kenntnisse der lokalen Prozesse, Ökosysteme und Communities wurden Gebiete in der Umgebung des Forschungsinstituts, in Basel-Stadt und Basel-Land, ausgewählt:
             </p>
             <ul class="fw-light mt-2">
                 <li class="mt-1"><strong>Feldstudie 1 Merian Gärten:</strong> – Botanischer Garten und Naherholungsgebiet, Basel/Münchenstein, 2021.</li>

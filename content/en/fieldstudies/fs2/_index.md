@@ -3,7 +3,7 @@ title: Dreispitz
 ---
 
 
-{{< blocks/cover title="Field Study 2 (FS2)  Dreispitz" image_anchor="mid" height="full">}}
+{{< blocks/cover title="Field Study Dreispitz" image_anchor="mid" height="full">}}
 <h2>Field study in Basel/Münchenstein BL, 2022</h2>
 {{< /blocks/cover >}}
 

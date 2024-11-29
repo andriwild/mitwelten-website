@@ -109,19 +109,19 @@ Um diesen umfassenden Anforderungen gerecht zu werden, sind neue Strategien erfo
         </div>
         <div class="col-md-6">
             <p>
-                <b>Feldstudienpartner*innen:</b> 
+                <b>Feldstudienpartner*innen:</b><br> 
                 Dr. Lisa Eggenschwiler (Merian Gärten); Christina Felle (FHNW Hochschule für Gestaltung und Kunst); Prof. em. Dr. Andreas Erhardt, Marc Bayard und Yannick Bucher (Reinacher Heide).
             </p>
             <p>
-                <b>Projektpartner:</b> 
+                <b>Projektpartner:</b><br> 
                 Swild, Dr. Sandra Gloor, Dr. Fabio Bontadina (Stadtökologie, Wildtierforschung, Kommunikation)
             </p>
             <p>
-                <b>Studierende des IMVS:</b>
+                <b>Studierende des IMVS:</b><br>
                 Thushyanthan Saravani, Mithusan Sivakumar, Patrick Gutter, Tobias Villiger, Marc Bugmann, Tobias Kunz, Simon Matile.
             </p>
             <p>
-                <b>Wissenschaftlicher Beirat:</b> 
+                <b>Wissenschaftlicher Beirat:</b><br> 
                 Prof. Dr. Christiane Heibach, Prof. Dr. Claudia Mareis, Prof. Dr. Birgit Schneider, Dr. Eva Spehn, Prof. Dr. Evi Zemanek.
             </p>
         </div>

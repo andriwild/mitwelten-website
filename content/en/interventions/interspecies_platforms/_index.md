@@ -40,7 +40,7 @@ title: Interspecies Platforms
             </p>
             <h4  class="mt-3">Key Concepts</h4>
             <p class="justify">
-                Apart from the greening with plants – to create a more natural atmosphere, provide shade and lower the temperature by plant transpiration – hardly any non-human creatures are normally included in the urban outdoor furniture design process. This is where Interspecies Platforms come into play to meet the needs of animals and plants in urban spaces. During the Mitwelten research project concepts were developed and teaching units conducted at the Basel University of Art and Design (HGK). They were intended to sensitize students to the topics of biodiversity and interspecies cohabitation, explore what ecological contributions can be made in the disciplines of art and design and how the topic can be made tangible for the public.
+                Apart from the greening with plants – to create a more natural atmosphere, provide shade and lower the temperature by plant transpiration – hardly any non-human creatures are normally included in the urban outdoor furniture design process. This is where Interspecies Platforms come into play to meet the needs of animals and plants in urban spaces. In collaboration with the Bachelor's degree program in Interior Architecture and Scenography concepts were developed and teaching units conducted at the Basel University of Art and Design (HGK). They were intended to sensitize students to the topics of biodiversity and interspecies cohabitation, explore what ecological contributions can be made in the disciplines of art and design and how the topic can be made tangible for the public.
             </p>
             <p class="justify mt-5">
                 A more detailed description of the concepts, teaching units and implemented prototypes are presented in the publication <strong>'Mitwelten. Media-ecological Design Strategies for Improving Peri Urban Biodiversity'</strong>. (Coming soon!)
@@ -132,11 +132,11 @@ title: Interspecies Platforms
         <div class="col-md-6 order-md-first">
             <figure>
                 <img src="/mitwelten-website/images/interventions/interspecies_plattform/SteppingStoneHabitats01.jpg" width="100%" alt="Design intervention by students on the HGK campus (2023): plant bed unit of the modular “Trittsteinwelten” system.">
-                <figcaption><p class="text-end">Design intervention by students on the HGK campus (2023): plant bed unit of the modular “Trittsteinwelten” system.</p></figcaption>
+                <figcaption><p class="text-end">Design intervention by students on the HGK Campus: “Trittsteinwelten” (2023), modular system for the biodiversity-promoting expansion of existing infrastructures.</p></figcaption>
             </figure>
             <figure>
                 <img src="/mitwelten-website/images/interventions/interspecies_plattform/SteppingStoneHabitat02.jpg" width="100%" alt="Design intervention by students on the HGK Campus: “Trittsteinwelten” (2023), modular system for the biodiversity-promoting expansion of existing infrastructures.">
-                <figcaption><p class="text-end">Design intervention by students on the HGK Campus: “Trittsteinwelten” (2023), modular system for the biodiversity-promoting expansion of existing infrastructures.</p></figcaption>
+                <figcaption><p class="text-end">Design intervention by students on the HGK campus (2023): plant bed unit of the modular “Trittsteinwelten” system.</p></figcaption>
             </figure>
         </div>
     </div>

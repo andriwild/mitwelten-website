@@ -15,7 +15,7 @@ title: IOT-Toolkit
     <div class="row align-items-start px-0 gx-5">
         <div class="col-xl-6 align-items-end">
             <p class="justify">
-                Basierend auf den Technologien des Internets der Dinge (IoT) wurde ein generisches <a href="/docs/MW_IOT_TOOLKIT.pdf" target="_blank">IoT Toolkit</a> für die Feld- und Designforschung entwickelt. Es besteht aus einem Netzwerk von Knotenpunkten, die aus Sensoren, Aktuatoren, Prozessoren und weiteren Komponenten aufgebaut sind. Die Sensoren erfassen Aktivitäten und Zustandsänderungen der Untersuchungsgebiete (z.B. Bild, Ton, Bewegung, Distanz, Temperatur, Feuchtigkeit) und Aktuatoren (z.B. Motoren, Lautsprecher, Lampen) wirken aktiv darauf ein. Energieversorgungseinheiten (z.B. Akkus, Solar-Panels) und Netzwerkmodule (z.B. LoRaWAN- und 4/5G-Mobilnetzwerke) dienen der Stromversorgung und Vernetzung. 
+                Basierend auf den Technologien des Internets der Dinge (IoT) wurde ein generisches <a href="/mitwelten-website/docs/MW_IOT_TOOLKIT.pdf" target="_blank">IoT Toolkit</a> für die Feld- und Designforschung entwickelt. Es besteht aus einem Netzwerk von Knotenpunkten, die aus Sensoren, Aktuatoren, Prozessoren und weiteren Komponenten aufgebaut sind. Die Sensoren erfassen Aktivitäten und Zustandsänderungen der Untersuchungsgebiete (z.B. Bild, Ton, Bewegung, Distanz, Temperatur, Feuchtigkeit) und Aktuatoren (z.B. Motoren, Lautsprecher, Lampen) wirken aktiv darauf ein. Energieversorgungseinheiten (z.B. Akkus, Solar-Panels) und Netzwerkmodule (z.B. LoRaWAN- und 4/5G-Mobilnetzwerke) dienen der Stromversorgung und Vernetzung. 
             </p>
             <p class="justify">
                 Das IoT Toolkit wurde im Rahmen der gestalterischen Interventionen im Feld eingerichtet und fungierte so als medientechnologische Infrastruktur. Der Einsatz von Technologie erfolgte aber in kritischer Abgrenzung vom kommerziellen und technophilen ‘Smart’-Paradigma. Mit den Sensoren wurde die lokale Lebenswelt erfasst (Monitoring), die Daten mit der Software <a href="https://explore.mitwelten.org" target="_blank">'Explore'</a> analysiert und im Atlas <a href="https://discover.mitwelten.org/app/" target="_blank">'Discover'</a> für die Öffentlichkeit präsentiert. Die Aktuatoren führten die ausgewerteten Messwerte in die physische Umgebung zurück und trugen so zur Gestaltung eines ‘Response-able Environment’ (statt ‘smart’ oder ‘responsive’) mit erweiterter Kommunikationsfähigkeit und Handlungsmacht bei.
@@ -48,11 +48,11 @@ title: IOT-Toolkit
     <div class="row align-items-start px-0 gx-5">
         <div class="col-xl-6 text-end">
             <p class="justify">
-                Für Entwicklung haben wir soweit möglich Open Software und Open Hardware verwendet oder mit einfachen, günstigen Komponenten gearbeitet. Damit die Geräte im Do-it-yourself-Verfahren zusammengebaut und von Laien genutzt werden können, wurden die Erkenntnisse und Anleitungen als Open Data behandelt und auf der Entwicklungsplattform Github (<a href="https://www.github.com/mitwelten" target="_blank">github.com/mitwelten</a>) dokumentiert.
-                Zuerst entwickelten wir das generische IoT Toolkit und die entsprechende <a href="/docs/MW_Software_Environment.pdf" target="_blank">Softwareumgebung</a>, die für das Biodiversitätsmonitoring verwendet werden können. Im Rahmen interdisziplinärer Workshops wurden die Knotenpunkte produziert, um ihren Einsatz für Citizen Science zu überprüfen. 
+                Für die Entwicklung haben wir soweit wie möglich Open Software und Open Hardware verwendet oder mit einfachen, günstigen Komponenten gearbeitet. Damit die Geräte im Do-it-yourself-Verfahren zusammengebaut und von Laien genutzt werden können, wurden die Erkenntnisse und Anleitungen als Open Data behandelt und auf der Entwicklungsplattform Github (<a href="https://www.github.com/mitwelten" target="_blank">github.com/mitwelten</a>) dokumentiert.
+                Zuerst entwickelten wir das generische IoT Toolkit und die entsprechende <a href="/mitwelten-website/docs/MW_Software_Environment.pdf" target="_blank">Softwareumgebung</a>, die für das Biodiversitätsmonitoring verwendet werden können. Im Rahmen interdisziplinärer Workshops wurden die Knotenpunkte produziert, um ihren Einsatz für Citizen Science zu überprüfen. 
             </p>
             <p class="justify">
-                Darauf aufbauend führten wir sensorbasierte Experimente in den Feldstudien durch, die die Erkennung von Leitarten oder -familien ermöglichten (Insekten und Vögel), um Rückschlüsse auf die ökologische Qualität der Biodiversität zu ziehen. Mithilfe der Sensoren und Aktuatoren führten wir Design-Interventionen durch, um die Forschungsergebnisse für die breite Öffentlichkeit greifbarer zu machen. Es wurden verschiedene beziehungsfördernde Medienformate gestaltet, mit denen direkt auf die Forschungsdatenbank zugegriffen werden konnte und partizipative Installationen im öffentlichen Raum aufgebaut.
+                Darauf aufbauend führten wir sensorbasierte Experimente in den Feldstudien durch, die die Erkennung von Leitarten oder -familien ermöglichten (Insekten und Vögel), um Rückschlüsse auf die ökologische Qualität der Biodiversität zu ziehen. Mithilfe der Sensoren und Aktuatoren führten wir Design-Interventionen durch, um die Forschungsergebnisse für die breite Öffentlichkeit greifbarer zu machen. Es wurden verschiedene beziehungsfördernde Medienformate gestaltet, mit denen direkt auf die Forschungsdatenbank zugegriffen und partizipative Installationen im öffentlichen Raum aufgebaut werden konnten.
             </p>
         </div>
         <div class="col-xl-6">
@@ -98,12 +98,14 @@ title: IOT-Toolkit
         </div>
         <div class="col-md-3 col-sm-6 mb-5 mb-lg-0 d-flex flex-column text-center flex-grow-1 d-flex align-items-center justify-content-center">
             <a class="link-dark link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
-                href="https://discover.mitwelten.org/app/" 
+                href="https://explore.mitwelten.org/app/" 
                 target="_blank">
                 <h4 class="mb-4">APPLIKATIONEN</h4>
             </a>
             {{< figure src="/mitwelten-website/images/applications/discover_explorer.png" 
                 text="Mitwelten Applications"
+                link="https://explore.mitwelten.org/app/"
+                target="_blank"
                 width="100%" >}}
                 <p class="fw-light" style="min-height: 100px">
                     Die <a href="https://explore.mitwelten.org" target="_blank">Explore App</a> App wird für die explorative Datenanalyse verwendet.
@@ -142,10 +144,8 @@ title: IOT-Toolkit
     <div class="container">
         <div class="row">
             <div class="col">
-                {{% blocks/iconlink icon="fab fa-github" url="https://github.com/mitwelten" url_text="Github"  %}}
-                {{% /blocks/iconlink %}}
             </div>
-            <div class="col-12 col-sm-6">
+            <div class="col-12 col-sm-6 text-center">
                 <p>
                     Leitung: Thomas Amberg<br>
                     Institut für Mobile und Verteilte Systeme<br>
@@ -154,8 +154,6 @@ title: IOT-Toolkit
                 </p>
             </div>
             <div class="col">
-                {{% blocks/iconlink icon="fa-envelope" url="mailto:mitwelten.technik@fhnw.ch" url_text="Email" %}}
-                {{% /blocks/iconlink %}}
             </div>
         </div>
         <br>
