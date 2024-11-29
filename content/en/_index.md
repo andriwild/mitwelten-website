@@ -54,7 +54,7 @@ linkTitle: MITWELTEN
 
 <div class="mx-auto" style="width: 100%">
     <h4 class="text-center mt-3 fw-light">
-        The <strong>design interventions</strong> aim to give plants and animals a voice, expand ecological knowledge and experience, create new forms of cross-species coexistence and thereby cultivate ecological values and behaviors. To this end, an <a href="https://github.com/mitwelten" target="_blank">Internet of Things Toolkit</a> is being developed that serves as a media technology infrastructure for the design interventions.
+        The <strong>design interventions</strong> aim to give plants and animals a voice, expand ecological knowledge and experience, create new forms of cross-species coexistence and thereby cultivate ecological values and behaviors. To this end, an <a href="https://github.com/mitwelten">Internet of Things Toolkit</a> is being developed that serves as a media technology infrastructure for the design interventions.
     </h4>
 </div>
 
@@ -67,10 +67,10 @@ linkTitle: MITWELTEN
 {{% blocks/section color="yellow" %}}
 <div class="mx-auto">
     <h4 class="text-center fw-light">
-        The collaborative research develops the <strong><em>ideal</em></strong> of experience-led and knowledge-based design of livable landscape architectures and sustainable everyday processes for all creatures in the form of media-ecological prototypes and infrastructures of ecological structural change: human colonies and their environments become <strong>biodiverse MITWELTEN</strong>.
+        The Collaborative research develops the <strong><em>ideal</em></strong> of experience-led and knowledge-based design of livable landscape architectures and sustainable everyday processes for all creatures in the form of media-ecological prototypes and infrastructures of ecological structural change: human colonies and their environments become <strong>biodiverse MITWELTEN</strong>.
     </h4>
 </div>
-<figure class="text-center mt-5"> <img src="/mitwelten-website/images/logo/mitwelten_logo.png" width="80%"> </figure>
+<figure class="text-center mt-5"> <img src="/images/logo/mitwelten_logo.png" width="80%"> </figure>
 {{% /blocks/section %}}
 
 

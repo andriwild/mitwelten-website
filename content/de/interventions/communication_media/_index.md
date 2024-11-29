@@ -57,11 +57,11 @@ Im Rahmen des Forschungsprojekts Mitwelten haben wir eine Reihe von Medienformat
         </div>
         <div class="col-md-6 order-md-first">
             <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/Discover1.png" width="100%" alt="Screenshot der ‘Discover’ Applikation: Datenvisualisierung der festgestellten Vogelarten an einem ausgesuchten Ort.">
+                <img src="/images/interventions/communication_media/Discover1.png" width="100%" alt="Screenshot der ‘Discover’ Applikation: Datenvisualisierung der festgestellten Vogelarten an einem ausgesuchten Ort.">
                 <figcaption><p class="text-end">Screenshot der ‘Discover’ Applikation: Datenvisualisierung der festgestellten Vogelarten an einem ausgesuchten Ort.</p></figcaption>
             </figure>
             <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/Discover2.png" width="100%" alt="Screenshot der ‘Discover’ Applikation: Darstellung von Fotos, die mit einer ausgewählten Kamerafalle der Reinacher Heide gemacht wurden.">
+                <img src="/images/interventions/communication_media/Discover2.png" width="100%" alt="Screenshot der ‘Discover’ Applikation: Darstellung von Fotos, die mit einer ausgewählten Kamerafalle der Reinacher Heide gemacht wurden.">
                 <figcaption><p class="text-end">Screenshot der ‘Discover’ Applikation: Darstellung von Fotos, die mit einer ausgewählten Kamerafalle der Reinacher Heide gemacht wurden.</p></figcaption>
             </figure>
         </div>
@@ -99,11 +99,11 @@ Im Rahmen des Forschungsprojekts Mitwelten haben wir eine Reihe von Medienformat
         </div>
         <div class="col-md-6">
             <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/WildCamTV01.jpg" width="100%" alt="Ausstellung der Installation im Civic-Ausstellungsraum der HGK, untersucht von zwei Besucherinnen.">
+                <img src="/images/interventions/communication_media/WildCamTV01.jpg" width="100%" alt="Ausstellung der Installation im Civic-Ausstellungsraum der HGK, untersucht von zwei Besucherinnen.">
                 <figcaption><p>Ausstellung der Installation im Civic-Ausstellungsraum der HGK, untersucht von zwei Besucherinnen.</p></figcaption>
             </figure>
             <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/WildCamTV02.jpg" width="100%" alt="Interface zur Wahl von Bildserien der unterschiedlichen Fotofallen, mit parametrischen Einstellungen für die Form der Bildwiedergabe.">
+                <img src="/images/interventions/communication_media/WildCamTV02.jpg" width="100%" alt="Interface zur Wahl von Bildserien der unterschiedlichen Fotofallen, mit parametrischen Einstellungen für die Form der Bildwiedergabe.">
                 <figcaption><p>Interface zur Wahl von Bildserien der unterschiedlichen Fotofallen, mit parametrischen Einstellungen für die Form der Bildwiedergabe.</p></figcaption>
             </figure>
         </div>
@@ -139,11 +139,11 @@ Im Rahmen des Forschungsprojekts Mitwelten haben wir eine Reihe von Medienformat
         </div>
         <div class="col-xl-6 order-md-first">
             <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/WalkApp1.jpg" width="100%" alt="Foto von einem Spaziergang mit der WalkApp auf dem Mobiltelefon, auf der Brücke des Dorfbaches in der Reinacher Heide.">
+                <img src="/images/interventions/communication_media/WalkApp1.jpg" width="100%" alt="Foto von einem Spaziergang mit der WalkApp auf dem Mobiltelefon, auf der Brücke des Dorfbaches in der Reinacher Heide.">
                 <figcaption><p class="text-end">Foto von einem Spaziergang mit der WalkApp auf dem Mobiltelefon, auf der Brücke des Dorfbaches in der Reinacher Heide.</p></figcaption>
             </figure>
             <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/WalkApp2.jpg" width="100%" alt="Vier Screenshots von unterschiedlichen Interfaces und ‘Erlebnismodi’ (von links nach rechts): Informationen zu vorkommenden Orichideen, Audioausschnitte von Experteninterviews, Foto-Beiträge von Besucher*innen, Datenvisualisierung festgestellter Insekten.">
+                <img src="/images/interventions/communication_media/WalkApp2.jpg" width="100%" alt="Vier Screenshots von unterschiedlichen Interfaces und ‘Erlebnismodi’ (von links nach rechts): Informationen zu vorkommenden Orichideen, Audioausschnitte von Experteninterviews, Foto-Beiträge von Besucher*innen, Datenvisualisierung festgestellter Insekten.">
                 <figcaption><p class="text-end">Vier Screenshots von unterschiedlichen Interfaces und ‘Erlebnismodi’ (von links nach rechts): Informationen zu vorkommenden Orichideen, Audioausschnitte von Experteninterviews, Foto-Beiträge von Besucher*innen, Datenvisualisierung festgestellter Insekten.</p></figcaption>
             </figure>
         </div>
@@ -182,11 +182,11 @@ Im Rahmen des Forschungsprojekts Mitwelten haben wir eine Reihe von Medienformat
         </div>
         <div class="col-md-6">
             <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/Panorama1.jpg" width="100%" alt="Screenshot der ‘Panorama’ Applikation am Standort ‘Weide’ in den Merian Gärten, mit interaktiven Schaltflächen und Kartennavigation, zum Abrufen von Informationen und Messdaten.">
+                <img src="/images/interventions/communication_media/Panorama1.jpg" width="100%" alt="Screenshot der ‘Panorama’ Applikation am Standort ‘Weide’ in den Merian Gärten, mit interaktiven Schaltflächen und Kartennavigation, zum Abrufen von Informationen und Messdaten.">
                 <figcaption><p>Screenshot der ‘Panorama’ Applikation am Standort ‘Weide’ in den Merian Gärten, mit interaktiven Schaltflächen und Kartennavigation, zum Abrufen von Informationen und Messdaten.</p></figcaption>
             </figure>
             <figure>
-                <img src="/mitwelten-website/images/interventions/communication_media/Panorama2.jpg" width="100%" alt="Screenshot der ‘Panorama’ Applikation am Standort ‘Bauerngarten’ in den Merian Gärten, mitten im Fenchelbeet, mit interaktiven Schaltflächen zum Abrufen von Informationen und Messdaten.">
+                <img src="/images/interventions/communication_media/Panorama2.jpg" width="100%" alt="Screenshot der ‘Panorama’ Applikation am Standort ‘Bauerngarten’ in den Merian Gärten, mitten im Fenchelbeet, mit interaktiven Schaltflächen zum Abrufen von Informationen und Messdaten.">
                 <figcaption><p>Screenshot der ‘Panorama’ Applikation am Standort ‘Bauerngarten’ in den Merian Gärten, mitten im Fenchelbeet, mit interaktiven Schaltflächen zum Abrufen von Informationen und Messdaten.</p></figcaption>
             </figure>
         </div>

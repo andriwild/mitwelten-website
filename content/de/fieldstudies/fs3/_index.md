@@ -38,11 +38,11 @@ Die ehemaligen Bauern- und Winzerdörfer des Birstals gehören heute zur Agglome
         </div>
         <div class="col-md-6 order-md-first">
             <figure>
-                <img src="/mitwelten-website/images/fieldstudies/FS3/FS3_1.jpg" width="100%" alt="Open landscape with dry meadows, dry scrub and paths that visitors are not allowed to leave.">
+                <img src="/images/fieldstudies/FS3/FS3_1.jpg" width="100%" alt="Open landscape with dry meadows, dry scrub and paths that visitors are not allowed to leave.">
                 <figcaption><p class="text-end">Offene Landschaft mit Trockenwiesen, Trockengebüschen und Wegen, die von den Besucher*innen nicht verlassen werden dürfen. </p></figcaption>
             </figure>
             <figure>
-                <img src="/mitwelten-website/images/fieldstudies/FS3/FS3_2.jpg" width="100%" alt="Area around the new 'adventure pond' (outside the nature reserve), with infrastructure and information boards with rules for using the newly created natural swimming pool.">
+                <img src="/images/fieldstudies/FS3/FS3_2.jpg" width="100%" alt="Area around the new 'adventure pond' (outside the nature reserve), with infrastructure and information boards with rules for using the newly created natural swimming pool.">
                 <figcaption><p class="text-end">Gebiet rund um den neuen ‘Erlebnisweiher’ (ausserhalb des Naturschutzgebietes), mit Infrastrukturen und Informationstafeln mit Regeln für die Nutzung des neu eingerichteten Naturbades.</p></figcaption>
             </figure>
         </div>
@@ -82,21 +82,21 @@ Die ehemaligen Bauern- und Winzerdörfer des Birstals gehören heute zur Agglome
     <ul>
         <li>
             <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
-                href="/mitwelten-website/interventions/ecosystem">
+                href="/interventions/ecosystem">
                 Ökosystemstudien:
             </a>
             <p class="d-inline">Bird Diversity, Pollinator Diversity, Human Presence</p>
         </li>
         <li>
             <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
-                href="/mitwelten-website/interventions/communication_media">
+                href="/interventions/communication_media">
                 Vermittlungsmedien:
             </a>
             <p class="d-inline">Discover, WalkApp</p>
         </li>
         <li>
             <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"
-                href="/mitwelten-website/interventions/participatory_installations">
+                href="/interventions/participatory_installations">
                 Partizipative Installationen:
             </a>
             <p class="d-inline">Guidance System</p>

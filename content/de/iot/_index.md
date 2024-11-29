@@ -27,7 +27,7 @@ title: IOT-Toolkit
                 <figcaption><p class="text-end">PAX-Counter: geöffnete elektrische Anschlussbox mit elektronischen Bauteilen inklusive integrierter Antenne.</p></figcaption>
             </figure>
             <figure>
-                <img src="images/iot/Light-actuator.png" width="100%" alt="LED actuator: opened electrical connection box with electronic components including LED lamp ring.">
+                <img src="/images/iot/Light-actuator.png" width="100%" alt="LED actuator: opened electrical connection box with electronic components including LED lamp ring.">
                 <figcaption><p>LED-Aktuator: geöffnete elektrische Anschlussbox mit elektronischen Bauteilen inklusive LED-Lampenring.</p></figcaption>
             </figure>
         </div>

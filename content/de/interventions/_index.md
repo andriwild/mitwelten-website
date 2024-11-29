@@ -33,55 +33,55 @@ Wir haben Designstrategien entwickelt, die zu einem post-anthropozentrischen Par
         <!-- Spalte 1 -->
         <div class="col-md-3 col-sm-6 mb-5 mb-lg-0 d-flex flex-column text-center">
             <a class="link-dark link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover flex-grow-1 d-flex align-items-center justify-content-center"
-                href="/mitwelten-website/de/interventions/ecosystem"
+                href="/de/interventions/ecosystem"
                 style="min-height: 80px;">
                 <h4 class="mb-2">CITIZEN SCIENCE-BASIERTE<br>ÖKOSYSTEMSTUDIEN</h4>
             </a>
-            {{< figure src="/mitwelten-website/images/interventions/ecosystem/ecosystem_card_sm.jpg"
+            {{< figure src="/images/interventions/ecosystem/ecosystem_card_sm.jpg"
                 text="IoT Toolkit"
-                link="/mitwelten-website/de/interventions/ecosystem"
+                link="/de/interventions/ecosystem"
                 width="100%" 
                 class="mt-2" >}}
         </div>
         <div class="col-md-3 col-sm-6 mb-5 mb-lg-0 d-flex flex-column text-center">
             <a class="link-dark link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover flex-grow-1 d-flex align-items-center justify-content-center"
-                href="/mitwelten-website/de/interventions/communication_media"
+                href="/de/interventions/communication_media"
                 style="min-height: 80px;">
                 <h4 class="mb-2">VERMITTLUNGS<br>MEDIEN</h4>
             </a>
-            {{< figure src="/mitwelten-website/images/applications/panorama_card.jpg"
+            {{< figure src="/images/applications/panorama_card.jpg"
                 text="IoT Toolkit"
-                link="/mitwelten-website/de/interventions/communication_media"
+                link="/de/interventions/communication_media"
                 width="100%" 
                 class="mt-2" >}}
         </div>
         <div class="col-md-3 col-sm-6 mb-5 mb-lg-0 d-flex flex-column text-center">
             <a class="link-dark link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover flex-grow-1 d-flex align-items-center justify-content-center"
-                href="/mitwelten-website/de/interventions/interspecies_platforms"
+                href="/de/interventions/interspecies_platforms"
                 style="min-height: 80px;">
                 <h4 class="mb-2">INTERSPEZIES<br>PLATTFORMEN</h4>
             </a>
-            {{< figure src="/mitwelten-website/images/interventions/interspecies_plattform/InterspeciesOutdoorFurniture01_card_sm.jpg"
+            {{< figure src="/images/interventions/interspecies_plattform/InterspeciesOutdoorFurniture01_card_sm.jpg"
                 text="Interspecies Platforms"
-                link="/mitwelten-website/de/interventions/interspecies_platforms"
+                link="/de/interventions/interspecies_platforms"
                 width="100%" 
                 class="mt-2" >}}
         </div>
         <div class="col-md-3 col-sm-6 mb-5 mb-lg-0 d-flex flex-column text-center">
             <a class="link-dark link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover flex-grow-1 d-flex align-items-center justify-content-center"
-                href="/mitwelten-website/de/interventions/participatory_installations"
+                href="/de/interventions/participatory_installations"
                 style="min-height: 80x;">
                 <h4 class="mb-2">PARTIZIPATIVE<br>INSTALLATIONEN</h4>
             </a>
-            {{< figure src="/mitwelten-website/images/interventions/participatory_installations/Leitsystem01_card_sm.jpg"
+            {{< figure src="/images/interventions/participatory_installations/Leitsystem01_card_sm.jpg"
                 text="Interspecies Platforms"
-                link="/mitwelten-website/de/interventions/participatory_installations"
+                link="/de/interventions/participatory_installations"
                 width="100%" 
                 class="mt-2" >}}
         </div>
     </div>
 </div>
 
-<figure class="text-center"> <img src="/mitwelten-website/images/logo/mitwelten_logo.png" width="80%"> </figure>
+<figure class="text-center"> <img src="/images/logo/mitwelten_logo.png" width="80%"> </figure>
 
 {{< /blocks/section >}}

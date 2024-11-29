@@ -40,7 +40,7 @@ Um die Frage nach der Gestaltung und Integration IoT-basierter Infrastrukturen z
             <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" href="fs1">
                 <h4 class="mb-4">FS1</br>MERIAN GÄRTEN</h4>
             </a>
-            {{< figure src="/mitwelten-website/images/fieldstudies/merian.png" 
+            {{< figure src="/images/fieldstudies/merian.png" 
                 text="Meriangärten" 
                 link="fs1" 
                 width="100%" 
@@ -57,7 +57,7 @@ Um die Frage nach der Gestaltung und Integration IoT-basierter Infrastrukturen z
             <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" href="fs2">
                 <h4 class="mb-4">FS2</br>DREISPITZ</h4>
             </a>
-            {{< figure src="/mitwelten-website/images/fieldstudies/dreispitz.png" 
+            {{< figure src="/images/fieldstudies/dreispitz.png" 
                 text="Merian Gardens" 
                 link="fs2" 
                 width="100%"
@@ -74,7 +74,7 @@ Um die Frage nach der Gestaltung und Integration IoT-basierter Infrastrukturen z
             <a class="link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover" href="fs3">
                 <h4 class="mb-4">FS3</br>REINACHER HEIDE</h4>
             </a>
-            {{< figure src="/mitwelten-website/images/fieldstudies/reinach.png" 
+            {{< figure src="/images/fieldstudies/reinach.png" 
                 text="Merian Gardens" 
                 link="fs3" 
                 width="100%"

@@ -48,11 +48,11 @@ Eine genauere Beschreibung der Konzepte, Unterrichtseinheiten und umgesetzten Pr
         </div>
         <div class="col-md-6 order-md-first">
             <figure>
-                <img src="/mitwelten-website/images/interventions/interspecies_plattform/InterspeciesOutdoorFurniture01.jpg" width="100%" alt="Design-Interventionen von HGK-Studierenden auf dem FHNW-Campus in Brugg-Windisch während des Semesterprojekts ‘SociaLandscapes’ (2023).">
+                <img src="/images/interventions/interspecies_plattform/InterspeciesOutdoorFurniture01.jpg" width="100%" alt="Design-Interventionen von HGK-Studierenden auf dem FHNW-Campus in Brugg-Windisch während des Semesterprojekts ‘SociaLandscapes’ (2023).">
                 <figcaption><p class="text-end">Design-Interventionen von HGK-Studierenden auf dem FHNW-Campus in Brugg-Windisch während des Semesterprojekts ‘SociaLandscapes’ (2023).</p></figcaption>
             </figure>
             <figure>
-                <img src="/mitwelten-website/images/interventions/interspecies_plattform/InterspeciesOutdoorFurniture02.jpg" width="100%" alt="Design-Intervention von HGK-Studierenden auf dem FHNW-Campus in Brugg-Windisch: Projekt “Der Auftakt” (2023), Präsentation von unscheinbaren aber ökologisch wichtigen Kleintieren im Zoo-Format. ">
+                <img src="/images/interventions/interspecies_plattform/InterspeciesOutdoorFurniture02.jpg" width="100%" alt="Design-Intervention von HGK-Studierenden auf dem FHNW-Campus in Brugg-Windisch: Projekt “Der Auftakt” (2023), Präsentation von unscheinbaren aber ökologisch wichtigen Kleintieren im Zoo-Format. ">
                 <figcaption><p class="text-end">Design-Intervention von HGK-Studierenden auf dem FHNW-Campus in Brugg-Windisch: Projekt “Der Auftakt” (2023), Präsentation von unscheinbaren aber ökologisch wichtigen Kleintieren im Zoo-Format. </p></figcaption>
             </figure>
         </div>
@@ -90,11 +90,11 @@ Eine detailliertere Beschreibung der durchgeführten Aktionen, der implementiert
         </div>
         <div class="col-md-6">
             <figure>
-                <img src="/mitwelten-website/images/interventions/interspecies_plattform/HackedInfrastructure01.jpg" width="100%" alt="Designintervention von Studierenden auf dem HGK Campus: “Vernetzungskorridor” (2023), Aufruf zur Renaturierung der asphaltierten Gleistrassen.">
+                <img src="/images/interventions/interspecies_plattform/HackedInfrastructure01.jpg" width="100%" alt="Designintervention von Studierenden auf dem HGK Campus: “Vernetzungskorridor” (2023), Aufruf zur Renaturierung der asphaltierten Gleistrassen.">
                 <figcaption><p>Designintervention von Studierenden auf dem HGK Campus: “Vernetzungskorridor” (2023), Aufruf zur Renaturierung der asphaltierten Gleistrassen.</p></figcaption>
             </figure>
             <figure>
-                <img src="/mitwelten-website/images/interventions/interspecies_plattform/HackedInfrastructure02.jpg" width="100%" alt="Designintervention von Studierenden auf dem HGK Campus: 'Seed Sculpture' (2023), Kunst als vergänglicher Biodiveritätsförderer.">
+                <img src="/images/interventions/interspecies_plattform/HackedInfrastructure02.jpg" width="100%" alt="Designintervention von Studierenden auf dem HGK Campus: 'Seed Sculpture' (2023), Kunst als vergänglicher Biodiveritätsförderer.">
                 <figcaption><p>Designintervention von Studierenden auf dem HGK Campus: "Seed Sculpture" (2023), Kunst als vergänglicher Biodiveritätsförderer.</p></figcaption>
             </figure>
         </div>
@@ -132,11 +132,11 @@ Eine detailliertere Beschreibung der Konzepte und der umgesetzten Prototypen fin
         </div>
         <div class="col-md-6 order-md-first">
             <figure>
-                <img src="/mitwelten-website/images/interventions/interspecies_plattform/SteppingStoneHabitats01.jpg" width="100%" alt="Designintervention von Studierenden auf dem HGK Campus (2023): Modul Pflanzenrabatte des modularen 'Trittsteinwelten' Systems.">
+                <img src="/images/interventions/interspecies_plattform/SteppingStoneHabitats01.jpg" width="100%" alt="Designintervention von Studierenden auf dem HGK Campus (2023): Modul Pflanzenrabatte des modularen 'Trittsteinwelten' Systems.">
                 <figcaption><p class="text-end">Designintervention von Studierenden auf dem HGK Campus: "Trittsteinwelten" (2023), modulares System zur biodiversitätsfördernden Erweiterung bestehender Infrastrukturen.</p></figcaption>
             </figure>
             <figure>
-                <img src="/mitwelten-website/images/interventions/interspecies_plattform/SteppingStoneHabitat02.jpg" width="100%" alt="Designintervention von Studierenden auf dem HGK Campus: "Trittsteinwelten" (2023), modulares System zur biodiversitätsfördernden Erweiterung bestehender Infrastrukturen.">
+                <img src="/images/interventions/interspecies_plattform/SteppingStoneHabitat02.jpg" width="100%" alt="Designintervention von Studierenden auf dem HGK Campus: "Trittsteinwelten" (2023), modulares System zur biodiversitätsfördernden Erweiterung bestehender Infrastrukturen.">
                 <figcaption><p class="text-end">Designintervention von Studierenden auf dem HGK Campus (2023): Modul Pflanzenrabatte des modularen "Trittsteinwelten" Systems.</p></figcaption>
             </figure>
         </div>
